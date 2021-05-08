@@ -13,14 +13,7 @@ url: "https://esporo.net"
 baseurl: ""
 
 # Content settings
-theme: jekyll-theme-charlie
-
-charlie:
-  hide_site_title: true
-  date_formats:
-    day: "%d/%m/%Y"
-    month: "%m/%Y"
-    year: "%Y"
+theme: steve-for-jekyll
 
 # Build settings
 incremental: true
@@ -42,7 +35,7 @@ keep_files:
   - assets/icons
   - assets/images
   - assets/js
-  
+
 plugins:
   - jekyll-octicons
 
