@@ -1,81 +1,75 @@
 ---
-# Hello, Jekyll!
 ---
 
-$base-font-family: "SPORE", sans-serif;
-$content-font-family: "esporo-body", sans-serif;
-$color-accent: #2987c7;
-
-@import "fonts";
 @import "{{ site.theme }}";
 
-body {
-  border-top: 4px solid $color-accent;
-  background-image: url("/assets/images/bg.jpg");
-  background-position: center top;
-  background-repeat: repeat-x;
-}
+.archive-section {
+  margin-top: calc(var(--gap) * 2);
 
-.main_menu {
-  ul {
+  .archive-title {
+    margin-bottom: var(--gap);
+  }
+
+  .tags-list {
+    list-style: none;
+    margin-left: 0;
+
     li {
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      font-weight: 400;
-      
-      @include media-query($on-palm) {
-        white-space: nowrap;
+      display: inline-block;
+      line-height: 1.7;
+
+      .tag-count {
+        font-size: 0.875rem;
+      }
+
+      &:not(:last-child) {
+        &::after {
+          font-size: 0.875rem;
+          content: "/";
+          padding-left: 5px;
+          padding-right: 5px;
+          color: var(--color-details);
+        }
       }
     }
   }
 }
 
-.content {
-  .content_header {
-    .content_title {
-      font-weight: 400;
-    }
-  }
-  
-  .content_body {
-    a {
-      text-decoration-thickness: 2px;
-      
-      &:hover,
-      &:focus {
-        background: none;
-        color: $color-accent;
-      }
-    }
-  }
+body {
+  background-image: url("/assets/images/bg1.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
-.widget_title {
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+.stats-title {
+  font-weight: normal;
 }
 
-.tags_list {
-  list-style: none;
+.stats-list {
   margin-left: 0;
-  padding-left: 0;
-  font-family: $base-font-family;
+  list-style: none;
+  margin-top: calc(var(--gap) / 2);
+  margin-bottom: calc(var(--gap) / 2);
+  font-size: 0.875rem;
 
   li {
-    display: inline-block;
-  
-    &:not(:last-child) {
-      &::after {
-        padding-left: $spacing-unit / 4;
-        padding-right: $spacing-unit / 4;
-        content: "/";
-        color: rgba($color-text, 0.2);
-      } 
-    }
-    
-    .tag_count {
-      @include relative-font-size(0.875);
+    padding-top: calc(var(--gap) / 2);
+    padding-bottom: calc(var(--gap) / 2);
+    border-top: 1px solid var(--color-details-lighter);
+
+    &:last-child {
+      border-bottom: 1px solid var(--color-details-lighter);
     }
   }
+}
+
+.stats-credits {
+  font-size: 0.75rem;
+}
+
+.colophon,
+.colophon .external-links .link a {
+  color: var(--color-bg);
+  text-shadow: 2px 2px 2px var(--color-details-darker);
 }

@@ -1,9 +1,8 @@
 gaboo:
   name: Gaboo
   url: "https://forum.esporo.net/u/gaboo"
-  picture: "https://forum.esporo.net/assets/avatars/5tpp2wapoxx2zeax.png"
-
+  twitter: arthrfrts
 esporo:
-  name: Esporo
-  url: "https://forum.esporo.net/u/esporo"
-  picture: "https://forum.esporo.net/assets/avatars/vtdkhupktwvryowb.png"
+  name: "Time Esporo"
+  url: "https://esporo.net"
+  twitter: esporo

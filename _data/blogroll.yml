@@ -1,0 +1,28 @@
+- title: Links oficiais
+  links:
+    - title: Spore.com
+      url: "https://www.spore.com/"
+      external: true
+    - title: Sporepédia
+      url: "https://www.spore.com/sporepedia"
+      external: true
+    - title: Compre Spore na GOG
+      url: "http://www.gog.com/game/spore_collection"
+      external: true
+- title: Parceiros
+  links:
+    - title: Alala Sims
+      url: "https://www.alalasims.com/"
+      external: true
+    - title: Spore Tips
+      url: "https://sporetips.blogspot.com"
+      external: true
+    - title: SporeModding
+      url: "https://sporemodding.wordpress.com"
+      external: true
+    - title: Simtropolis
+      url: "https://www.simtropolis.com"
+      external: true
+    - title: BeyondSims
+      url: "https://www.beyondsims.com"
+      external: true

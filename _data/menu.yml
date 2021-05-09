@@ -1,18 +1,18 @@
 - title: Notícias
   url: "/"
 - title: Fórum
-  url: "https://forum.esporo.net/"
+  url: https://forum.esporo.net
   external: true
-- title: Guia Galáctico
-  url: "https://guia.esporo.net/"
+  color: "#b1cd49"
 - title: O que é Spore?
-  url: "https://guia.esporo.net/wiki/Spore"
-  external: true
-- title: Dicas e Truques
-  url: "/dicas/"
+  url: https://guia.esporo.net/
+  color: "#f4932f"
+- title: Dicas & Truques
+  url: /dicas/
+  color: "#2361a7"
 - title: Downloads
-  url: "/downloads/"
-- title: Arquivo
-  url: "/arquivo/"
+  url: /downloads/
+  color: "#ca0088"
 - title: Sobre
-  url: "/sobre/"
+  url: /sobre/
+  color: "#5B308D"

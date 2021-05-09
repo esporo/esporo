@@ -2,12 +2,9 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2"
 
-gem "jekyll-theme-charlie", "~> 1.0"
+gem "jekyll-octicons", "~> 13.0", :group => :jekyll_plugins
 
-group :jekyll_plugins do
-  gem "jekyll-compose", "~> 0.12.0"
-end
+gem "steve-for-jekyll", "~> 1.0"
 
-gem "jekyll-octicons", "~> 11.2", :group => :":jekyll_plugins"
-
-gem "webrick", "~> 1.7"
+gem "jekyll-compose", "~> 0.12.0", :group => :development
+gem "jekyll-admin", "~> 0.11.0", :group => :development
