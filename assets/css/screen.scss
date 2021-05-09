@@ -1,6 +1,16 @@
 ---
 ---
 
+@import "fonts";
+
+$font__headings: 'SPORE', sans-serif;
+
+.site-title,
+.content-title,
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
 @import "{{ site.theme }}";
 
 .archive-section {
