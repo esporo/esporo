@@ -16,7 +16,7 @@ Hoje, quase quinze anos depois, o Esporo se posiciona como o maior núcleo de in
 
 ## Entre em contato
 
-Você pode entrar em contato com a equipe do Esporo através do email **contato @ esporo.net**.
+Você pode entrar em contato com a equipe do Esporo através do email `contato@esporo.net`.
 
 A equipe do Esporo também está sempre disponível no [Fórum Esporo](https://forum.esporo.net/). É só mencionar o `@esporo` que um membro da equipe vai entrar em contato.
 
@@ -26,11 +26,11 @@ O Esporo também está no [Twitter](https://twitter.com/esporo) e no [Facebook](
 
 ## Privacidade
 
-O Esporo leva sua privacidade a sério. Utilizamos um serviço de estatísticas de acesso chamado [Gauges](https://gaug.es/), que interpreta apenas o tipo de informação que o seu navegador envia — coisas como resolução da tela, versão do navegador, sistema operacional e qual link o trouxe até esse site. Nós não coletamos o seu endereço de IP, apenas as informações de geolocalização oferecidas pelo seu sistema operacional. Essa informação é apagada regularmente, e apenas uma estatística é mantida. Nós tomamos precauções para que essa informação esteja sempre protegida.
+O Esporo respeita a sua privacidade. O site não rastreia as visitas, e seu endereço de IP ou qualquer informação do seu navegador não está sendo armazenada no servidor do site ou em serviços de terceiros — a única coisa que o Esporo avalia é quantas vezes uma página foi requisitada nos servidores do site. Essa informação é usada para entender quais textos do site são mais lidos, e qual o tamanho da audiência.
 
-Você pode optar por bloquear o acesso do Esporo à essas informações a qualquer momento. Em navegadores como o Safari e o Firefox, você pode ativar os controles de segurança na barra de endereço. Nós não temos informações de como fazer isso no Chrome.
+A busca do site utiliza o [DuckDuckGo](https://duck.com) como provedor. O Duck não guarda histórico de buscas nem rastreia os seus cliques, e é uma boa alternativa ao Google, se você está procurando uma.
 
-Nós usamos essa informação apenas para entender que tipo de tecnologia nossos leitores usam e o tamanho de nossa audiência. Por exemplo, essa informação é útil na hora de desenvolver um novo recurso para o site e sabermos quais navegadores devem ser testados para atender senão toda, ao menos a maioria da audiência.
+Infelizmente, não temos controle sobre a forma que sites incorporados — como o YouTube e o Spotify — obtém dados sobre o seu acesso à internet através do nosso site. Por isso a gente encoraja o uso de navegadores que respeitam e protegem sua privacidade: o Firefox, o Edge ou o Safari.
 
 ---
 
