@@ -1,0 +1,43 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-image: url("/assets/images/bg1.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.stats-title {
+  font-weight: normal;
+}
+
+.stats-list {
+  margin-left: 0;
+  list-style: none;
+  margin-top: calc(var(--gap) / 2);
+  margin-bottom: calc(var(--gap) / 2);
+  font-size: 0.875rem;
+
+  li {
+    padding-top: calc(var(--gap) / 2);
+    padding-bottom: calc(var(--gap) / 2);
+    border-top: 1px solid var(--color-details-lighter);
+
+    &:last-child {
+      border-bottom: 1px solid var(--color-details-lighter);
+    }
+  }
+}
+
+.stats-credits {
+  font-size: 0.75rem;
+}
+
+.colophon,
+.colophon .external-links .link a {
+  color: var(--color-bg);
+  text-shadow: 2px 2px 2px var(--color-details-darker);
+}
