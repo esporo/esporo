@@ -7,15 +7,20 @@ title: Arquivo de Notícias
 
 {% include search-form.html %}
 
-<h2>Tags</h2>
+<section class="archive-section">
 
-<ul class="tags_list">
-  {% for tag in site.tags %}
-    {%- assign tag_slug = tag | first | slugify -%}
-    {%- assign tag_url = site.jekyll-archives.permalinks.tag | replace: ":name", tag_slug -%}
+  <h2 class="archive-title tags-title">Tags</h2>
 
-    <li>
-      <a style="font-size: {{ tag.last | size | times: 0.001 | plus: 1 }}rem" href="{{ tag_url }}" rel="tag">{{ tag | first }}</a> <span class="tag_count">({{ tag.last | size }})</span>
-    </li>
-  {% endfor %}
-</ul>
+  <ul class="tags-list">
+    {% for tag in site.tags %}
+      {%- assign tag_slug = tag | first | slugify -%}
+      {%- assign tag_url = site.jekyll-archives.permalinks.tag | replace: ":name", tag_slug -%}
+
+      <li>
+        <a style="font-size: {{ tag.last | size | times: 0.001 | plus: 1 }}rem" href="{{ tag_url }}" rel="tag">{{ tag | first }}</a> <span class="tag-count">({{ tag.last | size }})</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+</section>

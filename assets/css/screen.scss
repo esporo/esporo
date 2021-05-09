@@ -3,6 +3,38 @@
 
 @import "{{ site.theme }}";
 
+.archive-section {
+  margin-top: calc(var(--gap) * 2);
+
+  .archive-title {
+    margin-bottom: var(--gap);
+  }
+
+  .tags-list {
+    list-style: none;
+    margin-left: 0;
+
+    li {
+      display: inline-block;
+      line-height: 1.7;
+
+      .tag-count {
+        font-size: 0.875rem;
+      }
+
+      &:not(:last-child) {
+        &::after {
+          font-size: 0.875rem;
+          content: "/";
+          padding-left: 5px;
+          padding-right: 5px;
+          color: var(--color-details);
+        }
+      }
+    }
+  }
+}
+
 body {
   background-image: url("/assets/images/bg1.jpg");
   background-position: center center;
