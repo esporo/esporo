@@ -1,0 +1,18 @@
+- title: Notícias
+  url: "/"
+- title: Fórum
+  url: https://forum.esporo.net
+  external: true
+  color: "#b1cd49"
+- title: O que é Spore?
+  url: https://guia.esporo.net/
+  color: "#f4932f"
+- title: Dicas & Truques
+  url: /dicas/
+  color: "#2361a7"
+- title: Downloads
+  url: /downloads/
+  color: "#ca0088"
+- title: Sobre
+  url: /sobre/
+  color: "#5B308D"

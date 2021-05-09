@@ -1,4 +1,4 @@
-# Site Settings
+# Site settings
 title: Esporo
 tagline: A comunidade brasileira de Spore
 description: >-
@@ -12,21 +12,37 @@ email: contato@esporo.net
 url: "https://esporo.net"
 baseurl: ""
 
-# Content settings
-theme: steve-for-jekyll
 
 # Build settings
-incremental: true
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "gaboo"
-
+theme: steve-for-jekyll
+markdown: kramdown
 permalink: "/:year/:month/:title/"
+
+steve:
+  intensedebate_account: "fce4e4ea9d246af83527b77b02a8bea1"
+  archives:
+    date: "Posts de"
+    tag: "Mais posts sobre…"
+    category: "Posts arquivados em"
+  date_formats:
+    post: "%d/%m/%Y"
+    archives:
+      day: "%d/%m/%Y"
+      month: "%m/%Y"
+      year: "%Y"
+  page_404: |+
+    A página que você está procurando náo foi encontrada nessa URL. Por favor, tente buscar por ela ou [volte para a página inicial](https://esporo.net/).
+  pagination:
+    next_page: "&laquo; Posts mais recentes"
+    prev_page: "Posts anteriores &raquo;"
+    prev_post: "Anterior:"
+    next_post: "Próximo:"
+  post:
+    tags: "Mais posts sobre…"
+  search:
+    label: "Pesquisar"
+    placeholder: "O que você está procurando?"
+    submit: "Pesquisar"
 
 keep_files:
   - favicon.ico
@@ -39,10 +55,12 @@ keep_files:
 plugins:
   - jekyll-octicons
 
+
 # Plugin: jekyll-paginate
 paginate: 5
 paginate_path: "/pagina/:num/"
 seo_paginator_message: "Página %<current>s de %<total>s / "
+
 
 # Plugin: jekyll-seo-tag
 google_site_verification: "HvEDdWfesPnf99AxWv1yVL_bZfKiGp9XYmGcVz-ZJS4"
@@ -58,15 +76,14 @@ social:
     - https://www.youtube.com/user/esporotv
     - https://www.facebook.com/esporo
 
-# Plugin: jekyll-archives
-jekyll-archives:
-  enabled:
-    - tags
-    - year
-    - month
-  layout: "archive"
-  slug_mode: default
-  permalinks:
-    tag: "/tags/:name/"
-    year: "/:year/"
-    month: "/:year/:month/"
+
+# Plugin: jekyll-compose
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    drafts:
+      author: gaboo
+      tags:
+    posts:
+      author: gaboo
+      tags:
