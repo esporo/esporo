@@ -6,9 +6,10 @@ category: EA
 tags:
   - EA
   - E3
-  - EA Play
+  - EA Play Live
   - eventos
 ---
+
 Assim como a Nintendo nos últimos anos, a Electronic Arts anunciou que não fará uma apresentação na E3 desse ano, mas vai produzir um evento exclusivo da empresa ao invés.
 
 O EA Play, como se chama o evento, ocorrerá no Club Nokia em Los Angeles dos dias 12 a 14 de junho. No primeiro dia, uma apresentação ocorrerá em Londres. Segundo o anúncio, todo o evento será transmitido online pela EA, com promoções especiais para aqueles acompanhando via internet.
