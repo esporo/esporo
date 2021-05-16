@@ -50,4 +50,11 @@ prose:
           placeholder: Start typing to choose or add tags
           options: "https://esporo.net/assets/data/tags.jsonp?callback=tags"
           alterable: true
+      - name: category
+        field: 
+          element: select
+          label: Category
+          placeholder: Start typing to choose or add a category.
+          options: "https://esporo.net/assets/data/categories.jsonp?callback=categories"
+          alterable: true
         
