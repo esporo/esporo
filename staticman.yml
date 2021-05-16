@@ -1,7 +1,7 @@
 comments:
   name: esporo
   branch: main
-  comment: "Novo comentário"
+  commitMessage: "adiciona novo comentário"
   path: "_data/comments/{options.slug}"
   filename: "comment-{@timestamp}"
   format: yaml
