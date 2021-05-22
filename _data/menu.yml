@@ -1,9 +1,7 @@
 - title: Notícias
   url: "/arquivo/"
-- title: Discord
-  url: "https://discord.gg/jrFNFAnfvV"
-# - title: Fórum
-#   url: https://forum.esporo.net
+- title: Fórum
+  url: "https://forum.esporo.net/"
   external: true
   color: "#b1cd49"
 - title: O que é Spore?
