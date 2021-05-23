@@ -4,6 +4,7 @@
 @import "fonts";
 
 $font__headings: 'SPORE', sans-serif;
+$color__text: #6d6e70;
 
 .site-title,
 .content-title,
@@ -46,10 +47,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-  background-image: url("/assets/images/bg1.jpg");
+  background-image: url("/assets/images/bg_pattern.jpg");
   background-position: center center;
-  background-attachment: fixed;
-  background-size: cover;
+  background-size: 300px;
+  background-repeat: repeat;
 }
 
 .stats-title {
