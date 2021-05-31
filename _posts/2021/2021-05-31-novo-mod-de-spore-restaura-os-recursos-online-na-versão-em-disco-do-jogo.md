@@ -2,6 +2,8 @@
 layout: post
 title: Novo mod de Spore restaura os recursos online na versão em disco do jogo
 author: gaboo
+date: "2021-05-31 20:46 -0300"
+category: Spore
 tags:
   - Spore
   - downloads
