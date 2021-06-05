@@ -28,6 +28,6 @@ Remova os `<>` e substitua `cor` por uma das opções:
 - `pink` (especiaria rosa)
 - `purple` (especiaria roxa)
 
-Você pode [fazer o download do Change Spice aqui (`**.sporemod**, 15.6 kb`)](https://github.com/VanillaCold/Spore-ChangeSpice/releases/download/0.1/changeSpice.sporemod). 
+Você pode [fazer o download do Change Spice aqui `(.sporemod, 15.6 kb)`](https://github.com/VanillaCold/Spore-ChangeSpice/releases/download/0.1/changeSpice.sporemod). 
 
 É necessário usar o [Spore ModAPI Launcher Kit](http://davoonline.com/sporemodder/rob55rod/ModAPI/Public/) para instalar esse mod.
