@@ -4,14 +4,12 @@ tagline: A comunidade brasileira de Spore
 description: >-
   Comunidade para jogadores de Spore, com conteúdos personalizados para download; tutoriais; fóruns de discussão e suporte; e as últimas notícias sobre o jogo.
 logo: "/assets/images/logo.png"
-
 lang: pt-BR
 timezone: "America/Sao_Paulo"
 
 email: contato@esporo.net
 url: "https://esporo.net"
 baseurl: ""
-
 
 # Build settings
 theme: steve-for-jekyll
@@ -67,6 +65,13 @@ comments:
       placeholder: Seu comentário
     submit: Enviar comentário
 
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+
 keep_files:
   - favicon.ico
   - uploads
@@ -78,12 +83,10 @@ keep_files:
 plugins:
   - jekyll-octicons
 
-
 # Plugin: jekyll-paginate
 paginate: 5
 paginate_path: "/pagina/:num/"
 seo_paginator_message: "Página %<current>s de %<total>s / "
-
 
 # Plugin: jekyll-seo-tag
 google_site_verification: "HvEDdWfesPnf99AxWv1yVL_bZfKiGp9XYmGcVz-ZJS4"
@@ -98,7 +101,6 @@ social:
     - https://twitter.com/esporo
     - https://www.youtube.com/user/esporotv
     - https://www.facebook.com/esporo
-
 
 # Plugin: jekyll-compose
 jekyll_compose:
