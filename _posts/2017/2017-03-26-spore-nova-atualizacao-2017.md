@@ -1,15 +1,18 @@
 ---
-date: "2017-03-26 21:52:54 -0300"
+date: '2017-03-26 21:52:54 -0300'
+author: gaboo
+layout: post
 title: Spore recebe uma nova atualização para corrigir certificado de segurança
 category: Spore
 tags:
   - Spore
-  - atualizações
-  - status de serviço
   - serviços online
   - Sporepédia
+  - status de serviço
+  - atualizações
   - Aventuras Galácticas
   - Medonhas & Fofinhas
+published: true
 ---
 
 Depois de oito anos sem novidades, Spore acabou de receber uma nova atualização.
