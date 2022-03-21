@@ -13,5 +13,6 @@
       "script" : "#!\/bin\/sh\nbundle exec jekyll serve -l --drafts"
     }
   },
-  "identifier" : "350615B6-75C3-4466-82B1-04EA1A892718"
+  "identifier" : "350615B6-75C3-4466-82B1-04EA1A892718",
+  "openLogOnRun" : "start"
 }
