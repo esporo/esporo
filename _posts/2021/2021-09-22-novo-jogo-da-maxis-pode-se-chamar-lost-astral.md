@@ -5,6 +5,7 @@ author: gaboo
 tags:
   - Maxis
   - rumores
+  - Lost Astral
 date: 2021-09-22 15:01 -0300
 ---
 
