@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.2"
 gem "steve-for-jekyll", "~> 1.2"
 
-gem "jekyll-octicons", "~> 17.2", :group => :jekyll_plugins
+gem "jekyll-octicons", "~> 17.3", :group => :jekyll_plugins
 gem "jekyll-compose", "~> 0.12.0", :group => :jekyll_plugins
 
 
