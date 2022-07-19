@@ -95,7 +95,7 @@ GEM
       webrick (~> 1.7)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    tzinfo (2.0.4)
+    tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2022.1)
       tzinfo (>= 1.0.0)
@@ -116,7 +116,7 @@ DEPENDENCIES
   jekyll-compose (~> 0.12.0)
   jekyll-octicons (~> 17.3)
   steve-for-jekyll (~> 1.2)
-  tzinfo (~> 2.0.4)
+  tzinfo (~> 2.0.5)
   tzinfo-data
   wdm (~> 0.1.1)
 
