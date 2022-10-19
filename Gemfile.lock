@@ -80,7 +80,7 @@ GEM
       ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
-    steve-for-jekyll (1.2.1)
+    steve-for-jekyll (1.2.2)
       jekyll (~> 4.2)
       jekyll-archives (~> 2.2)
       jekyll-feed (~> 0.16)
