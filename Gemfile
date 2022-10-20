@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2"
+gem "jekyll", "~> 4.3"
 gem "steve-for-jekyll", "~> 1.2"
 
 gem "jekyll-octicons", "~> 17.6", :group => :jekyll_plugins
