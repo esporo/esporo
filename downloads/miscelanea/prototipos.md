@@ -12,7 +12,7 @@ Durante o desenvolvimento de Spore diversos protótipos foram desenvolvidos para
 
 ## Cultura Celular
 
-[{% octicon desktop-download %} Cell Culture `(TAR 165.78kb)`](https://cloudup.com/files/isvl0SvsTc5/download)
+[⬇ Cell Culture `(TAR 165.78kb)`](https://cloudup.com/files/isvl0SvsTc5/download)
 
 <img alt="Globo pontilhado com representações celulares" src="/uploads/2019/07/cellculture.jpg" align="center" role="presentation" />
 
@@ -26,7 +26,7 @@ A vida se desenvolve e se espalha de célula para célula de acordo com essas va
 
 ## Labirinto Humano
 
-[{% octicon desktop-download %} City Maze `(TAR 183.95kb)`](https://cloudup.com/files/i5BzD_KN9N0/download)
+[⬇ City Maze `(TAR 183.95kb)`](https://cloudup.com/files/i5BzD_KN9N0/download)
 
 <img alt="Globo pontilhado com representações celulares" src="/uploads/2019/07/citymaze.jpg" align="center" role="presentation" />
 
@@ -40,7 +40,7 @@ Felizes, seguros e descansados, as criaturas se multiplicarão e produzirão mai
 
 ## BIOMA
 
-[{% octicon desktop-download %} BIOME `(TAR 181.06kb)`](https://cloudup.com/files/iIOUXjHJp2A/download)
+[⬇ BIOME `(TAR 181.06kb)`](https://cloudup.com/files/iIOUXjHJp2A/download)
 
 <img alt="Representação de uma galáxia feita com o BIOME" src="/uploads/2019/07/biome.jpg" align="center" role="presentation" />
 
@@ -58,7 +58,7 @@ O BIOMA suporta configurações de automação celular retangulares e em espirai
 
 ## Homem-Partícula
 
-[{% octicon desktop-download %} ParticleMan `(TAR 208.84kb)`](https://cloudup.com/files/iNaTr6qrblG/download)
+[⬇ ParticleMan `(TAR 208.84kb)`](https://cloudup.com/files/iNaTr6qrblG/download)
 
 <img alt="Distribuição de partículas em um gráfico tridimensional" src="/uploads/2019/07/particleman.jpg" align="center" role="presentation" />
 
@@ -81,7 +81,7 @@ Divirta-se brincando com os controles de física para criar diferentes tipos de 
 
 ## Espaço
 
-[{% octicon desktop-download %} Space `(TAR 18.1mb)`](https://cloudup.com/files/iWk8Gdh9JRd/download)
+[⬇ Space `(TAR 18.1mb)`](https://cloudup.com/files/iWk8Gdh9JRd/download)
 
 <img alt="Representação de uma galáxia onde as estrelas são pontos coloridos" src="/uploads/2019/07/space.jpg" align="center" role="presentation" />
 
@@ -93,7 +93,7 @@ Colônias bem-sucedidas proporcionam mais recursos e renda para o jogador, que p
 
 ## SPUG
 
-[{% octicon desktop-download %} SPUG `(TAR 210.34kb)`](https://cloudup.com/files/i0wOQQu023q/download)
+[⬇ SPUG `(TAR 210.34kb)`](https://cloudup.com/files/i0wOQQu023q/download)
 
 <img alt="Imagem do protótipo" src="/uploads/2019/07/spug.jpg" align="center" role="presentation" />
 
@@ -107,7 +107,7 @@ Não há nenhuma limitação para o desenvolvimento de habilidades, mesmo que se
 
 ## Crowd
 
-[{% octicon desktop-download %} Crowd `(TAR 374.9kb)`](https://cloudup.com/files/i7nWfG1htGg/download)
+[⬇ Crowd `(TAR 374.9kb)`](https://cloudup.com/files/i7nWfG1htGg/download)
 
 <img alt="Imagem do protótipo" src="/uploads/2019/07/crowd.jpg" align="center" role="presentation" />
 
@@ -121,7 +121,7 @@ O jogador pode zonear os quarteirões não-zoneados (em cinza) para atrair sims 
 
 ## Gaslight
 
-[{% octicon desktop-download %} Gaslight `(TAR 213.63kb)`](https://cloudup.com/files/iZqDgdz3rhN/download)
+[⬇ Gaslight `(TAR 213.63kb)`](https://cloudup.com/files/iZqDgdz3rhN/download)
 
 <img alt="Imagem do protótipo" src="/uploads/2019/07/gaslight.jpg" align="center" role="presentation" />
 
@@ -135,7 +135,7 @@ Quando a estrela se incendeia, aquece o material ao redor, que se afasta da estr
 
 ## NetCity
 
-[{% octicon desktop-download %} NetCity `(TAR 259.14kb)`](https://cloudup.com/files/igQAviU-a1t/download)
+[⬇ NetCity `(TAR 259.14kb)`](https://cloudup.com/files/igQAviU-a1t/download)
 
 <img alt="Imagem do protótipo" src="/uploads/2019/07/netcity.jpg" align="center" role="presentation" />
 
@@ -150,7 +150,7 @@ O NetCity foi inspirado pelo Soda Constructor ([sodaplay.com](http://sodaplay.co
 ## GozangoGL
 
 
-[{% octicon desktop-download %} GozangoGL `(TAR 45.1mb)`](https://cloudup.com/files/iG68jNR7IMJ/download)
+[⬇ GozangoGL `(TAR 45.1mb)`](https://cloudup.com/files/iG68jNR7IMJ/download)
 
 <img alt="Imagem do protótipo" src="/uploads/2019/07/gozango.jpg" align="center" role="presentation" />
 
@@ -164,7 +164,7 @@ GonzagoGL foi o protótipo final de jogabilidade desenvolvido para o Spore.
 
 ## WaterBoy
 
-[{% octicon desktop-download %} WaterBoy `(TAR 3.52mb)`](https://cloudup.com/files/ifvKfb27vPF/download)
+[⬇ WaterBoy `(TAR 3.52mb)`](https://cloudup.com/files/ifvKfb27vPF/download)
 
 <img alt="Imagem do protótipo" src="/uploads/2019/07/waterboy.jpg" align="center" role="presentation" />
 
@@ -176,7 +176,7 @@ Desenvolvido em 2002, o Waterboy também demonstra a aplicação inicial da tecn
 
 ## Poça Primordial
 
-[{% octicon desktop-download %} Tidepool `(TAR 204.89kb)`](https://cloudup.com/files/inhX-6uFCc9/download)
+[⬇ Tidepool `(TAR 204.89kb)`](https://cloudup.com/files/inhX-6uFCc9/download)
 
 <img alt="Imagem do protótipo" src="/uploads/2019/07/tidepool.jpg" align="center" role="presentation" />
 
@@ -190,7 +190,7 @@ A Poça Primordial combina uma simulação de incêndio florestal do BIOMA com a
 
 ## TextureBox
 
-[{% octicon desktop-download %} Texture_Box `(TAR 133.95kb)`](https://cloudup.com/files/iQ7Ybaz2eHD/download)
+[⬇ Texture_Box `(TAR 133.95kb)`](https://cloudup.com/files/iQ7Ybaz2eHD/download)
 
 <img alt="Imagem do protótipo" src="/uploads/2019/07/texturebox.jpg" align="right" role="presentation" />
 

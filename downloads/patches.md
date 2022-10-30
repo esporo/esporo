@@ -14,7 +14,7 @@ Os arquivos disponíveis aqui são instaladores para a versão em disco do Spore
 
 ## Patch 1
 
-[{% octicon desktop-download %} Patch 1.01 `(TAR 90.76mb)`](https://cloudup.com/files/iERs1HHBKQi/download)
+[⬇ Patch 1.01 `(TAR 90.76mb)`](https://cloudup.com/files/iERs1HHBKQi/download)
 
 O objetivo deste patch é corrigir alguns bugs que foram relatados pelos jogadores e atender aos pedidos da comunidade com relação a questões de ajustes e estabilidade do programa. Mas também conseguimos inserir algumas coisas divertidas no arquivo, como, por exemplo, um novo truque que você pode usar para transformar suas criaturas em representações poligonais de si mesmas, um novo recurso de “inspeção” para o criador de criaturas, que lista todas as partes usadas na criação de sua criatura e um pedido especial da comunidade: o truque `evoadvantage` – agora você pode começar um novo jogo no Estágio de Criatura usando criaturas mais evoluídas!
 
@@ -61,7 +61,7 @@ O objetivo deste patch é corrigir alguns bugs que foram relatados pelos jogador
 ***
 
 ## Patch 2
-[{% octicon desktop-download %} Patch 1.02 `(TAR 94.73mb)`](https://cloudup.com/files/i3uE8mRkTXI/download)
+[⬇ Patch 1.02 `(TAR 94.73mb)`](https://cloudup.com/files/i3uE8mRkTXI/download)
 
 <img src="/uploads/2019/07/patch2.png" align="right" alt="Ilustração de uma criatura" role="presentation" />
 
@@ -116,7 +116,7 @@ Instalar o Patch 2 fará que todas as adições inclusas no Patch 1 também seja
 
 ### Patch 3
 
-[{% octicon desktop-download %} Patch 1.03 `(TAR 105.45mb)`](https://cloudup.com/files/iAr3quKEgR3/download)
+[⬇ Patch 1.03 `(TAR 105.45mb)`](https://cloudup.com/files/iAr3quKEgR3/download)
 
 Como agradecimento, a Maxis oferece gratuitamente algumas partes para o Criador de Criaturas. Nós criamos 24 novos membros do exoesqueleto!
 
@@ -134,7 +134,7 @@ Você pode combiná-los com itens do [pacote de partes Medonhas & Fofinhas](http
 
 ## Patch 4
 
-[{% octicon desktop-download %} Patch 1.04 `(TAR 80.5mb)`](https://cloudup.com/files/iUF7LikVqKM/download)
+[⬇ Patch 1.04 `(TAR 80.5mb)`](https://cloudup.com/files/iUF7LikVqKM/download)
 
 <img alt="Exemplo de criatura feita fora do limite de complexidade." src="/uploads/2019/07/patch4.png" align="right" role="presentation" />
 
@@ -156,7 +156,7 @@ Você pode combiná-los com itens do [pacote de partes Medonhas & Fofinhas](http
 
 ## Patch 5
 
-[{% octicon desktop-download %} Patch 1.05 `(TAR 145.55mb)`](https://cloudup.com/files/i5mdNFqt4Q6/download)
+[⬇ Patch 1.05 `(TAR 145.55mb)`](https://cloudup.com/files/i5mdNFqt4Q6/download)
 
 <img alt="Criatura com três cabeças diferentes, um exemplo de como criaturas assimétricas podem ser criadas a partir desse patch" src="/uploads/2019/07/patch5.png" align="right" role="presentation" />
 
@@ -184,7 +184,7 @@ Você pode combiná-los com itens do [pacote de partes Medonhas & Fofinhas](http
 
 ## Patch 5.1
 
-[{% octicon desktop-download %} Patch 1.05.1 `(TAR 145.59mb)`](https://cloudup.com/files/it4zTYNEvYu/download)
+[⬇ Patch 1.05.1 `(TAR 145.59mb)`](https://cloudup.com/files/it4zTYNEvYu/download)
 
 
 ### Correções

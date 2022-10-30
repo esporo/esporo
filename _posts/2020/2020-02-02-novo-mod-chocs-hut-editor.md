@@ -17,6 +17,6 @@ Para usá-lo, vá para o Criador de Pré-Criaturas através do menu Criar na Gal
 
 ![Captura de tela de uma cabana personalizada criada com o mod]({%- link /uploads/2020/02/02/chocs-hut-editor.png -%})
 
-[{% octicon desktop-download %} Choc's Hut Editor `(mod .package 19.5mb)`]({%- link /uploads/mods/!!!!!!!ChocIce75_HutEditor.package -%})
+[⬇ Choc's Hut Editor `(mod .package 19.5mb)`]({%- link /uploads/mods/!!!!!!!ChocIce75_HutEditor.package -%})
 
 

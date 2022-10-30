@@ -15,9 +15,9 @@ Os arquivos disponíveis aqui são instaladores para a versão em disco do Criad
 
 ## Patch 1
 
-[{% octicon desktop-download %} Patch 1 (Trial) `(TAR 84.84mb)`](https://cloudup.com/files/i2Oo9h7oKQe/download)
+[⬇ Patch 1 (Trial) `(TAR 84.84mb)`](https://cloudup.com/files/i2Oo9h7oKQe/download)
 
-[{% octicon desktop-download %} Patch 1 (Completo) `(TAR 85.34mb)`](https://cloudup.com/files/id8sYd64t09/download)
+[⬇ Patch 1 (Completo) `(TAR 85.34mb)`](https://cloudup.com/files/id8sYd64t09/download)
 
 <img src="/uploads/2019/07/patch2.png" align="right" alt="Ilustração de uma criatura" role="presentation" />
 
@@ -41,7 +41,7 @@ Os arquivos disponíveis aqui são instaladores para a versão em disco do Criad
 
 ## Patch 2
 
-[{% octicon desktop-download %} Patch 3 (Completo) `(TAR 173.24mb)`](https://cloudup.com/files/inEX-fSDD1j/download)
+[⬇ Patch 3 (Completo) `(TAR 173.24mb)`](https://cloudup.com/files/inEX-fSDD1j/download)
 
 Como agradecimento, a Maxis oferece gratuitamente algumas partes para o Criador de Criaturas. Nós criamos 24 novos membros do exoesqueleto!
 

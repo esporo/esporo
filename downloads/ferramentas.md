@@ -20,21 +20,21 @@ O Spore API permite que você acesse dinamicamente as informações de criaçõe
 
 Faça o download dos exemplos de scripts da API:
 
-[{% octicon desktop-download %} Exemplos em Flash `(TAR 200.95kb)`](https://cloudup.com/files/iKHlvLQ583P/download)
+[⬇ Exemplos em Flash `(TAR 200.95kb)`](https://cloudup.com/files/iKHlvLQ583P/download)
 
-[{% octicon desktop-download %} Exemplos em Python `(TAR 67kb)`](https://cloudup.com/files/i4vVadQWSIj/download)
+[⬇ Exemplos em Python `(TAR 67kb)`](https://cloudup.com/files/i4vVadQWSIj/download)
 
-[{% octicon desktop-download %} Exemplos em Processing `(TAR 20.42kb)`](https://cloudup.com/files/iI8p6pp2iPr/download)
+[⬇ Exemplos em Processing `(TAR 20.42kb)`](https://cloudup.com/files/iI8p6pp2iPr/download)
 
-[{% octicon desktop-download %} Exemplos em PHP `(TAR 24.32kb)`](https://cloudup.com/files/iUsg5RHaK3Z/download)
+[⬇ Exemplos em PHP `(TAR 24.32kb)`](https://cloudup.com/files/iUsg5RHaK3Z/download)
 
-[{% octicon desktop-download %} Exemplos em Mathematica `(TAR 4.94kb)`](https://cloudup.com/files/injQ6E7O-l1/download)
+[⬇ Exemplos em Mathematica `(TAR 4.94kb)`](https://cloudup.com/files/injQ6E7O-l1/download)
 
 ---
 
 ## SporeModder FX
 
-[{% octicon desktop-download %} SporeModder FX 2.1.2 `(ZIP 19.6mb)`](https://github.com/Emd4600/SporeModder-FX/releases/download/v2.1.2/SporeModder.FX.zip)
+[⬇ SporeModder FX 2.1.2 `(ZIP 19.6mb)`](https://github.com/Emd4600/SporeModder-FX/releases/download/v2.1.2/SporeModder.FX.zip)
 
 O SporeModder FX é a ferramenta mais avançada para criar modificações do Spore. Ela ainda está em constante desenvolvimento no [GitHub](https://github.com/Emd4600/SporeModder-FX).
 
@@ -54,13 +54,13 @@ O Spore ModAPI é uma ferramenta de criação e gerenciamento de modificações 
 
 Para criar mods com o ModAPI, é necessário fazer o download do kit de desenvolvimento:
 
-[{% octicon desktop-download %} Spore ModAPI Development Kit 2.3.1 `(ZIP 29.3mb)`](https://github.com/Emd4600/Spore-ModAPI/releases/download/v2.3.1/Spore.ModAPI.Development.Kit.2.3.1.zip)
+[⬇ Spore ModAPI Development Kit 2.3.1 `(ZIP 29.3mb)`](https://github.com/Emd4600/Spore-ModAPI/releases/download/v2.3.1/Spore.ModAPI.Development.Kit.2.3.1.zip)
 
 Para instruções de como instalar o kit de desenvolvimento, confira a [página do ModAPI](https://github.com/Emd4600/Spore-ModAPI/releases).
 
 Para instalar e desinstalar mods criados com o ModAPI, você precisa do Spore ModAPI Launcher:
 
-[{% octicon desktop-download %} ModAPI Launcher `(TAR 1.8mb)`](https://cloudup.com/files/i8Dpb7A6CxM/download)
+[⬇ ModAPI Launcher `(TAR 1.8mb)`](https://cloudup.com/files/i8Dpb7A6CxM/download)
 
 O ModAPI Launcher permite que você selecione os arquivos `.sporemod` e gerencie a instalação de pacotes de modificações. É necessário ter a última versão do [Spore](https://guia.esporo.net/wiki/Spore) e do [Aventuras Galácticas](https://guia.esporo.net/wiki/Spore:_Aventuras_Galácticas) para instalar modificações com o ModAPI.
 
@@ -68,7 +68,7 @@ O ModAPI Launcher permite que você selecione os arquivos `.sporemod` e gerencie
 
 ## SporeMaster 2
 
-[{% octicon desktop-download %} SporeMaster 2 `(TAR 9.42mb)`](https://cloudup.com/files/i5Uz757efQE/download)
+[⬇ SporeMaster 2 `(TAR 9.42mb)`](https://cloudup.com/files/i5Uz757efQE/download)
 
 SporeMaster é uma ferramenta experimental que permite desenvolver mods sem manipular diretamente os arquivos do jogo como o SporeEdit. Foi a ferramenta mais popular para criar mods entre 2008 e 2017.
 
@@ -85,7 +85,7 @@ Você precisa do .NET Framework 3.5 para usar o SporeMaster 2. [Baixe ele no sit
 
 ## SporeEdit 1.8
 
-[{% octicon desktop-download %} SporeEdit 1.8 `(TAR 157.53kb)`](https://cloudup.com/files/ivUGJTRRgVM/download)
+[⬇ SporeEdit 1.8 `(TAR 157.53kb)`](https://cloudup.com/files/ivUGJTRRgVM/download)
 
 Criado por [CE]Eradicator em setembro de 2008, o SporeEdit foi a primeira ferramenta de modificação do Spore.
 

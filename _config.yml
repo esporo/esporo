@@ -80,9 +80,6 @@ keep_files:
   - assets/images
   - assets/js
 
-plugins:
-  - jekyll-octicons
-
 # Plugin: jekyll-paginate
 paginate: 5
 paginate_path: "/pagina/:num/"
