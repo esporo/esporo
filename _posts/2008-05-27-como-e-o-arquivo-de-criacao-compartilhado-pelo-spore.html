@@ -1,0 +1,30 @@
+---
+layout: post
+title: Como é o arquivo de criação compartilhado pelo Spore
+date: 2008-05-27 18:26:41.000000000 -03:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Artigos
+tags:
+- desenvolvimento
+- Spore
+- Sporepédia
+meta:
+  _edit_last: '10343712'
+  _publicize_job_id: '33590262215'
+  timeline_notification: '1564808083'
+author:
+  login: esporonet
+  email: contato@esporodb.wordpress.com
+  display_name: Esporo
+  first_name: Arthur
+  last_name: Freitas
+permalink: "/2008/05/27/como-e-o-arquivo-de-criacao-compartilhado-pelo-spore/"
+---
+<p>Cada criação do <strong>Spore</strong> pode ser compartilhada através da <strong>Sporepédia</strong>, o catálogo de criações mundial. Essas criações, que no jogo possuem mais de 1MB de tamanho total, é compartilhado pelos jogadores através de arquivos com aproximadamente 20KB. O desenvolvedor Todd Jones explicou em um artigo recente como são esses arquivos de compartilhamento e porque eles são tão pequenos.</p>
+<p>O jogo gera cada uma das criações baseadas em arquivos PNG com especificações em XML que são relativamente pequenos. Com essas informações indexadas pelo motor, é como se o jogo expandisse a criação baseada em cada uma das informações contidas nos arquivos. O arquivo contém quais partes pertencem à criação, bem como o tamanho, a posição, e textura. Quando o jogo termina essa conversão, o som, a animação e a interação da criação são geradas como resultado de cada uma das especificações pré-determinadas. Os desenvolvedores chamam isso de “fermento”, porque é conceitualmente uma série de matérias-primas que vêm no jogo e que, ao serem combinadas e executadas através de uma série de processos de otimização criam algo interessante ao final.</p>
+<p>Por exemplo, quando estamos criando uma criatura, o jogo gera um arquivo que indica o tamanho da coluna, as curvas que ela faz, o tipo de pintura, os tons de cores. Tudo indexado em formato de números que indicam facilmente para o jogo como montar cada uma das criaturas. Isso gera, dentro de uma imagem .PNG,  um arquivo com informações indexadas em XML que permitem um tamanho reduzido para compartilhamento.</p>
