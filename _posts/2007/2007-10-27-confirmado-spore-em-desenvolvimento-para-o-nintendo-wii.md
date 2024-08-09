@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2007-10-27 02:24:00 -0300'
-title: 'Confirmado: Spore em desenvolvimento para o Nintendo Wii'
+title: ' Confirmado: Spore em desenvolvimento para o Nintendo Wii'
 category: Spore
 tags:
 - Spore
