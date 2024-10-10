@@ -9,7 +9,7 @@ tags:
 
 O Esporo recebeu um pico de atenção nesses últimos dias depois da [notícia sobre o novo Time Spore na EA]({% post_url 2024/2024-10-06-spore-ganha-um-novo-time-na-ea-e-uma-comunidade-oficial-do-discord %}). Um dos pedidos feitos foram para que a gente reabrisse um servidor no Discord, então aqui vai ele. Vamos tentar de novo!
 
-**[Acesse o novo Discord do Esporo aqui!](https://discord.gg/AJAyYdbBSm)**
+**[Acesse o novo Discord do Esporo aqui!](https://discord.gg/4MvD38s5gZ)**
 
 Ao invés de criarmos vários canais de conversa, optei por criar apenas dois: um para discussões gerais sobre Spore, e um para o compartilhamento de criações no jogo. Se o servidor crescer e as conversas começarem a se embrenhar em tópicos específicos, podemos criar novos canais.
 
