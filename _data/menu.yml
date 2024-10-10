@@ -1,5 +1,9 @@
 - title: Notícias
   url: "/arquivo/"
+- title: Discord
+  url: "https://discord.gg/AJAyYdbBSm"
+  external: true
+  color: "rgb(164, 36, 51)"
 - title: Fórum
   url: "https://forum.esporo.net/"
   external: true
