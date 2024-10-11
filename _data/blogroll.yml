@@ -11,6 +11,9 @@
       external: true
 - title: Parceiros
   links:
+    - title: Spore Network
+      url: "https://www.sporenetwork.com/"
+      external: true
     - title: Alala Sims
       url: "https://www.alalasims.com/"
       external: true
