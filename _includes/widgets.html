@@ -1,0 +1,43 @@
+{% include blog/widget.html content=discord_widget %}
+
+{% assign current_events_title = "Eventos atuais" %}
+
+{% capture current_events %}
+  <dl>
+    <dt><a href="{% post_url 2024/2024-10-08-novo-evento-sporetober-2024 %}">SPORETOBER</a></dt>
+    <dd>De 1º a 31 de outubro de 2024.</dd>
+  </dl>
+{% endcapture %}
+
+{% include blog/widget.html title=current_events_title content=current_events %}
+
+{% capture sporecast %}
+  <p>
+    <a href="http://www.spore.com/sporepedia#qry=ssc-501057576550" rel="external" target="_blank">Assine o Esporocast!</a><br />
+    Receba as melhores criações selecionadas pela comunidade.
+  </p>
+{% endcapture %}
+
+{% include blog/widget.html content=sporecast %}
+
+{% assign stats_title = "Sporísticas" %}
+
+{% capture stats_content %}
+  <dl>
+    <dt data-total-uploads></dt>
+    <dd>Criações enviadas para a Sporepédia</dd>
+    <dt data-total-users></dt>
+    <dd>Usuários cadastrados no Spore.com</dd>
+    <dt data-daily-uploads></dt>
+    <dd>Criações enviadas no último dia</dd>
+    <dt data-daily-users></dt>
+    <dd>Novos usuários no último dia</dd>
+  </dl>
+  
+  <p>Feito com a <a href="https://www.spore.com/comm/developer/" rel="external">SporeAPI</a>.</p>
+  <script src="{% link assets/js/stats.js %}"></script>
+{% endcapture %}
+
+{% include blog/widget.html title=stats_title content=stats_content %}
+
+

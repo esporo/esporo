@@ -12,7 +12,7 @@ url: "https://esporo.net"
 baseurl: ""
 
 # Build settings
-theme: steve-for-jekyll
+remote_theme: esporo/bean
 markdown: kramdown
 permalink: "/:year/:month/:title/"
 
@@ -41,30 +41,6 @@ steve:
     placeholder: "O que você está procurando?"
     submit: "Pesquisar"
 
-comments:
-  title: Comentários
-  form_title: Comentar
-  date_format: "%d/%m/%Y às %k:%M"
-  staticman_endpoint: "https://esporobot.herokuapp.com/v3/entry/github/esporo/esporo/main/comments"
-  notice: |+ # Accepts Markdown
-    Comentários são moderados, então o seu comentário pode demorar um pouco para aparecer no site.
-
-    Lembre-se: os comentários seguem as mesmas [regras do Fórum](https://forum.esporo.net/d/50-regras-do-forum). Seja legal e respeite os outros.
-  fields:
-    name:
-      label: Nome
-      placeholder: "Seu nome"
-    email:
-      label: Endereço de email
-      placeholder: "seu@email.net"
-    website:
-      label: Site ou blog
-      placeholder: "https://seu-link.com/"
-    message:
-      label: Mensagem
-      placeholder: Seu comentário
-    submit: Enviar comentário
-
 defaults:
   - scope:
       path: ""
@@ -81,7 +57,7 @@ keep_files:
   - assets/js
 
 # Plugin: jekyll-paginate
-paginate: 5
+paginate: 12
 paginate_path: "/pagina/:num/"
 seo_paginator_message: "Página %<current>s de %<total>s / "
 
