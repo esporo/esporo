@@ -3,7 +3,7 @@ title: Esporo
 tagline: A comunidade brasileira de Spore
 description: >-
   Comunidade para jogadores de Spore, com conteúdos personalizados para download; tutoriais; fóruns de discussão e suporte; e as últimas notícias sobre o jogo.
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo.svg"
 lang: pt-BR
 timezone: "America/Sao_Paulo"
 
@@ -16,30 +16,20 @@ remote_theme: esporo/bean
 markdown: kramdown
 permalink: "/:year/:month/:title/"
 
-steve:
-  archives:
-    date: "Posts de"
-    tag: "Mais posts sobre…"
-    category: "Posts arquivados em"
-  date_formats:
-    post: "%d/%m/%Y"
-    archives:
-      day: "%d/%m/%Y"
-      month: "%m/%Y"
-      year: "%Y"
-  page_404: |+
-    A página que você está procurando náo foi encontrada nessa URL. Por favor, tente buscar por ela ou [volte para a página inicial](https://esporo.net/).
-  pagination:
-    next_page: "&laquo; Posts mais recentes"
-    prev_page: "Posts anteriores &raquo;"
-    prev_post: "Anterior:"
-    next_post: "Próximo:"
-  post:
-    tags: "Mais posts sobre…"
-  search:
-    label: "Pesquisar"
-    placeholder: "O que você está procurando?"
-    submit: "Pesquisar"
+main_menu:
+  title: Menu principal
+  items:
+    - path: /
+      label: Notícias
+    - label: Fórum
+      path: https://forum.esporo.net/
+    - label: O que é Spore?
+      path: https://guia.esporo.net/
+    - label: Dicas
+      path: /tag/dicas/
+    - label: Sobre
+      path: /sobre/
+
 
 defaults:
   - scope:

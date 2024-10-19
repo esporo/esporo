@@ -1,0 +1,10 @@
+:root {
+  --background-header: rgb(1, 157, 224) no-repeat center/cover url("/assets/images/bg-header.jpg");
+  --background-footer: repeat center url("/assets/images/bg-footer.jpg");
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --background-footer: repeat center/250px url("/assets/images/bg-footer-dark.jpg");
+  }
+}
