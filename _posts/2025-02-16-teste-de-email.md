@@ -1,6 +1,6 @@
 ---
 title: 'Teste de email'
-date: 2025-02-16 12:02:18
+date: 2025-02-16 12:04:02
 format: html
 layout: post
 markup: markdown
@@ -10,7 +10,7 @@ tags:
 - teste 1
 - teste 2
 - teste 3
-time: 2025-02-16 12:02:18 -0300
+time: 2025-02-16 12:04:02 -0300
 title: Teste de email
 ---
 Teste de formatação! Negrito e itálico ! Arthur.
