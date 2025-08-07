@@ -10,7 +10,7 @@ tags:
   - Spore
 ---
 
-Novo (grande) mod pra começar o ano! O Delta's Paint Pack é um pacote de padrões de pintura para o Criador de Criaturas com 57 novos padrões. São 33 bases, 12 capas e 12 detalhes. [Você pode baixar o mod clicando aqui]({%- link uploads/mods/Delta_Paints.package -%}).
+Novo (grande) mod pra começar o ano! O Delta's Paint Pack é um pacote de padrões de pintura para o Criador de Criaturas com 57 novos padrões. São 33 bases, 12 capas e 12 detalhes. [Você pode baixar o mod clicando aqui](https://github.com/TheDeltaUnit/DeltaPaints/releases/tag/v1.0).
 
 Confira uma prévia do conteúdo do pacote:
 
