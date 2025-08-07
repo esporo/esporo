@@ -1,12 +1,15 @@
 :root {
   /* Typography */
-  --main-font-family: Seravek, "Gill Sans Nova", Ubuntu, Corbel, "DejaVu Sans", source-sans-pro, sans-serif;
-   --head-font-family: "Spore";
+  --main-font-family:
+    Seravek, "Gill Sans Nova", Ubuntu, Corbel, "DejaVu Sans",
+    source-sans-pro, sans-serif;
+  --head-font-family: "Spore";
   /* --code-font-family: "IBM Plex Mono", Monaco, Consolas, "DejaVu Sans Mono", ui-monospace, monospace; */
 
   /* Backgrounds */
   --background-body: rgb(255, 255, 255);
-  --background-header: 50% / 50% repeat url("/assets/images/bg_pattern.jpg");
+  --background-header: 50% / 50% repeat
+    url("/assets/images/bg_pattern.jpg");
   --background-footer: rgb(228, 240, 246);
 
   /* Colors */
@@ -17,9 +20,9 @@
   --color-accent-alt: rgb(35, 97, 167);
 
   /* Defaults */
-   --border: 0.05rem solid var(--color-details); */
-   --radius: 0.5rem;
-   --shadow: 0 0 0.5rem var(--color-shadows);
+  --border: 0.05rem solid var(--color-details);
+  --radius: 0.5rem;
+  --shadow: 0 0 0.5rem var(--color-shadows);
 }
 
 @media screen and (prefers-color-scheme: dark) {
