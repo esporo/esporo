@@ -1,0 +1,71 @@
+:root {
+  /* Typography */
+  --main-font-family: Seravek, "Gill Sans Nova", Ubuntu, Corbel, "DejaVu Sans", source-sans-pro, sans-serif;
+   --head-font-family: "Spore";
+  /* --code-font-family: "IBM Plex Mono", Monaco, Consolas, "DejaVu Sans Mono", ui-monospace, monospace; */
+
+  /* Backgrounds */
+  --background-body: rgb(255, 255, 255);
+  --background-header: 50% / 50% repeat url("/assets/images/bg_pattern.jpg");
+  --background-footer: rgb(228, 240, 246);
+
+  /* Colors */
+  --color-text: rgb(108, 109, 113);
+  --color-shadows: rgb(234, 238, 241);
+  --color-details: rgb(149, 149, 153);
+  --color-accent: rgb(45, 158, 221);
+  --color-accent-alt: rgb(35, 97, 167);
+
+  /* Defaults */
+   --border: 0.05rem solid var(--color-details); */
+   --radius: 0.5rem;
+   --shadow: 0 0 0.5rem var(--color-shadows);
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    /* Backgrounds */
+    /* --background-body: rgb(0, 0, 13);  */
+    /* --background-header: rgb(216, 35, 42); */
+    /* --background-footer: rgb(199, 214, 51); */
+
+    /* Colors */
+    /* --color-text: rgb(255, 255, 255); */
+    /* --color-shadows: rgb(0, 0, 0); */
+    /* --color-details: rgb(234, 238, 241); */
+    /* --color-accent: rgb(255, 241, 6); */
+    /* --color-accent-alt: rgb(235, 140, 45); */
+  }
+}
+
+@font-face {
+  font-family: "Spore";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("/assets/fonts/Spore-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Spore";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("/assets/fonts/Spore-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Spore";
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url("/assets/fonts/Spore-Light.woff2") format("woff2");
+}
+
+.sidebar-widget .widget-title {
+  margin-bottom: calc(var(--spacing-unit) / 2);
+}
+
+.stats-list {
+  list-style-position: inside;
+}

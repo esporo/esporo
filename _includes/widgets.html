@@ -1,0 +1,38 @@
+{% assign widget_title = "Eventos" %}
+
+{% capture widget_content %}
+<p>
+  <strong>Concurso:</strong>
+  <a href="https://discord.com/channels/1283849808548859985/1397967345154003014" target="_blank">Mutate 2025</a><br />
+  Inscrições até dia 6/09 / votação até dia 10/09.
+</p>
+{% endcapture %}
+
+{% include blog/widget.html title=widget_title content=widget_content %}
+
+{% capture widget_title %}
+  <a href="http://www.spore.com/sporepedia#qry=ssc-501057576550" rel="external" target="_blank">Assine o Esporocast!</a>
+{% endcapture %}
+
+{% capture widget_content %}
+  <p class="sporecast">
+    Receba as melhores criações selecionadas pela comunidade.
+  </p>
+{% endcapture %}
+
+{% include blog/widget.html title=widget_title content=widget_content %}
+
+{% assign widget_title = "Esporísticas" %}
+
+{% capture widget_content %}
+  <ul class="stats-list">
+    <li><strong><var data-total-uploads></var> criações</strong> enviadas para a Sporepédia</li>
+    <li><strong><var data-total-users></var> usuários</strong> cadastrados no Spore.com</li>
+    <li><strong><var data-daily-uploads></var> criações</strong> enviadas no último dia</li>
+    <li><strong><var data-daily-users></var> usuários</strong>registrados no último dia</li>
+  </ul>
+
+  <p class="stats-credits">Feito com a <a href="https://www.spore.com/comm/developer/" rel="external">SporeAPI</a>.</p>
+{% endcapture %}
+
+{% include blog/widget.html title=widget_title content=widget_content %}
