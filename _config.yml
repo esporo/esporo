@@ -12,100 +12,55 @@ url: "https://esporo.net"
 baseurl: ""
 
 # Build settings
-theme: steve-for-jekyll
-markdown: kramdown
+theme: jekyll-theme-bean
 permalink: "/:year/:month/:title/"
 
-steve:
-  archives:
-    date: "Posts de"
-    tag: "Mais posts sobre…"
-    category: "Posts arquivados em"
+# Tema
+bean:
+  #  show_excerpts: true
+  copyright_notice: >-
+    Spore, Darkspore e Maxis são marcas registradas da Electronic Arts.\n
+    [arthr.me](https://arthr.me)
   date_formats:
-    post: "%d/%m/%Y"
-    archives:
-      day: "%d/%m/%Y"
-      month: "%m/%Y"
-      year: "%Y"
-  page_404: |+
-    A página que você está procurando náo foi encontrada nessa URL. Por favor, tente buscar por ela ou [volte para a página inicial](https://esporo.net/).
-  pagination:
-    next_page: "&laquo; Posts mais recentes"
-    prev_page: "Posts anteriores &raquo;"
-    prev_post: "Anterior:"
-    next_post: "Próximo:"
-  post:
-    tags: "Mais posts sobre…"
-  search:
-    label: "Pesquisar"
-    placeholder: "O que você está procurando?"
-    submit: "Pesquisar"
+    day: "%d/%m/%Y"
+    month: "%m/%Y"
+    year: "%Y"
+  translations:
+    jump_to_navigation: "Pular para a navegação"
+    jump_to_content: "Pular para o conteúdo"
+    archive_date_title: "Posts em %s"
+    archive_tag_title: "Posts com a tag “%s”"
+    archive_category_title: "Posts arquivados em “%s”"
+    post_tagged_with: "Mais sobre:"
+    blog_pagination_title: "Paginação do blog"
+    blog_pagination_next_page: "Posts anteriores"
+    blog_pagination_prev_page: "Próximos posts"
 
-comments:
-  title: Comentários
-  form_title: Comentar
-  date_format: "%d/%m/%Y às %k:%M"
-  staticman_endpoint: "https://esporobot.herokuapp.com/v3/entry/github/esporo/esporo/main/comments"
-  notice: |+ # Accepts Markdown
-    Comentários são moderados, então o seu comentário pode demorar um pouco para aparecer no site.
+# Menu
+main_menu:
+  title: Navegar
+  items:
+    - label: Notícias
+      path: /
+    - label: Fórum
+      path: https://forum.esporo.net
+    - label: Guia Galáctico
+      path: https://guia.esporo.net
+    - label: Dicas e Truques
+      path: /dicas/
+    - label: Downloads
+      path: /downloads/
+    - label: Sobre
+      path: /sobre/
 
-    Lembre-se: os comentários seguem as mesmas [regras do Fórum](https://forum.esporo.net/d/50-regras-do-forum). Seja legal e respeite os outros.
-  fields:
-    name:
-      label: Nome
-      placeholder: "Seu nome"
-    email:
-      label: Endereço de email
-      placeholder: "seu@email.net"
-    website:
-      label: Site ou blog
-      placeholder: "https://seu-link.com/"
-    message:
-      label: Mensagem
-      placeholder: Seu comentário
-    submit: Enviar comentário
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-keep_files:
-  - favicon.ico
-  - uploads
-  - assets/fonts
-  - assets/icons
-  - assets/images
-  - assets/js
+footer_menu:
+  title: Redes sociais
+  items:
+    - label: Discord
+      path: https://discord.gg/vjCBuFy3g8
+    - label: YouTube
+      path: https://youtube.com/esporotv
 
 # Plugin: jekyll-paginate
-paginate: 5
+paginate: 6
 paginate_path: "/pagina/:num/"
-seo_paginator_message: "Página %<current>s de %<total>s / "
-
-# Plugin: jekyll-seo-tag
-google_site_verification: "HvEDdWfesPnf99AxWv1yVL_bZfKiGp9XYmGcVz-ZJS4"
-
-twitter:
-  card: summary
-  username: esporo
-
-social:
-  name: Esporo
-  links:
-    - https://twitter.com/esporo
-    - https://www.youtube.com/user/esporotv
-    - https://www.facebook.com/esporo
-
-# Plugin: jekyll-compose
-jekyll_compose:
-  auto_open: true
-  default_front_matter:
-    drafts:
-      author: gaboo
-      tags:
-    posts:
-      author: gaboo
-      tags:
