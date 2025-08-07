@@ -18,6 +18,4 @@ A nova identidade apresenta as mesmas cores do logo clássico da empresa, mas de
 
 Veja também o vídeo apresentado o estúdio:
 
-<video poster="{% link uploads/2022/03/maxis-banner.jpg %}" controls>
-  <source src="{% link uploads/2022/03/maxis-recruitment.mp4 %}" type="video/mp4" />
-</video>
+<iframe src="https://www.youtube-nocookie.com/embed/t80XTYqG6fc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
