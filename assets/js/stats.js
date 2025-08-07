@@ -3,7 +3,7 @@ function formatNumber(number) {
 }
 
 fetch(
-  "//cross.esporo.net/corsproxy/?apiurl=//spore-o-meter.sporecommunity.com",
+  "//cross.esporo.net/corsproxy/?apiurl=https://spore-o-meter.sporecommunity.com",
 )
   .then((response) => response.json())
   .then((data) => {
