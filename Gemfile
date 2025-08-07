@@ -8,6 +8,4 @@ install_if -> { Gem.win_platform? } do
   gem "tzinfo-data"
 end
 
-gem "jekyll-remote-theme", "~> 0.4.1", group: :jekyll_plugins
-
 gem "jekyll-theme-bean", "~> 1.0"
