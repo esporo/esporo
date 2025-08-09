@@ -19,8 +19,7 @@ permalink: "/:year/:month/:title/"
 bean:
   #  show_excerpts: true
   copyright_notice: >-
-    Spore, Darkspore e Maxis são marcas registradas da Electronic Arts.\n
-    [arthr.me](https://arthr.me)
+    Spore, Darkspore e Maxis são marcas registradas da Electronic Arts.
   date_formats:
     day: "%d/%m/%Y"
     month: "%m/%Y"

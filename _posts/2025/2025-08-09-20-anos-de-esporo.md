@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2025-08-09
 title: 20 anos de Esporo
 author: gaboo
 tags:
