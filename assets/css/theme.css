@@ -72,3 +72,7 @@
 .stats-list {
   list-style-position: inside;
 }
+
+#comments {
+  margin-top: 2rem;
+}
