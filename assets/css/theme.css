@@ -76,3 +76,10 @@
 #comments {
   margin-top: 2rem;
 }
+
+.forum-iframe {
+    width: 100%;
+    border: none;
+    display: block;
+    transition: height 0.3s ease;
+}
