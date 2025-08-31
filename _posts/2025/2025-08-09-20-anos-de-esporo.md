@@ -4,7 +4,7 @@ date: 2025-08-09
 title: 20 anos de Esporo
 author: gaboo
 comments: true
-discussion_url: "https://forum.esporo.net/d/102-20-anos-de-esporo"
+discussion_url: "https://forum.esporo.net/embed/102-20-anos-de-esporo"
 tags:
   - meta
   - Esporo
