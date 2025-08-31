@@ -12,37 +12,113 @@
         title="Discussão do fórum"
         src="{{ page.discussion_url | append: "/embed" }}"
       ></iframe>
+      <div class="height-debug" id="height-debug" style="display: none;">
+          Altura: <span id="current-height">0</span>px
+      </div>
     {% endif %}
     
     <script>
       const iframe = document.getElementById('forum-iframe');
       const loading = document.getElementById('loading');
+      const heightDebug = document.getElementById('height-debug');
+      const currentHeightSpan = document.getElementById('current-height');
       
-      // Escuta mensagens do iframe
-      window.addEventListener('message', function(event) {
-          // Verifica origem por segurança
-          if (event.origin !== 'https://form.esporo.net') {
-              return;
+      let lastHeight = 0;
+      let heightCheckInterval;
+      
+      // Função para buscar altura via CORS proxy
+      async function fetchIframeHeight() {
+          try {
+              const proxyUrl = 'https://cross.esporo.net/';
+              const targetUrl = iframe.src;
+              
+              const response = await fetch(proxyUrl + targetUrl);
+              const html = await response.text();
+              
+              // Cria um DOM temporário para calcular altura
+              const tempDiv = document.createElement('div');
+              tempDiv.innerHTML = html;
+              tempDiv.style.cssText = `
+                  position: absolute;
+                  visibility: hidden;
+                  width: ${iframe.offsetWidth}px;
+                  top: -9999px;
+              `;
+              document.body.appendChild(tempDiv);
+              
+              // Aguarda um momento para o CSS ser aplicado
+              await new Promise(resolve => setTimeout(resolve, 100));
+              
+              const calculatedHeight = tempDiv.scrollHeight;
+              document.body.removeChild(tempDiv);
+              
+              return calculatedHeight;
+              
+          } catch (error) {
+              console.error('Erro ao buscar altura:', error);
+              return null;
           }
+      }
+      
+      // Função para atualizar altura
+      async function updateHeight() {
+          const newHeight = await fetchIframeHeight();
           
-          if (event.data.type === 'flarum-resize') {
-              console.log('Nova altura recebida:', event.data.height);
-              iframe.style.height = event.data.height + 'px';
+          if (newHeight && Math.abs(newHeight - lastHeight) > 20) {
+              console.log(`Atualizando altura: ${lastHeight}px → ${newHeight}px`);
+              
+              iframe.style.height = newHeight + 'px';
+              lastHeight = newHeight;
+              currentHeightSpan.textContent = newHeight;
+              
+              // Mostra iframe se ainda estiver escondido
+              if (iframe.style.display === 'none') {
+                  loading.style.display = 'none';
+                  iframe.style.display = 'block';
+                  heightDebug.style.display = 'block';
+              }
           }
+      }
+      
+      // Listener para quando iframe carregar
+      iframe.addEventListener('load', function() {
+          console.log('Iframe carregado, iniciando monitoramento de altura');
           
-          if (event.data.type === 'flarum-loaded') {
-              // Esconde loading e mostra iframe
-              loading.style.display = 'none';
-              iframe.style.display = 'block';
+          // Primeira verificação
+          setTimeout(updateHeight, 1000);
+          
+          // Verificações periódicas
+          heightCheckInterval = setInterval(updateHeight, 3000);
+          
+          // Listener para mudanças no próprio iframe (eventos de scroll, clique)
+          iframe.addEventListener('mouseover', () => {
+              setTimeout(updateHeight, 500);
+          });
+      });
+      
+      // Cleanup ao sair da página
+      window.addEventListener('beforeunload', function() {
+          if (heightCheckInterval) {
+              clearInterval(heightCheckInterval);
           }
       });
       
-      // Timeout para caso não carregue
+      // Fallback para casos de erro
       setTimeout(() => {
           if (loading.style.display !== 'none') {
-              loading.textContent = 'Erro ao carregar discussão';
+              loading.innerHTML = `
+                  <p>Erro ao carregar discussão.</p>
+                  <a href="${iframe.src}" target="_blank">Abrir no fórum →</a>
+              `;
           }
       }, 10000);
+      
+      // Debug toggle (remover em produção)
+      document.addEventListener('keydown', function(e) {
+          if (e.key === 'h' && e.ctrlKey) {
+              heightDebug.style.display = heightDebug.style.display === 'none' ? 'block' : 'none';
+          }
+      });
     </script>
 {% endif  %}
 
