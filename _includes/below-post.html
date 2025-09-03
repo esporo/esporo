@@ -1,0 +1,17 @@
+{% if page.comments %}
+  <section id="comments">
+    <h2>Comentários</h2>
+    <p>Faça parte da comunidade! <a href="https://forum.esporo.net">Participe do Fórum Esporo</a> para deixar um comentário e conversar com outros aliens.</p>
+    
+    {% if page.discussion_url %}
+      <iframe
+        id="forum-iframe"
+        class="forum-iframe"
+        style="width: 100%; height: 500px;"
+        title="Discussão do fórum"
+        src="{{ page.discussion_url }}"
+      ></iframe>
+    {% endif %}
+{% endif  %}
+
+

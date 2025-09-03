@@ -2,6 +2,8 @@
 layout: post
 title: Spore com 50% de desconto na GOG
 author: gaboo
+comments: true
+discussion_url: "https://forum.esporo.net/embed/103-spore-com-50-de-desconto-na-gog-"
 tags:
 - Spore
 - promoções

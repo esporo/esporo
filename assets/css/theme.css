@@ -72,3 +72,15 @@
 .stats-list {
   list-style-position: inside;
 }
+
+#comments {
+  margin-top: 2rem;
+}
+
+.forum-iframe {
+    width: 100%;
+    height: 500px;
+    border: var(--border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+}
