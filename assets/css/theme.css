@@ -27,17 +27,14 @@
 
 @media screen and (prefers-color-scheme: dark) {
   :root {
-    /* Backgrounds */
-    /* --background-body: rgb(0, 0, 13);  */
-    /* --background-header: rgb(216, 35, 42); */
-    /* --background-footer: rgb(199, 214, 51); */
-
-    /* Colors */
-    /* --color-text: rgb(255, 255, 255); */
-    /* --color-shadows: rgb(0, 0, 0); */
-    /* --color-details: rgb(234, 238, 241); */
-    /* --color-accent: rgb(255, 241, 6); */
-    /* --color-accent-alt: rgb(235, 140, 45); */
+    --background-header: left / cover no-repeat url("/assets/images/bg_dark.jpg");
+    --background-body: rgb(1, 1, 5);
+    --color-text: rgb(234, 238, 241);
+    --color-details: rgb(149, 149, 153);
+    --color-shadows: rgb(0, 0, 13);
+    --color-accent: rgb(65, 113, 181);
+    --color-accent-alt: rgb(45, 158, 221);
+    --background-footer: rgb(39, 36, 88);
   }
 }
 
