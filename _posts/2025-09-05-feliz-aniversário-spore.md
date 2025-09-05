@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spore completa 17 anos
+title: "17 anos de Spore!"
 tags:
 - Spore
 - lançamento
