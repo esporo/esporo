@@ -6,7 +6,7 @@ tags:
   - Spore
   - plataformas
   - Wii
-  - Spin-offs
+  - spin-offs
 ---
 
 Eu sou um grande fã da Nintendo. Eu tenho um Wii e perco boa parte dos meus dias jogando Super Mario Galaxy. Isso talvez seja um problema, porque eu já estou ansioso por jogar Spore no computador, e agora eu vou ficar na expectativa de jogar Spore no DS e no Wii também.

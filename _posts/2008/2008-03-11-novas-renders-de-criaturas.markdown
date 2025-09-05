@@ -5,7 +5,7 @@ date: '2008-03-11 14:30'
 category: Spore
 tags:
   - Spore
-  - Criatura
+  - criaturas
   - imagens
 ---
 

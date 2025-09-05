@@ -3,7 +3,7 @@ layout: "post"
 title: "Co-fundador da thatgamecompany fala sobre sair do time de desenvolvimento do Spore Creatures"
 date: "2008-05-05 15:40"
 tags:
-  - Spin-offs
+  - spin-offs
   - Spore Creatures
   - Jenova Chen
 ---
