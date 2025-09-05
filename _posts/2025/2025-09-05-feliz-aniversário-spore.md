@@ -2,7 +2,7 @@
 layout: post
 title: "17 anos de Spore!"
 comments: true
-discussion_uri: "https://forum.esporo.net/embed/106"
+discussion_url: "https://forum.esporo.net/embed/106"
 tags:
 - Spore
 - lançamento
