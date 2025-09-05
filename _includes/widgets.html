@@ -1,3 +1,4 @@
+{% comment %}
 {% assign widget_title = "Eventos" %} {% capture widget_content %}
 <p>
   <strong>Concurso:</strong>
@@ -20,8 +21,11 @@ content=widget_content %} {% capture widget_title %}
 <p class="sporecast">
   Receba as melhores criações selecionadas pela comunidade.
 </p>
-{% endcapture %} {% include blog/widget.html title=widget_title
-content=widget_content %} {% assign widget_title = "Esporísticas" %}
+{% endcapture %}
+{% include blog/widget.html title=widget_title content=widget_content %}
+{% endcomment %}
+
+{% assign widget_title = "Esporísticas" %}
 {% capture widget_content %}
 <ul class="stats-list">
   <li>
