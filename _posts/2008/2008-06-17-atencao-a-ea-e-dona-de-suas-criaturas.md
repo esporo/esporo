@@ -5,7 +5,7 @@ date: "2008-06-17 17:52"
 tags:
   - Spore
   - Criador de Criaturas
-  - Electronic Arts
+  - EA
 ---
 
 Pra surpresa de exatamente zero (0) pessoas, os termos de uso do Criador de Criaturas deixam claro que tudo o que você cria no Criador de Criaturas é propriedade da EA.
