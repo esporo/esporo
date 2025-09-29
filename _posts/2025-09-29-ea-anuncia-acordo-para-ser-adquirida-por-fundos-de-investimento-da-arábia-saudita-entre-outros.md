@@ -1,7 +1,6 @@
 ---
 layout: post
-title: EA anuncia acordo para ser adquirida por fundos de investimento da Arábia Saudita,
-genro de Donald Trump, entre outros
+title: "EA anuncia acordo para ser adquirida por fundos de investimento da Arábia Saudita, genro de Donald Trump, entre outros"
 tags:
   - EA
   - Maxis
