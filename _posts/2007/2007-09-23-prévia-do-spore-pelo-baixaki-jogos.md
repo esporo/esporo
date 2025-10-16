@@ -2,7 +2,7 @@
 layout: post
 date: '2007-09-23 02:39:00 -0300'
 title: Prévia do Spore pelo Baixaki Jogos
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - prévias

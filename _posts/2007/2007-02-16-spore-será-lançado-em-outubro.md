@@ -2,7 +2,7 @@
 layout: post
 date: '2007-02-16 12:12:00 -0300'
 title: Spore será lançado em outubro?
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - lançamentos

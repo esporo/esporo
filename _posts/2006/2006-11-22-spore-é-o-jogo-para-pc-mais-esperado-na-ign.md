@@ -2,7 +2,7 @@
 layout: post
 date: '2006-11-22 11:13:00 -0300'
 title: Spore é o jogo para PC mais esperado na IGN
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 ---

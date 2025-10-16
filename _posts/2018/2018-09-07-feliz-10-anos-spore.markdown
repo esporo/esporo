@@ -3,12 +3,11 @@ layout: post
 title: "Feliz 10 anos, Spore!"
 date: "2018-09-07 18:19:02 -0300"
 image: "https://i.imgur.com/xiGHspE.jpg"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Maxis
 ---
-
 Há 10 anos (e três dias), Spore era lançado. Depois de três anos de espera e muita, mas muita expectativa, o último jogo de Will Wright finalmente chegava às lojas.
 
 Aqui no Brasil o jogo foi lançado dois dias antes, em 5 de setembro, e a minha caixinha chegou no mesmo dia. A Edição Galáctica, como se chamava a edição especial do jogo, era o meu presente de aniversário e de natal daquele ano. Eu não lembro de ter ficado mais empolgado antes ou depois do momento em que eu finalmente coloquei o disco do jogo no meu computador, instalei e a galáxia abriu pela primeira vez. Emoção pura, e a memória desse momento é o que ainda me faz visitar o Spore nesses dez anos. Eu escrevi um pouco mais sobre o porquê dele ser meu jogo favorito [no meu blog](https://irrelefante.com.br/posts/2018/spore-faz-10-anos/).

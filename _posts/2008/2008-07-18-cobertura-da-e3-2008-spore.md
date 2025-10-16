@@ -1,10 +1,10 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "Cobertura da E3 2008: Spore"
 date: "2008-07-18 22:57"
 tags: Spore eventos E3 vídeos
 ---
-
 Esse post é reservado para centralizarmos todas as novidades reveladas da E3 sobre Spore. Abaixo você pode encontrar informações, imagens, vídeos, prévias, e mais. Salve nos seus favoritos porque vamos atualizá-lo constantemente!
 
 **Novo trailer:**

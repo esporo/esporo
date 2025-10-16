@@ -2,7 +2,7 @@
 layout: post
 date: '2007-07-11 16:04:00 -0300'
 title: 'E3 2007: Atualização sobre Spore (IGN)'
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - eventos

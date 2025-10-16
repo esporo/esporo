@@ -2,10 +2,9 @@
 layout: "post"
 title: "Spore FAQ traduzido"
 date: "2008-03-28 17:17"
-category: Spore
+category: Galáxia Spore
 tags: Spore FAQ
 ---
-
 ## O Básico
 
 **O que “jogo massivo de um jogador” significa?**  

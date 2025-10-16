@@ -2,7 +2,7 @@
 layout: post
 date: '2007-10-27 02:26:00 -0300'
 title: Agora o GameStop lista Spore para maio
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - rumores

@@ -2,10 +2,9 @@
 layout: post
 date: "2008-05-06 20:34:00"
 title: "Spore pode usar SecuROM"
-category: Spore
+category: Galáxia Spore
 tags: Spore SecuROM DRM
 ---
-
 O [GamingSteve](http://www.gamingsteve.com/blab/index.php?topic=12211.0) conseguiu informações de que Spore vai usar um sistema de controle de instalações chamado SecuROM, que vai requerer que o jogador fique conectado à internet para instalar e validar o jogo. Confira a explicação de como esse sistema funciona abaixo:
 
 > Isso é o que o SecuROM faz:

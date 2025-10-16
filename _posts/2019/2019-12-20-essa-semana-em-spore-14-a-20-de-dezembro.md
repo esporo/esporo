@@ -3,13 +3,12 @@ layout: post
 date: "2019-12-20 13:00:00 -0300"
 title: "Essa semana em SPORE: 14 a 20 de dezembro"
 image: "/uploads/2019/12/19/resumo.jpg"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - status de serviço
   - servidores
 ---
-
 _**Essa semana em SPORE** é um resumo das novidades da comunidade do jogo nos últimos dias, com links para novos mods e conteúdos bacanas, uma olhada nas estatísticas do jogo e uma atualização no Esporocast, nossa coleção de criações em destaque._
 
 ## Novos mods

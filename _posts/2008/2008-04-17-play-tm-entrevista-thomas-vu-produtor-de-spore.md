@@ -2,13 +2,12 @@
 layout: "post"
 title: "Play.tm entrevista Thomas Vu, produtor de Spore"
 date: "2008-04-17 08:49"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - entrevistas
   - Thomas Vu
 ---
-
 [Play.tm](http://play.tm/story/17431):
 
 > **Vocês não estão preocupados que até mesmo os fãs de The Sims podem ficar oprimidos ou até confusos pelas possibilidades aparentemente infinitas de Spore?**

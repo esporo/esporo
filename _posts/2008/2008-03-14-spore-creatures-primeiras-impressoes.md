@@ -2,13 +2,12 @@
 layout: "post"
 title: "Spore Creatures: primeiras impressões"
 date: "2008-03-14 14:57"
-category: Spin-offs
+category: Galáxia Spore
 tags:
   - Spore Creatures
   - prévias
   - Jason Haber
 ---
-
 O Eurogamer publicou suas primeiras impressões sobre o Spore Creatures para o Nintendo DS, em uma demonstração guiada pelo produtor Jason Haber.
 
 Spore Creatures não é baseado na fase da Criatura do Spore para PC, a versão para DS é completamente focada em criar uma criatura e colecionar partes que melhorem suas habilidades.

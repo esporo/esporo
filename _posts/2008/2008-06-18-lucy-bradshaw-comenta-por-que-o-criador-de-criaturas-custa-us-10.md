@@ -2,13 +2,12 @@
 layout: "post"
 title: "Lucy Bradshaw comenta por que o Criador de Criaturas custa US$ 10"
 date: "2008-06-18 20:04"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Criador de Criaturas
   - Lucy Bradshaw
 ---
-
 [GameDaily](http://www.gamedaily.com/games/spore-creatures/ds/game-features/spore-creature-creator-a-bargain-at-999-says-producer/):
 
 > Enquanto alguns questionam sobre pagar o preço de $9,99 dólares por algo que é essencialmente uma demonstração do jogo completo que será lançado em setembro, Bradshaw diz que eles estão dando aos jogadores algo que vale o dinheiro:

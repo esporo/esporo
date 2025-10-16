@@ -1,12 +1,12 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "Como o Mallan da LadyMpire foi criado no Spore"
 date: "2008-04-26 14:15"
 tags:
   - Spore
   - Criador de Criaturas
 ---
-
 Hoje mais cedo, a Maxis enviou uma newsletter sobre como as criaturas de fãs foram criadas no Spore. A LadyMpire, uma fã de The Sims que também faz parte da comunidade de Spore, postou [no seu blog](http://ladympire.com/?p=377) sobre como foi o processo de conversar com os designers da Maxis para criar sua criatura:
 
 > Para participar eu tive que assinar um formulário permitindo que eles usassem a minha criatura de qualquer maneira que eles quisessem. Eu estava muito empolgada e assinei na hora, enviei para eles por FAX e comecei a esperar. Nós não podíamos falar sobre isso até que as criaturas fossem divulgadas no site oficial. Agora o Spore.com exibe o desenho original da minha criatura com a criatura que foi criada no Spore, com comentários da desenvolvedora.

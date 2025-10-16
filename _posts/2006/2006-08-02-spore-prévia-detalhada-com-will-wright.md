@@ -2,7 +2,7 @@
 layout: post
 title: Mais informações sobre as tecnologias de criação
 date: '2006-08-02 15:08:00 -0300'
-category: Spore
+category: Esporopédia
 tags:
 - Spore
 - prévias

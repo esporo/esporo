@@ -2,14 +2,13 @@
 layout: post
 title: 'GameSpy: Prévias de Spore na E3'
 date: "2006-05-12 12:28:00 -0300"
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - prévias
 - E3
 
 ---
-
 [GameSpy](http://pc.gamespy.com/pc/spore/707514.html):
 
 > Sempre que você examinar criaturas, mundos ou sistemas solares, você coletará um “cartão” virtual que o representa. Esses cartões parecem com algo que você vê em jogos de cartas colecionáveis: eles contém uma imagem da criatura ou planeta, junto com estatísticas e informações. Se você clica no cartão de um planeta, você verá todos os cartões representando as criaturas que vivem naquele planeta — algo como uma rede virtual. Essa forma fácil de navegar por todo o conteúdo que você explorou se chama “Sporepédia”.

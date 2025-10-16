@@ -2,12 +2,11 @@
 layout: "post"
 title: "Primeiras impressões do Spore Creatures"
 date: "2008-02-20 19:22"
-category: Spin-offs
+category: Galáxia Spore
 tags:
   - Spore Creatures
   - prévias
 ---
-
 O GameSpot teve a oportunidade de experimentar o Spore Creatures no Nintendo DS. Eles começaram um jogo novo e em pouco tempo conseguiram personalizar a criatura. A prévia também revela que a história do jogo inclui combate entre criaturas, mas não fica claro se você pode assumir uma postura mais sociável.
 
 Confira um pouco sobre o Criador de Criaturas abaixo, e confira a prévia completa [aqui](http://www.gamespot.com/ds/strategy/spore/news.html?page=1&sid=6186331&tag=top_stories;title;9) (em inglês):

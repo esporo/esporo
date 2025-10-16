@@ -2,14 +2,12 @@
 layout: "post"
 title: "PC Magazine: Interatividade e jogos - os próximos passos"
 date: "2006-02-06 23:33"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - eventos
   - Will Wright
 ---
-
-
 [PC Magazine](http://blog.pcmag.com/blogs/miller/archive/2006/02/02/7.aspx):
 
 > A sessão de de manhã na EG 2006 era a que eu mais queria assistir, e foi espetacular. Wurman admitiu que ele sabia muito pouco sobre criar jogos, mas ele teve grandes pessoas que expliram para ele como, incluindo Bing Gordon, que exibiu a adaptação de “O Poderoso Chefão”; Will Wright demonstrou Spore, James Jorris mostrou simulações militares, e J. Allard falou sobre tornar os jogos mais mainstream.

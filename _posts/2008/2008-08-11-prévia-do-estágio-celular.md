@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prévia do Estágio Celular
-category: Spore
+category: Galáxia Spore
 tags: Spore vídeos estágios
 date: 2008-08-11 00:00 +0000
 ---

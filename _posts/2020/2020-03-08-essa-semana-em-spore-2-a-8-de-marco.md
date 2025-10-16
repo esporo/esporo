@@ -3,13 +3,12 @@ layout: post
 date: "2020-03-08 14:30:00 -0300"
 title: "Essa semana em SPORE: 2 a 8 de março"
 image: "/uploads/2020/03/08/resumo.jpg"
-category: Spore
+category: Esporopédia
 tags:
   - Sporepédia
   - serviços online
   - comunidade
 ---
-
 _**Essa semana em SPORE** é um resumo das novidades da comunidade do jogo nos últimos dias, com links para novos mods e conteúdos bacanas, uma olhada nas estatísticas do jogo e uma atualização no Esporocast, nossa coleção de criações em destaque._
 
 ## Estatísticas do jogo

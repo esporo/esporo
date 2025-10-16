@@ -2,10 +2,9 @@
 layout: "post"
 title: "Anúncio: EA e Maxis lançam Spore em setembro"
 date: "2008-02-12 16:11"
-category: Spore
+category: Galáxia Spore
 tags: Spore Maxis lançamento anúncios
 ---
-
 Aí vai o anúncio oficial da EA Brasil sobre o lançamento de Spore:
 
 > Prepare-se para um verdadeiro Big Bang neste ano! A Electronic Arts (NASDAQ: ERTS) e a Maxis anunciaram hoje que Spore™, o aguardado jogo dos mesmos criadores de The Sims™, chegará às lojas do mundo todo na primeira quinzena de setembro. Spore será lançado para PC, Nintendo DS™ e telefones celulares.

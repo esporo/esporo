@@ -1,10 +1,10 @@
 ---
 layout: post
+category: Guia Galáctico
 date: "2008-07-30 14:17:00"
 title: Game Critics Awards anunciam os indicados da E3 2008
 tags: Spore prêmios eventos E3
 ---
-
 O [Game Critics Awards](http://www.gamecriticsawards.com/nominees.html) anunciou os indicados aos prêmios de Melhores da E3 2008. O jogo LittleBigPlanet, da Media Molecule, lidera com cinco indicações. Spore está indicado nessas três:
 
 **Melhor do Evento:**

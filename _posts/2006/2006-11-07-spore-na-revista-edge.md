@@ -2,7 +2,7 @@
 layout: post
 date: '2006-11-07 10:59:00 -0300'
 title: Spore na revista Edge
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 ---

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 title: "EA anuncia acordo para ser adquirida por fundos de investimento da Arábia Saudita, genro de Donald Trump, entre outros"
 comments: true
 discussion_url: "https://forum.esporo.net/embed/107"
@@ -7,7 +8,6 @@ tags:
   - EA
   - Maxis
 ---
-
 A Electronic Arts, a distribuidora de _Spore_, _The Sims_ e _SimCity_, bem como a proprietária do estúdio [Maxis](https://www.maxis.com), anunciou hoje que firmou um acordo para ser adquirida por fundos de investimento: o PIF, fundo de investimento público da Arábia Saudita; Silver Lake; e Affinity Partners. Você pode [ler sobre o acordo no site oficial da EA](https://www.ea.com/news/exciting-news-about-our-future).
 
 O acordo valoriza a EA em US$ 55 bilhões. O acordo ainda precisa ser aprovado por órgãos reguladores antes de ser efetivado. As reações não tem sido boas: o fundo de investimento público da Arábia Saudita (PIF) vem adquirindo ações em várias empresas americanas, principalmente de entretenimento, com o objetivo de melhorar sua imagem pública internacional. O regime do príncipe da coroa da Arábia Saudita, Mohammed bin Salman, é considerado extremamente violento, e responsável pela morte e esquartejamento de Jamal Khashoggi, um jornalista anti-regime no consulado do país na Turquia. Outro membro do consórcio de investidores que realizarão a compra, a Affinity Partners, também recebeu dinheiro do PIF quando foi fundado por Jared Kushner, genro de Donald Trump, presidente dos Estados Unidos.

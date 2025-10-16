@@ -2,7 +2,7 @@
 layout: post
 date: '2006-10-15 19:43:00 -0300'
 title: 'NY Times: O Grande Zoom'
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - artigos

@@ -2,13 +2,12 @@
 layout: "post"
 title: "Novas entrevistas com Lucy Bradshaw"
 date: "2008-05-16 19:51"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - entrevistas
   - Lucy Bradshaw
 ---
-
 Novas entrevistas com a produtora executiva de Spore, Lucy Bradshaw, foram publicadas.
 
 A primeira foi publicada em um site alemão, e o fã-site [Space Oddity](http://spaceoddityblog.planets.gamespy.com/?p=411) traduziu alguns pedaços para o inglês, e eu traduzo para o português:

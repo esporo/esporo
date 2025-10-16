@@ -1,11 +1,11 @@
 ---
 layout: post
+category: Galáxia Spore
 title: "Esporo comemora 10 anos!"
 date: "2015-08-09 18:53:44 -0300"
 tags:
   - meta
 ---
-
 É isso mesmo, nem eu estou acreditando. O Esporo está fazendo dez anos!
 
 O que surgiu como um simples blog onde eu postava algumas notícias sobre Spore que eu achava na Internet acabou se transformando na comunidade brasileira do jogo.

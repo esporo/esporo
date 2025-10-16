@@ -2,13 +2,12 @@
 layout: "post"
 title: "Requisitos do sistema para o Criador de Criaturas do Spore"
 date: "2008-05-09 19:26"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - requisitos
   - Criador de Criaturas
 ---
-
 O blog [Space Oddity](http://spaceoddityblog.planets.gamespy.com/) encontrou os requisitos da edição avulsa do Criador de Criaturas no site oficial do Spore:
 
 - **Sistema operacional:** Windows XP/Vista

@@ -2,7 +2,7 @@
 layout: post
 date: '2007-01-28 19:20:00 -0300'
 title: Spore na lista de jogos mais esperados dos editores de sites
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 ---

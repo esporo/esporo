@@ -1,13 +1,12 @@
 ---
 title: 'UOL Jogos: Preview de Spore'
-category: Spore
+category: Galáxia Spore
 date: '2005-08-09 09:40:00'
 tags:
 - Spore
 - GDC
 - prévias
 ---
-
 [UOL Jogos](http://jogos.uol.com.br/previews/pc/ult404u598.jhtm):
 
 > Will Wright, criador de "SimCity" e "The Sims", trabalha em um experiência totalmente inédita, batizada de "Spore". O game é um simulador avançado que permite a criação de vida desde seus primórdios até o ápice de sua evolução.

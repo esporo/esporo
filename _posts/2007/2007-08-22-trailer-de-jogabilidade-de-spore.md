@@ -2,14 +2,13 @@
 layout: post
 date: "2007-08-22 19:01:00 -0300"
 title: Trailer de jogabilidade de Spore
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - vídeos
   - eventos
   - Games Convention
 ---
-
 A Games Convention começou em Leipzig, na Alemanha, e a Electronic Arts divulgou **dois novos vídeos de Spore!**
 
 O primeiro, que você confere abaixo, é um trailer de jogabilidade. Olha como o jogo está lindo!

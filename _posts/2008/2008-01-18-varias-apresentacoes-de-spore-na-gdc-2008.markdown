@@ -2,10 +2,9 @@
 layout: "post"
 title: "Duas apresentações de Spore na GDC 2008"
 date: "2008-01-18 10:25"
-category: Spore
+category: Galáxia Spore
 tags: Spore eventos GDC
 ---
-
 A conferência de desenvolvedores de jogos, a GDC, vai acontecer no mês que vem e vai ter palestras dos desenvolvedores de Spore, confira:
 
 **[Polinizando o universo: conteúdo gerado por usuários em Spore](https://www.cmpevents.com/GD08/a.asp?option=C&V=11&SessID=6238)**  

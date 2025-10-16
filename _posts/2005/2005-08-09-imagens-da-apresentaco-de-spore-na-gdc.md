@@ -1,13 +1,13 @@
 ---
 title: Imagens da apresentação de Spore na GDC
 layout: post
+category: Galáxia Spore
 author: gaboo
 date: '2005-08-09 13:30:00'
 tags:
 - Spore
 - GDC
 ---
-
 O GameSpy e o blog GamingSteve estiveram na apresentação de Will Wright na GDC esse ano, quando ele falou de **Spore** e nas ferramentas de compartilhamento do jogo, e postaram algumas imagens da demonstração. Clique nas miniaturas para ver em tamanho maior:
 
 ![Um micróbio navegando no meio de uma poça d'água](https://i.imgur.com/Xurok9w.jpg)

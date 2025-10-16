@@ -2,12 +2,11 @@
 layout: "post"
 title: "Detalhes sobre o Criador de Criaturas do Spore Creatures"
 date: "2008-02-18 18:03"
-category: Spin-offs
+category: Galáxia Spore
 tags:
   - Spore Creatures
   - Jason Haber
 ---
-
 O site [Pocket Gamer](http://www.pocketgamer.co.uk/r/DS/Spore+Creatures/news.asp?c=5770) publicou uma entrevista com Jason Haber, produtor na Maxis. Eles discutiram sobre Spore Creatures para Nintendo DS, e Jason explicou alguns detalhes sobre o Criador de Criaturas do jogo e como o jogo vai compartilhar suas criaturas nos mundos de outras pessoas.
 
 > **Pocket Gamer: Qual foi a dificuldade na hora de escolher qual fase do jogo de PC a Maxis ia se focar no jogo para DS? Por que vocês escolheram a fase de Criatura?**

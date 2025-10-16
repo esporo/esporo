@@ -2,7 +2,7 @@
 layout: "post"
 title: "Entrevista de Soren Johnson ao Gamasutra sobre inteligência artificial"
 date: "2008-07-11 21:21"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - equipe
@@ -10,7 +10,6 @@ tags:
   - Maxis
   - Soren Johnson
 ---
-
 [Gamasutra](http://www.gamasutra.com/view/feature/3722/interview_soren_johnson__spores_.php?page=1):
 
 > **Gamasutra: Quais foram os seus desafios? Você mencionou alguns, mas você veio de um projeto focado em jogadores hardcore para algo menos com foco em uma audiência nova e novas ideias. Isso foi mais desafiador ou mais libertador?**

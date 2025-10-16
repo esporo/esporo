@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 title: "Atualização sobre a manutenção dos serviços online de Spore"
 date: "2015-10-17 22:55:37 -0200"
 tags:

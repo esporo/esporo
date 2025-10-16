@@ -2,10 +2,9 @@
 layout: "post"
 title: "Mensagem de MaxisCactus aos fã-sites"
 date: "2008-02-12 16:26"
-category: Spore
+category: Galáxia Spore
 tags: Spore comunidade
 ---
-
 Todo o jogo da Maxis possui um Gerente de Comunidade que é o responsável pela interação do estúdio com os fãs. No caso de Spore, esse gerente é MaxisCactus, que enviou a seguinte mensagem para os fãs:
 
 > Oi pessoal,

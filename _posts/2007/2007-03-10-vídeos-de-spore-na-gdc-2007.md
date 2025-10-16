@@ -2,7 +2,7 @@
 layout: post
 date: '2007-03-10 12:21:00 -0300'
 title: Vídeos de Spore na GDC 2007
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - eventos

@@ -2,13 +2,12 @@
 layout: "post"
 title: "Spore.com atualizado com mais informações!"
 date: "2006-05-09 18:36"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Spore.com
   - serviços online
 ---
-
 O [site oficial de Spore](http://www.spore.com/) foi atualizado com as primeiras informações oficiais do jogo, incluindo novas imagens.
 
 Confira abaixo a descrição oficial do jogo:

@@ -1,7 +1,7 @@
 ---
 date: '2019-08-22 16:00 -0300'
 layout: post
-category: Maxis
+category: Órion
 sticky: false
 published: true
 title: EA abre novo estúdio da Maxis em Austin

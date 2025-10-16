@@ -1,14 +1,13 @@
 ---
 layout: post
 title: EA substituirá a Origin por um novo aplicativo, EA Desktop
-category: EA
+category: Órion
 tags:
   - EA
   - Origin
   - EA Desktop
 date: 2020-09-24 08:50 -0300
 ---
-
 A EA vai descontinuar a marca Origin, inclusive seu aplicativo que serve como lançador dos seus jogos, com uma futura atualização. O novo aplicativo, EA Desktop, está em [fase de testes](https://www.ea.com/ea-desktop-beta) e aparentemente substituirá todo o funcionamento da Origin. Confira a nota da empresa (e algumas capturas de tela da interface do novo app):
 
 ![Interface da página inicial do aplicativo, com uma lista de jogos em destaque no centro, uma lista de amigos no lado direito e o menu de navegação no lado esquerdo.]({%- link uploads/2020/09/24/ea-desktop.jpg -%})

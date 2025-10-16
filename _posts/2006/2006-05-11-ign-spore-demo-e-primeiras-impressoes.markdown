@@ -2,13 +2,12 @@
 layout: post
 title: 'IGN: Spore, demo e primeiras impressões'
 date: "2006-05-11 21:58 -0300"
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - prévias
 - E3
 ---
-
 [IGN](https://www.ign.com/articles/2006/05/10/e3-2006-spore-demo-and-hands-on-impressions):
 
 > Uma das coisas mais legais foi ver que a demonstração de hoje foi feita com o jogo, e não com o protótipo exibido no ano passado. A arte é consistente com o oque já vimos nos eventos anteriores, mas parece ser mais detalhada e refinada que antes. Will Wright também mostrou algumas coisas novas como o mapeamento de texturas nas criaturas e um pouco de jogabilidade, como uma versão bebê da criatura que você criou.

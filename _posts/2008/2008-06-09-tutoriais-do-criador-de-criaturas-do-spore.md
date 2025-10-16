@@ -2,14 +2,13 @@
 layout: "post"
 title: "Tutoriais do Criador de Criaturas do Spore"
 date: "2008-06-09 22:31"
-category: Spore
+category: Guia Galáctico
 tags:
   - Spore
   - vídeos
   - tutoriais
   - Criador de Criaturas
 ---
-
 Dois tutoriais do Criador de Criaturas foram publicados no canal do Spore no YouTube.
 
 No primeiro, o animador John Cimino ensina a criar uma criatura:

@@ -1,5 +1,6 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "Detalhes sobre a versão de Spore para Nintendo Wii"
 date: "2008-02-12 16:57"
 tags:
@@ -8,7 +9,6 @@ tags:
   - Wii
   - spin-offs
 ---
-
 Eu sou um grande fã da Nintendo. Eu tenho um Wii e perco boa parte dos meus dias jogando Super Mario Galaxy. Isso talvez seja um problema, porque eu já estou ansioso por jogar Spore no computador, e agora eu vou ficar na expectativa de jogar Spore no DS e no Wii também.
 
 Por sorte, a versão pra Nintendo Wii não vai ser lançada junto com a versão de PC e Nintendo DS. O site [Revogamers](http://www.revogamers.net/articulos-249-Spore:-la-evoluciÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³n-de-los-videojuegos-3.html) entrevistou a produtora Caryl Shaw durante uma apresentação de Spore na Espanha. Ela afirmou que a versão de Spore para Wii está em fase de planejamento, e não vai ser a mesma coisa que a versão para PC.

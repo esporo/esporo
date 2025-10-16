@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 title: 12 anos de Spore!
 author: gaboo
 tags:

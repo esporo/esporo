@@ -1,5 +1,6 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "The Tyee: falando com o deus de Spore"
 date: "2008-07-28 01:04"
 tags:
@@ -7,7 +8,6 @@ tags:
   - entrevistas
   - Will Wright
 ---
-
 [The Tyee](http://thetyee.ca/Entertainment/2008/07/15/GodOfSpore/):
 
 > “Eu tive a sorte de ter tido sucessos o suficiente para que a EA não se importasse com minhas ideias malucas. Eles apenas acreditaram em mim. Eu disse para o time executivo ‘eu tenho esse ótimo jogo, powers of 10, conteúdo personalizado, bla bla bla’. Eles nem quiseram saber do que eu estava falando, só me disseram ‘Faça’”.

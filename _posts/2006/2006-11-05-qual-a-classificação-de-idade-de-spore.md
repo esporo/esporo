@@ -2,7 +2,7 @@
 layout: post
 date: '2006-11-05 19:01:00 -0300'
 title: Qual a classificação de idade de Spore?
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CEO da EA comenta porque o nome de Will Wright não deve estar na caixa do Spore
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - EA

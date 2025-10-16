@@ -2,14 +2,13 @@
 layout: "post"
 title: "IGN: GDC 2006: Will Wright e Spore"
 date: "2006-03-24 12:06"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - prévias
   - GDC
   - serviços online
 ---
-
 [IGN](http://pc.ign.com/articles/698/698259p2.html):
 
 > A seção mais informativa foi sobre as comunidades, sobre o “Conteúdo Polinizado”, que é basicamentecomo eles chamam o conteúdo criado por usuários que é automaticamente espalhado pela base de jogadores que estão conectados à internet.

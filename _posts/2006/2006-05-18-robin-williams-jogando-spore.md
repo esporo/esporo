@@ -2,7 +2,7 @@
 layout: post
 title: Robin Williams jogando Spore
 date: '2006-05-18 11:32:00 -0300'
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - vídeos

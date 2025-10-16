@@ -2,10 +2,9 @@
 layout: post
 date: "2008-08-04 16:27:00 -0300"
 title: "Spore pode atender as expectativas?"
-category: Spore
+category: Galáxia Spore
 tags: Spore prévias
 ---
-
 [CNET](http://news.cnet.com/8301-13772_3-10004869-52.html?part=rss&subj=news&tag=2547-1_3-0-20):
 
 > “[…] Eu acho que será resultado do boca-a-boca e do marketing viral”, disse Sebastian da agência de investimentos Lazard's Capital. “Será algo que as pessoas vão querer falar sobre com os amigos, e os amigos e familiares vão notar e pensar ‘nossa, eu quero fazer isso também’. É um pouco prematuro dizer se Spore conseguirá fazer isso ou não”.

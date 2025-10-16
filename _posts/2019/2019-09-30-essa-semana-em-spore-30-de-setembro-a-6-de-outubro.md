@@ -2,14 +2,13 @@
 layout: post
 title: "Essa semana em SPORE: 30 de setembro a 6 de outubro"
 date: "2019-09-30 17:05:45"
-category: Spore
+category: Esporopédia
 tags:
   - Spore
   - Sporepédia
   - downloads
   - mods 
 ---
-
 _Essa semana em SPORE é um resumo semanal das novidades da comunidade do jogo nos últimos dias, com links para novos mods e conteúdos bacanas, uma olhada nas estatísticas do jogo e uma atualização no Esporocast, nossa coleção de criações em destaque._
 
 ## Estatísticas

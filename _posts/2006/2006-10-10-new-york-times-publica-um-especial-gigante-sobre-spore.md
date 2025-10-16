@@ -2,7 +2,7 @@
 layout: post
 date: '2006-10-10 14:26:00 -0300'
 title: New York Times publica um especial gigante sobre Spore
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - artigos

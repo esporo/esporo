@@ -1,7 +1,7 @@
 ---
 date: '2019-10-07 17:04 -0300'
 layout: post
-category: EA
+category: Galáxia Spore
 sticky: false
 published: true
 title: Recursos online de Spore inacessíveis por problemas nos servidores da EA

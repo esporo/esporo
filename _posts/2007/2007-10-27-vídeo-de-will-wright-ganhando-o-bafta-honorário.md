@@ -2,7 +2,7 @@
 layout: post
 date: '2007-10-27 02:31:00 -0300'
 title: Vídeo de Will Wright ganhando o BAFTA honorário
-category: Maxis
+category: Órion
 tags:
 - equipe
 - Will Wright

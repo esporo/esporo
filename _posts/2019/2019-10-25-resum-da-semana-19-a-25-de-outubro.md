@@ -2,14 +2,13 @@
 layout: post
 date: 2019-10-25
 title: "Essa semana em SPORE: 19 a 25 de outubro"
-category: Spore
+category: Esporopédia
 image: "/uploads/2019/10/25/resumo.jpg"
 tags:
  - status de serviço
  - Sporepédia
  - concursos
 ---
-
 _Essa semana em SPORE é um resumo semanal das novidades da comunidade do jogo nos últimos dias, com links para novos mods e conteúdos bacanas, uma olhada nas estatísticas do jogo e uma atualização no Esporocast, nossa coleção de criações em destaque._
 
 ***

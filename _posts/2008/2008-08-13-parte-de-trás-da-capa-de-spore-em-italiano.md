@@ -2,7 +2,7 @@
 layout: post
 title: Parte de trás da capa de Spore (em italiano)
 author: gaboo
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - imagens

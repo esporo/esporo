@@ -2,7 +2,7 @@
 layout: post
 date: '2006-10-23 14:56:00 -0300'
 title: Will Wright apresenta Spore em evento com Brian Eno
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - eventos

@@ -2,14 +2,13 @@
 layout: "post"
 title: "Sporepédia alcança 1 milhão de criaturas!"
 date: "2008-06-25 15:42"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Criador de Criaturas
   - Sporepédia
   - anúncios
 ---
-
 A Electronic Arts anunciou hoje que a Sporepédia conseguiu mais um grande feito: em menos de uma semana no ar, o catálogo de criações do Spore já atingiu a marca de um milhão de criaturas enviadas para os servidores pelo Criador de Criaturas:
 
 ![A milionésima criatura de Spore](/uploads/2019/07/172809-millionth_dude011.jpg)

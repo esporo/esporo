@@ -2,7 +2,7 @@
 layout: "post"
 title: "GDC 2008: Mais informações sobre o serviço Meu Spore"
 date: "2008-02-21 20:25"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Sporepédia
@@ -12,7 +12,6 @@ tags:
   - GDC
   - Caryl Shaw
 ---
-
 A IGN também estava na palestra da Caryl Shaw na GDC e tirou mais informações dos serviços online de Spore. A página do jogador se chamará Meu Spore, e é onde outros jogadores poderão ver suas criações, sporecasts e ver seus amigos.
 
 Leia mais na [prévia da IGN](http://pc.ign.com/articles/853/853815p1.html):

@@ -2,7 +2,7 @@
 layout: post
 date: '2006-11-06 14:37:00 -0300'
 title: Novo vídeo do editor de criaturas
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - vídeos

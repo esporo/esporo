@@ -2,14 +2,13 @@
 layout: "post"
 title: "SporeDay traz um protótipo de Spore essa semana"
 date: "2008-07-08 17:59"
-category: Spore
+category: Esporopédia
 tags:
   - Spore
   - SporeDay
   - protótipos
   - downloads
 ---
-
 O SporeDay essa semana é uma surpresa bem bacana! O time Spore disponibilizou para os fãs um dos protótipos de desenvolvimento do Spore, o Homem Partícula:
 
 > O Homem-Partícula simula a atração gravitacional entre as partículas de uma nuvem. Foi usado para estudar a dinâmica gravitacional de sistemas, como órbitas, e a formação de galáxias e estrelas, bem como os fluxos de partículas de fontes, como pulsares e buracos negros.

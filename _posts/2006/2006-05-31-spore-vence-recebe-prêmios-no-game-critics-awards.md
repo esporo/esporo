@@ -2,7 +2,7 @@
 layout: post
 title: Spore vence recebe prêmios no Game Critics Awards
 date: '2006-05-31 11:26:00 -0300'
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - prêmios

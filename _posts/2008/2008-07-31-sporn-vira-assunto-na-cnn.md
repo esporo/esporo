@@ -2,10 +2,9 @@
 layout: post
 date: "2008-07-31 06:29:00"
 title: Sporn vira assunto na CNN
-category: Spore
+category: Galáxia Spore
 tags: Spore sporn
 ---
-
 Sporn, como a comunidade está chamando o “pornô feito com Spore”, é coisa antiga já, e as notícias sobre ele se acalmaram um pouco depois do banimento em massa de pintos da Sporepédia. 
 
 Hoje, a [CNN](http://www.cnn.com/2008/TECH/07/30/spore.sporn/?iref=mpstoryview) aproveita para falar com Lucy Bradshaw sobre o assunto:

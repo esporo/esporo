@@ -2,10 +2,9 @@
 layout: "post"
 title: "Spore estará em feira de ficção científica em Londres (e talvez seja jogável!)"
 date: "2008-03-18 15:47"
-category: Spore
+category: Galáxia Spore
 tags: Spore eventos
 ---
-
 Spore estará em exibição em um evento de ficção científica em Londres no mês que vem.
 
 Ainda não é certo, mas os organizadores sabem que a EA estará demonstrando jogos lá, e talvez Spore seja um deles. [Esse artigo](http://www.computerandvideogames.com/article.php?id=185015) revela algumas informações:

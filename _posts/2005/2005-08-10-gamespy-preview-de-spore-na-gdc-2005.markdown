@@ -2,13 +2,12 @@
 layout: "post"
 title: "GameSpy: Preview de Spore na GDC 2005"
 date: "2005-08-10 18:41"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - prévias
   - GDC
 ---
-
 [GameSpy](http://pc.gamespy.com/pc/spore/616537p2.html):
 
 > Enquanto a gente explorava a galáxia durante a demonstração, eu reparei que cada planeta parecia único. Alguns eram repletos de bolas de gelo, outros eram pedras sem vida, e até mesmo entre os planetas habitáveis havia muita variedade. Nosso planeta inicial era uma selva úmida com uma atmosfera densa, mas outro mundo que visitamos era seco e árido, com muito pouca água e muita areia amarela avermelhada.

@@ -2,7 +2,7 @@
 layout: post
 date: '2006-12-05 14:13:00 -0300'
 title: Will Wright no The Colbert Report
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - Will Wright

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eurogamer: Primeiras impressões do Spore Creatures'
-category: Spin-offs
+category: Galáxia Spore
 tags:
 - Spore Creatures
 - prévias

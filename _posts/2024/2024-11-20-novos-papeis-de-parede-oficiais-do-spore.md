@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Esporopédia
 title: Novos papeis de parede oficiais do Spore
 author: gaboo
 tags:

@@ -2,10 +2,9 @@
 layout: "post"
 title: "Spore já está recebendo prêmios da E3"
 date: "2008-07-25 00:34"
-category: Spore
+category: Galáxia Spore
 tags: Spore eventos E3 prêmios
 ---
-
 Spore já está recebendo os prêmios pela apresentação na E3 2008.
 
 A [IGN](http://pc.ign.com/articles/893/893894p1.html) deu o prêmio de Melhor Jogo de Estratégia, o Prêmio Especial de Inovação e o Melhor Jogo para PC:

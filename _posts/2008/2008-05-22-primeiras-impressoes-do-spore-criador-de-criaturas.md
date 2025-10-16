@@ -2,13 +2,12 @@
 layout: "post"
 title: "Primeiras impressões do Spore: Criador de Criaturas"
 date: "2008-05-22 18:49"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Criador de Criaturas
   - prévias
 ---
-
 O Criador de Criaturas será lançado em menos de um mês, e alguns sites já colocaram as mãos na demonstração!
 
 [IGN](http://pc.ign.com/articles/875/875963p1.html):

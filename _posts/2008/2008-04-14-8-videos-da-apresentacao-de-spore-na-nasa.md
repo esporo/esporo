@@ -1,10 +1,10 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "8 vídeos da apresentação de Spore na NASA"
 date: "2008-04-14 02:21"
 tags: Spore vídeos eventos
 ---
-
 **Demonstração da fase do Espaço:**
 
 <iframe width="1280" height="737" src="https://www.youtube-nocookie.com/embed/Ynu2U_7usZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

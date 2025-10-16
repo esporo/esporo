@@ -2,10 +2,9 @@
 layout: "post"
 title: "Entrevista com a equipe da Maxis sobre o lançamento"
 date: "2008-02-12 16:15"
-category: Maxis
+category: Galáxia Spore
 tags: Spore lançamento entrevistas
 ---
-
 Que dia! A data de lançamento de Spore finalmente foi anunciada e muitas informações estão aparecendo por aí.
 
 A Newsweek publicou uma entrevista em três partes com Will Wright e outros desenvolvedores do time de Spore na Maxis. Confira a tradução de uma parte abaixo:

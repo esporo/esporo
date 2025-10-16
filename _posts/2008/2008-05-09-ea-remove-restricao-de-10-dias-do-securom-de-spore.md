@@ -2,10 +2,9 @@
 layout: "post"
 title: "EA remove restrição de 10 dias do SecuROM de Spore"
 date: "2008-05-09 19:22"
-category: Spore
+category: Galáxia Spore
 tags: Spore EA DRM SecuROM
 ---
-
 Estamos chegando em algum lugar! A EA nos ouviu e removeu a validação a cada dez dias para jogabilidade offline. Nós não conseguimos remover o DRM completamente, mas não precisaremos nos preocupar de _não conseguir jogar um jogo que compramos_.
 
 A EA atualizou o FAQ de Spore no [site oficial](http://www.spore.com/faq.php):

@@ -2,7 +2,7 @@
 layout: post
 title: "Rumor: EA prioriza usar a engine Unreal em seus próximos jogos"
 author: gaboo
-category: EA
+category: Órion
 tags:
   - EA
   - rumores
@@ -10,7 +10,6 @@ tags:
   - Lost Astral
 date: 2022-05-24 14:00 -0300
 ---
-
 Tudo indica que a EA deve parar de investir no desenvolvimento da engine Frostbite e priorizar o uso da engine Unreal, da Epic Games, em seus próximos jogos.
 
 O rumor foi apontado pelo _simmer_ [James Avery](https://twitter.com/jamesavery7890/status/1513251438494896138) através do site de carreiras da EA em busca de um engenheiro de software sênior especificamente para o desenvolvimento através da Unreal Engine:

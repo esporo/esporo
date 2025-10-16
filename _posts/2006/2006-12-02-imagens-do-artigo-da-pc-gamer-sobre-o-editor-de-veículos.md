@@ -2,7 +2,7 @@
 layout: post
 date: '2006-12-02 12:20:00 -0300'
 title: Imagens do artigo da PC Gamer sobre o editor de veículos
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - artigos

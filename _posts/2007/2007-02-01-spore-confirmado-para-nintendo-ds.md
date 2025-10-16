@@ -2,7 +2,7 @@
 layout: post
 date: '2007-02-01 12:16:00 -0300'
 title: Spore confirmado para Nintendo DS
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - plataformas

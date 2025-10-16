@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 title: Spore com 50% de desconto na GOG
 author: gaboo
 comments: true

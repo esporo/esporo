@@ -2,10 +2,9 @@
 layout: "post"
 title: "O que aconteceria se a EA desaparecesse?"
 date: "2008-04-14 02:29"
-category: EA
+category: Galáxia Spore
 tags: EA Maxis
 ---
-
 [GameOn](http://blogs.pcworld.com/gameon/archives/006794.html):
 
 >  Na verdade, o único jogo que me vem em mente que tem alguma significância que a EA esteja lançando é o Spore de Wright. Claro, esse jogo pode ser o jogo que vai alinhar todos os corpos celestiais, mas você não cria um império de inovação nas costas de um cara que cria dois ou três hits em duas décadas.

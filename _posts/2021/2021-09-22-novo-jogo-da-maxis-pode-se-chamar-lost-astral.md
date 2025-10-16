@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 title: Novo jogo da Maxis pode se chamar &ldquo;Lost Astral&rdquo;
 author: gaboo
 tags:
@@ -8,7 +9,6 @@ tags:
   - Lost Astral
 date: 2021-09-22 15:01 -0300
 ---
-
 O novo jogo desenvolvido pelo [estúdio da Maxis em Austin]({% post_url 2019/2019-08-22-ea-abre-novo-est-dio-da-maxis-em-austin %}), no Texas, teve seu título revelado, _Lost Astral_.
 
 O vazamento se deu através da API da plataforma de streaming de jogos GEFORCE NOW, que sem querer exibiu uma lista de dezenas de títulos que serão integrados à plataforma. Você pode conferir [a lista completa do vazamento aqui](https://gist.github.com/xPaw/6a42aafd3c9d19b3ceab2e90b5a37cd2).

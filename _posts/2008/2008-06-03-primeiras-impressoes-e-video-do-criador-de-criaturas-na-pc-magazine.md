@@ -2,14 +2,13 @@
 layout: "post"
 title: "Primeiras impressões e vídeo do Criador de Criaturas na PC Magazine"
 date: "2008-06-03 23:53"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - vídeos
   - prévias
   - Criador de Criaturas
 ---
-
 O blog AppScout da revista americana PC Magazine publicou suas primeiras impressões e um vídeo do Criador de Criaturas do Spore.
 
 <iframe width="1280" height="568" src="https://www.youtube-nocookie.com/embed/g0lRFIrYQwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

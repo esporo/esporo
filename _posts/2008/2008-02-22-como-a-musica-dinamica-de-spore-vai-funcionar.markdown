@@ -2,14 +2,13 @@
 layout: "post"
 title: "Como a música dinâmica de Spore vai funcionar"
 date: "2008-02-22 01:23"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - entrevistas
   - Kent Jolly
   - Aaron McLeran
 ---
-
 Kent Jolly e Aaron McLeran, os engenheiros de áudio de Spore, foram entrevistados pela GameSpy sobre como funciona a “música dinâmica” de Spore, que é gerada pelo jogo dependendo de vários aspectos da jogabilidade.
 
 O artigo todo vale a lida ([clique aqui para ler](http://pc.gamespy.com/pc/spore/853810p1.html)), mas traduzimos um trecho relevante abaixo:

@@ -2,12 +2,11 @@
 layout: post
 date: 2019-11-15
 title: "Essa semana em SPORE: 9 a 15 de novembro"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - resumo da semana
 ---
-
 _**Essa semana em SPORE** é um resumo das novidades da comunidade do jogo nos últimos dias, com links para novos mods e conteúdos bacanas, uma olhada nas estatísticas do jogo e uma atualização no Esporocast, nossa coleção de criações em destaque._
 
 ***

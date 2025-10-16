@@ -2,13 +2,12 @@
 layout: post
 title: Vestígios de uma expansão cancelada para Spore foram encontrados no site oficial
 date: 2020-12-05 15:07:16 -0300
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - expansões
   - rumores
 ---
-
 O usuário [u/0keponline](https://www.reddit.com/user/0keponline/) postou no [subreddit de Spore](https://www.reddit.com/r/Spore/comments/k2xpnz/cancelled_expansion_pack/) um achado curioso: o vestígio de uma expansão cancelada para _Spore_, confira:
 
 {: align="center" }

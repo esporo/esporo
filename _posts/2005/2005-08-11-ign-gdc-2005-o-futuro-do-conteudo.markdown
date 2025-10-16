@@ -2,13 +2,12 @@
 layout: "post"
 title: "IGN: GDC 2005: O Futuro do Conteúdo"
 date: "2005-08-11 19:42"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - prévias
   - GDC
 ---
-
 [IGN](https://www.ign.com/articles/2005/03/12/gdc-2005-the-future-of-content):
 
 > Note como o jogo começa simples e então se transforma em um profundo jogo sandbox. Claro, Will Wright só pode criar um tanto, então ele vai deixar para o jogador expandir o universo. As ferramentas de criação são tão simples de usar que Will as relaciona com brinquedos de criança. Um jogador apenas precisa definir alguns parâmetros e combinar objetos para criar monstros, pessoas e qualquer coisa. A tecnologia avançada de Spore vai aplicar automaticamente as animações necessárias, independente de como elas vão ser.

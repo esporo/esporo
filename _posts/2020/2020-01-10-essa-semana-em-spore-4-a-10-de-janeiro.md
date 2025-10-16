@@ -3,13 +3,12 @@ layout: post
 date: "2020-01-10 08:13:00 -0300"
 title: "Essa semana em SPORE: 4 a 10 de janeiro de 2020"
 image: "/uploads/2020/01/08/resumo.jpg"
-category: Spore
+category: Galáxia Spore
 tags:
   - Sporepédia
   - serviços online
   - Esporocast
 ---
-
 _**Essa semana em SPORE** é um resumo das estatísticas da comunidade do jogo nos últimos dias, com links úteis e atualizações no Esporocast, nossa coleção de criações em destaque._
 
 ## Estatísticas do jogo

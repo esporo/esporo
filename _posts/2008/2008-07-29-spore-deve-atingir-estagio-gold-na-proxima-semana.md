@@ -2,14 +2,13 @@
 layout: post
 date: "2008-07-29 10:24:00"
 title: "Spore deve atingir estágio Gold na semana que vem!"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Maxis
   - equipe
   - Thomas Vu
 ---
-
 Um jogo atinge o estágio Gold quando ele está pronto para ser lançado. A partir daí, ele começa a ser distribuído para as lojas e tudo o mais.
 
 Segundo uma entrevista com o produtor Thomas Vu para a [CNET](http://news.cnet.com/8301-13772_3-10001691-52.html), Spore deve ficar pronto na próxima semana:

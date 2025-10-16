@@ -2,7 +2,7 @@
 layout: post
 title: Figuras de criaturas do Spore na E3
 date: '2006-05-15 22:24:00 -0300'
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - E3

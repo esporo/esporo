@@ -1,5 +1,6 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "GameSpot UK entrevista Lucy Bradshaw sobre o Criador de Criaturas"
 date: "2008-06-17 18:15"
 tags:
@@ -8,7 +9,6 @@ tags:
   - entrevistas
   - Lucy Bradshaw
 ---
-
 [GameSpot UK](http://www.gamespot.com/news/6192630.html):
 
 > **GameSpot UK: Por que vocês decidiram vender o Criador de Criaturas?**

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 title: 'No Man''s Sky: Origins expande ainda mais o universo do jogo'
 tags:
 - outros jogos

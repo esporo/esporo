@@ -2,7 +2,7 @@
 layout: "post"
 title: "Cobertura da E3 2008: Spore Creatures"
 date: "2008-07-16 21:57"
-category: Spin-offs
+category: Galáxia Spore
 tags:
   - Spore Creatures
   - eventos
@@ -10,7 +10,6 @@ tags:
   - vídeos
   - prévias
 ---
-
 **Vídeos de jogabilidades:**
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/CH_aI0EMVcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

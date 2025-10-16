@@ -2,7 +2,7 @@
 layout: post
 date: '2006-10-21 14:45:00 -0300'
 title: Will Wright comenta sobre expansões
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - expansões

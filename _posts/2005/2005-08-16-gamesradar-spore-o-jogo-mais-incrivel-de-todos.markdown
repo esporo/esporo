@@ -2,13 +2,12 @@
 layout: "post"
 title: "GamesRadar: Spore - O jogo mais incrível de todos?"
 date: "2005-08-16 18:18"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - E3
   - prévias
 ---
-
 [GamesRadar](http://gamesradar.msn.co.uk/features/default.asp?pagetypeid=2&articleid=35976&subsectionid=1639):
 
 > Você procura por vida ao passar o mouse por cima das estrelas e ver se existem ondas de rádio saindo delas — se você ouvir um chiado, existe vida lá. Então você pode ir lá e explorar, ver que tipo de criatura diferente existe e coletar seus dados, e então sair dali ou matar todo mundo, colonizando o planeta para si.

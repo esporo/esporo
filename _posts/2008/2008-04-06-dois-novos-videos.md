@@ -2,10 +2,9 @@
 layout: "post"
 title: "Dois novos vídeos"
 date: "2008-04-06 19:01"
-category: Spore
+category: Galáxia Spore
 tags: Spore vídeos
 ---
-
 Spore foi demonstrado em um festival na Tailândia e dois vídeos da demonstração apareceram na Internet.
 
 O primeiro deles está no YouTube:

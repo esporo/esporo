@@ -2,13 +2,12 @@
 layout: "post"
 title: "Will Wright na conferência da revista New Yorker"
 date: "2007-05-20 01:09"
-category: Spore
+category: Galáxia Spore
 tags:
   - Will Wright
   - vídeos
   - Spore
 ---
-
 Depois do atraso do jogo e dos meses sem notícias, temos algumas boas novidades! Will Wright apresentou a versão mais nova do jogo na conferência da revista New Yorker esse mês.
 
 Algumas novidades que conseguimos conferir pelo vídeo. Você começa o jogo escolhendo um sistema solar na galáxia! O jogo começa com um filmezinho mostrando como a vida começa no planeta, e daí você começa a jogar a fase da célula.

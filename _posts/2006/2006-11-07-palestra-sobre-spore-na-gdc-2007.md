@@ -2,7 +2,7 @@
 layout: post
 date: '2006-11-07 11:07:00 -0300'
 title: Palestra sobre Spore na GDC 2007
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - eventos

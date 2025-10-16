@@ -2,7 +2,7 @@
 layout: post
 date: '2007-04-20 14:45:00 -0300'
 title: Desenvolvedor de Civilization entra para a equipe de Spore
-category: Maxis
+category: Galáxia Spore
 tags:
 - Spore
 - Maxis

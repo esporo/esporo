@@ -2,13 +2,12 @@
 layout: "post"
 title: "Joystiq: Impressões do Criador de Criaturas"
 date: "2008-05-23 14:36"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - prévias
   - Criador de Criaturas
 ---
-
 [Joystiq](http://www.joystiq.com/2008/05/23/joystiq-hands-on-spore-creature-creator-and-the-birth-of-sporky/):
 
 > Praticamente não há uma curva de aprendizado para o criador. É estupendo de tão intuitivo. Sem um tutorial, nós começamos a mudar o tamanho de uma bolha colorida e flutuante instintivamente para formar o corpo de nossa criatura. Essa era a versão completa do criador, então nós tivemos acesso as várias partes de criatura que vem com ele (a edição gratuita possui apenas um quarto delas).

@@ -5,13 +5,12 @@ date: "2016-06-12 22:05:32 -0200"
 image:
   path: "https://cldup.com/ixJBeWL7rG.jpg"
   alt: Marca da promoção “Infinite Gaming”
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - promoções
   - Origin
 ---
-
 A Origin está com uma grande promoção com descontos de até 75%. Os títulos Spore estão com preços baixíssimos, confira:
 
 - Spore (PC/Mac): R$ 9,95

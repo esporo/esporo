@@ -9,7 +9,7 @@ tags:
   - downloads
   - mods
   - Estágio Espacial
-category: Spore
+category: Esporopédia
 ---
 O modder VanillaCold lançou uma nova modificação para Spore, [Change Spice](https://github.com/VanillaCold/Spore-ChangeSpice) que adiciona um truque para o Estágio Espacial que muda a cor da especiaria de um planeta.
 

@@ -2,7 +2,7 @@
 layout: post
 date: '2006-11-05 18:47:00 -0300'
 title: Spore vai vender?
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 ---

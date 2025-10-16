@@ -1,5 +1,6 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "1Up entrevista Soren Johnson"
 date: "2008-06-19 14:06"
 tags:
@@ -7,7 +8,6 @@ tags:
   - entrevistas
   - Soren Johnson
 ---
-
 O [1Up](http://www.1up.com/do/feature?cId=3168266) publicou uma entrevista com Soren Johnson, desenvolvedor de Spore que veio da equipe do jogo _Civilization IV_ ano passado, quando o jogo foi atrasado por um ano.
 
 > **1UP: Ok, vamos voltar um pouco. O que tinha em Spore que fez você querer sair da Maxis? Trabalhar com Wright atraiu você? Ou foi o jogo em si?**

@@ -2,7 +2,7 @@
 layout: post
 date: '2007-08-15 01:32:00 -0300'
 title: Will Wright dá entrevista ao GameTrailers
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - Maxis

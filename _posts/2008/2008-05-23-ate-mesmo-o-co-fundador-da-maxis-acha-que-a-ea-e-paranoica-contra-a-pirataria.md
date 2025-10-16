@@ -2,14 +2,13 @@
 layout: "post"
 title: "Até mesmo o co-fundador da Maxis acha que a EA é paranoica contra a pirataria"
 date: "2008-05-23 15:53"
-category: EA
+category: Galáxia Spore
 tags:
   - Spore
   - SecuROM
   - DRM
   - Jeff Braun
 ---
-
 A [Cordweekly](http://www.cordweekly.com/cordweekly/myweb.php?hls=10034&news_id=1748) entrevistou Jeff Braun, co-fundador da Maxis que deixou o estúdio depois da compra da EA, em 1997. Ele deu sua opinião sobre o que acha de Spore:
 
 > “Eu não sei se [Spore] vai ser popular como Grand Theft Auto. É um jogo que está lidando com assuntos esotéricos que definitivamente não estão na mente das pessoas — coisas como evolução, biologia e todas as coisas que estão no jogo. Eu acho que The Sims era mais próximo do que as pessoas estavam acostumadas, do que criar planetas e universos.”

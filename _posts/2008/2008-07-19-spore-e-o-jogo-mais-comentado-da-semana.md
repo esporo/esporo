@@ -1,10 +1,10 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "Spore é o jogo mais comentado da semana"
 date: "2008-07-19 21:09"
 tags: Spore comunidade
 ---
-
 O site [GameStats](http://www.gamestats.com/index/gpm/pc.html) calcula os jogos que estão sendo mais comentados na internet na última semana, e o Spore é o jogo mais comentado para PC, com uma pontuação de 95.8 de 100. Confira o ranking:
 
 1. Spore

@@ -2,14 +2,13 @@
 layout: "post"
 title: "Hackers conseguiram tirar o DRM do Criador de Criaturas"
 date: "2008-06-28 19:43"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Criador de Criaturas
   - DRM
   - SecuROM
 ---
-
 Ah, bem, se isso não é um tapa na cara da EA. Você simplesmente não pode evitar a pirataria, não importa o lixo de DRM que você tenta colocar nos seus jogos. Nós (os usuários legítimos) somos obrigados a ter DRM para nos impedir de piratear o jogo — nós só temos 3 instalações por cópia do jogo, então temos que entrar em contato com a EA para obter uma nova chave.
 
 Bem, parece que uma equipe chamada ViTaLiTY finalmente criou uma versão completa do Criador de Criaturas. E sabe de uma coisa? De acordo com os comentários, até mesmo o upload completo para a Sporepédia funciona, já que o site a detecta como uma cópia legítima.

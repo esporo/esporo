@@ -2,14 +2,13 @@
 layout: "post"
 title: "Anúncio de Lançamento: Criador de Criaturas do Spore"
 date: "2008-06-17 17:26"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - anúncios
   - lançamento
   - Criador de Criaturas
 ---
-
 [EA Pressroom]:
 
 > REDWOOD CITY, Califórnia — Prepare para testar os limites da sua imaginação! A Maxis, um estúdio da Electronic Arts, lançou hoje o Criador de Criaturas do Spore, uma apresentação ao muito esperado e revolucionário jogo Spore, que será lançado mundialmente em setembro.

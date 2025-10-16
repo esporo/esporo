@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Esporopédia
 title: 'Novo mod: Autosave'
 author: gaboo
 tags:

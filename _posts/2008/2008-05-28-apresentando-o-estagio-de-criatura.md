@@ -2,14 +2,13 @@
 layout: "post"
 title: "Apresentando o Estágio de Criatura"
 date: "2008-05-28 09:59"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - estágios
   - vídeos
   - Alex Hutchinson
 ---
-
 A Maxis divulgou o trailer, a descrição oficial e novas imagens do Estágio de Criatura. Confira:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QoIXW6AgA-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

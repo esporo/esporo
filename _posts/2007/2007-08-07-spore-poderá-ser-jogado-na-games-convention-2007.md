@@ -2,7 +2,7 @@
 layout: post
 date: '2007-08-07 19:33:00 -0300'
 title: Spore poderá ser jogado na Games Convention 2007
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - eventos

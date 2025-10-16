@@ -2,13 +2,12 @@
 layout: "post"
 title: "Spore e… o giz de cera"
 date: "2008-06-26 19:01"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Criador de Criaturas
   - Chaim Gingold
 ---
-
 Chaim Gingold, o desenvolvedor responsável pelo Criador de Criaturas do Spore, deu uma palestra chamada “Giz de cera mágico: Spore e além” no Festival de Jogos Holandês.
 
 O [Gamasutra](http://www.gamasutra.com/php-bin/news_index.php?story=19122) fez uma visão geral do evento, e tem muita coisa interessante:

@@ -2,7 +2,7 @@
 layout: post
 date: '2007-12-04 02:33:00 -0300'
 title: Criador de Harvest Moon admira Spore
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 ---

@@ -2,7 +2,7 @@
 layout: post
 date: '2007-02-08 23:44:00 -0300'
 title: Will Wright e Spore na DICE 2007
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - prévias

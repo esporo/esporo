@@ -3,13 +3,12 @@ layout: post
 date: "2020-01-26 12:19:00 -0300"
 title: "Novo mod: Creature Outfitter v1.1"
 images: "/uploads/2020/01/26/creature-outfitter.png"
-category: Spore
+category: Esporopédia
 tags:
   - Spore
   - downloads
   - mods
 ---
-
 ![Captura de tela do Criador de Criaturas usando o mod]({%- link /uploads/2020/01/26/creature-outfitter.png -%})
 
 O mod *Creature Outfitter* permite que você adiciona vestimentas em criaturas no próprio Criador de Criaturas. Essas vestimentas geralmente estão disponíveis apenas nos Criadores de Fornecedores (os criadores de criatura dos estágios de Tribo, Civilização e Espaço), mas com esse mod você pode adicionar roupas em suas criaturas. [**Faça download do mod aqui.**]({%- link /uploads/mods/!!CreatureOutfitter.package -%})

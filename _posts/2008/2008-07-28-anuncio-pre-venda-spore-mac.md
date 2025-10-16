@@ -2,10 +2,9 @@
 layout: post
 title: "Anúncio oficial da pré-venda de Spore para Mac"
 date: "2008-07-28 09:22:00"
-category: Spore
+category: Galáxia Spore
 tags: Spore anúncios plataformas lançamento
 ---
-
 [Games Press](http://www.gamespress.com/):
 
 > TransGaming anuncia o início da pré-venda de SPORE para Mac no site GameTree Online (www.gametreeonline.com/ea/spore/), o portal de distribuição digital de jogos para Mac.

@@ -3,11 +3,10 @@ layout: post
 title: Boas vindas ao novo Esporo
 date: "2021-05-08 23:11:00 -0300"
 author: gaboo
-category: Meta
+category: Transmissões
 tags:
   - Esporo
 ---
-
 Olá, e muitas boas vindas ao novíssimo Esporo, sintam-se em casa. 😊
 
 Eu trabalhei nessa nova versão do site por um bom tempo. Tive uma série de falsos inícios e dúvidas, eu finalmente consegui finalizar essa reorganizar o site profundamente e aplicar um novo estilo que é melhor em todos os sentidos: o site está mais bonito, mais organizado e muito mais funcional.

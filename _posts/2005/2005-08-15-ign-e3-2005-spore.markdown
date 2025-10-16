@@ -2,13 +2,12 @@
 layout: "post"
 title: "IGN: E3 2005: Spore"
 date: "2005-08-15 01:46"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - prévias
   - E3
 ---
-
 A [IGN](https://www.ign.com/articles/2005/05/20/e3-2005-spore) dividiu sua prévia nos vários jogos que _Spore_ tem dentro dele:
 
 > (Falando do compartilhamento de conteúdos) Esse é o tipo de coisa que mais anima Will, porque adiciona o sentimento de uma experiência multijogador massiva ao mesmo tempo que você não precisa se preocupar que está estragando o jogo de alguém quando explodir um planeta ou ter alguém que exploda o seu planeta.

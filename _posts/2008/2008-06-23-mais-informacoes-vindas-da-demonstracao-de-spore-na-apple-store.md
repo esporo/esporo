@@ -2,10 +2,9 @@
 layout: "post"
 title: "Mais informações vindas da demonstração de Spore na Apple Store"
 date: "2008-06-23 14:43"
-category: Spore
+category: Galáxia Spore
 tags: Spore comunidade
 ---
-
 Um membro do fórum do [GamingSteve](http://www.gamingsteve.com/blab/index.php?topic=13050.msg560745#msg560745) que esteve na [demonstração de Spore na Apple Store]({%- post_url 2008/2008-06-22-will-wright-demonstra-spore-na-apple-store -%}) fez um tópico de perguntas e respostas com outros membros do fórum. Vale a pena conferir todas as informações que ele trouxe:
 
 > **Existem cavernas? Minha matilha de lobos precisa viver em uma caverna.**

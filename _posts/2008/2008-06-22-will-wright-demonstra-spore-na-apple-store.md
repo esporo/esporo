@@ -2,13 +2,12 @@
 layout: "post"
 title: "Will Wright demonstra Spore na Apple Store"
 date: "2008-06-22 14:26"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - vídeos
   - Will Wright
 ---
-
 <iframe width="695" height="521" src="https://www.youtube-nocookie.com/embed/rlZZ16_c8Eg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Infelizmente o vídeo é interrompido quando alguém fala que câmeras não são permitidas na demonstração.

@@ -2,13 +2,12 @@
 layout: post
 title: 'USA Today: Você quer tentar uma evolução?'
 date: "2006-05-09 17:03:00 -0300"
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - prévias
 - E3
 ---
-
 O USA Today publicou um artigo pequeno sobre Spore. Nada de muito novo, mas pelo visto Will Wright deixou escapar que a Sporepédia terá um recurso de lista de amigos (algo semelhante com o Orkut), onde a gente pode adicionar outros jogadores como amigos para receber as criações deles automaticamente.
 
 Segue alguns destaques do artigo. Você pode ler o original, em inglês, [aqui](http://www.usatoday.com/tech/gaming/2006-05-08-spore-played_x.htm?csp=34):

@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Esporopédia
 title: 'Novo concurso: Halloween 2025'
 tags:
 - Spore

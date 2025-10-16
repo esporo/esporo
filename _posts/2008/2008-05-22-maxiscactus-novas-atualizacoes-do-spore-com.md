@@ -2,13 +2,12 @@
 layout: "post"
 title: "MaxisCactus: novas atualizações do Spore.com"
 date: "2008-05-22 21:39"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Spore.com
   - MaxisCactus
 ---
-
 MaxisCactus, em um email para os fã-sites:
 
 > Olá pessoal,

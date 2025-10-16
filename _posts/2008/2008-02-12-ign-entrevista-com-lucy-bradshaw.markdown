@@ -2,10 +2,9 @@
 layout: "post"
 title: "IGN: Entrevista com Lucy Bradshaw"
 date: "2008-02-12 16:48"
-category: Maxis
+category: Galáxia Spore
 tags: Spore lançamento entrevistas
 ---
-
 A [IGN](http://ign.com/) conseguiu conversar com a produtora executiva de Spore e vice-presidente da Maxis, Lucy Bradshaw, e com o produtor sênior Morgar Roarty. A entrevista ainda está sendo adicionada ao site, mas algumas perguntas já apareceram na página:
 
 > **IGN: Nós estamos esperando por essa data de lançamento há muito tempo. Por que 7 de setembro?**

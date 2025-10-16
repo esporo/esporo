@@ -1,5 +1,6 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "Anúncio oficial: Spore Criador de Criaturas"
 date: "2008-04-25 12:16"
 tags:
@@ -8,7 +9,6 @@ tags:
   - Criador de Criaturas
   - lançamento
 ---
-
 REDWOOD CITY, Calif. — Electronic Arts Inc. e Maxis anunciam hoje que uma versão de demonstração gratuita para download e uma versão completa para venda do Spore Criador de Criaturas estará disponível a partir de 17 de junho de 2008. O Criador de Criaturas dá aos fãs de Spore, e aquelas que estiverem curiosos, uma primeira oportunidade de projetar suas espécies e compartilhar elas com seus amigos. Todas as criaturas criadas com o Criador de Criaturas poderão ser importadas na edição completa de Spore para PC e Mac quando ela for lançada em 5 de setembro de 2008 na Europa e 7 de setembro de 2008 na América do Norte.
 
 “Nós estamos empolgados por finalmente oferecer as ferramentas de criação do Spore aos jogadores ao redor do mundo”, disse Will Wright, designer chefe da Maxis. “As incríveis criaturas que os jogadores vão criar nesse verão vão ajudar a povoar o universo do jogo que todos nós vamos experimentar quando Spore for lançado em setembro então, de certa forma, o Criador de Criaturas é o nascimento de Spore”.

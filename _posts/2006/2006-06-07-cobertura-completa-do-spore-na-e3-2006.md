@@ -2,7 +2,7 @@
 layout: post
 title: Cobertura completa do Spore na E3 2006
 date: '2006-06-07 11:40:00 -0300'
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - eventos

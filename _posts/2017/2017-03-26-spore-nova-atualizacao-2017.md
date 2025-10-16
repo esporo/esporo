@@ -3,7 +3,7 @@ date: '2017-03-26 21:52:54 -0300'
 author: gaboo
 layout: post
 title: Spore recebe uma nova atualização para corrigir certificado de segurança
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - serviços online
@@ -14,7 +14,6 @@ tags:
   - Medonhas & Fofinhas
 published: true
 ---
-
 Depois de oito anos sem novidades, Spore acabou de receber uma nova atualização.
 
 Segundo MaxisBazajaytee, o responsável pelos serviços online da Maxis, essa nova atualização do jogo **não corrige nenhum aspecto do jogo**, apenas atualiza o método de conexão de Spore para certificados mais recentes e mais seguros, permitindo assim que os servidores do jogo sejam atualizados para um método de comunicação com o jogador.

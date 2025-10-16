@@ -2,13 +2,12 @@
 layout: "post"
 title: "Entrevista de Will Wright para a Associated Press"
 date: "2008-04-20 09:08"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - entrevistas
   - Will Wright
 ---
-
 [AFP](http://afp.google.com/article/ALeqM5iWJnz1C2hnCkM3WavYCE_aImwQVg):
 
 > O jogo termina no que Wright se refere como uma “galáxia de brinquedo” em que os jogadores possam explorar.

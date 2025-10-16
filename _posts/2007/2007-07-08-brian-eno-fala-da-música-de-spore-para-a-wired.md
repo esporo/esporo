@@ -2,7 +2,7 @@
 layout: post
 date: '2007-07-08 18:24:00 -0300'
 title: Brian Eno fala da música de Spore para a Wired
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - trilha-sonora

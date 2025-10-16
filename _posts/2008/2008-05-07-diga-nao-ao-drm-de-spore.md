@@ -2,10 +2,9 @@
 layout: "post"
 title: "Diga NÃO ao DRM de Spore!"
 date: "2008-05-07 18:37"
-category: Spore
+category: Galáxia Spore
 tags: Spore DRM SecuROM
 ---
-
 Está na hora de nos opormos à ideia da EA de implementar o novo sistema SecuROM que [precisará que os jogadores validem seus jogos a cada dez dias](http://www.shacknews.com/onearticle.x/52547).
 
 Eu estou decepcionado que eles estão trazendo esse recurso de “segurança” ao Spore, é um tapa na cara dos seus jogadores. Basicamente, o que a EA está fazendo é supervisionando os jogadores que estão comprando seus jogos. A cada dez dias, nossas cópias de Spore vão contatar os servidores da EA para validar o jogo que compramos para permitir que podemos continuar jogando. É uma das ideias mais estúpidas que a EA já teve.

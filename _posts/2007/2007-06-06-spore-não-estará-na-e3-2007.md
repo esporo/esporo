@@ -2,7 +2,7 @@
 layout: post
 date: '2007-06-06 16:47:00 -0300'
 title: Spore não estará na E3 2007
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - eventos

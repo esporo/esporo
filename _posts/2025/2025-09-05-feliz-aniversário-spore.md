@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 title: "17 anos de Spore!"
 comments: true
 discussion_url: "https://forum.esporo.net/embed/106"

@@ -2,7 +2,7 @@
 layout: post
 title: Criaturas criadas com o editor de Spore
 date: '2006-06-11 12:18:00 -0300'
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - imagens

@@ -2,14 +2,13 @@
 layout: "post"
 title: "EA revela na E3 sua próxima geração de jogos"
 date: "2006-05-04 11:21"
-category: EA
+category: Órion
 tag:
   - EA
   - Spore
   - E3
   - anúncios oficiais
 ---
-
 A EA anunciou oficialmente sua programação para a E3 desse ano. Confira o anúncio oficial abaixo:
 
 ---

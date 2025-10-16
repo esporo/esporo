@@ -3,13 +3,12 @@ layout: post
 date: "2020-01-26 12:07:00 -0300"
 title: "Essa semana em SPORE: 20 a 26 de janeiro"
 image: "/uploads/2020/01/26/resumo.jpg"
-category: Spore
+category: Galáxia Spore
 tags:
   - serviços online
   - status de serviço
   - Sporepédia
 ---
-
 _**Essa semana em SPORE** é um resumo das novidades da comunidade do jogo nos últimos dias, com links para novos mods e conteúdos bacanas, uma olhada nas estatísticas do jogo e uma atualização no Esporocast, nossa coleção de criações em destaque._
 
 ## Estatísticas do jogo

@@ -1,5 +1,6 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "Os segredos de como a Maxis fez as criaturas do Spore tão portáteis"
 date: "2008-06-17 19:43"
 tags:
@@ -8,7 +9,6 @@ tags:
   - entrevistas
   - Lucy Bradshaw
 ---
-
 Erica Naone, editora assistente do [Technology Review](http://www.technologyreview.com/Infotech/20939/), entrevistou a produtora executiva de Spore, Lucy Bradshaw, sobre como a Maxis usou geração processual na jogabilidade de Spore:
 
 > **TR: Um dos objetivos do Criador de Criaturas era fazê-lo relativamente fácil de usar, ao mesmo tempo que dava às pessoas muitas possibilidades do que poderia ser criado. Como vocês conseguiram isso?**

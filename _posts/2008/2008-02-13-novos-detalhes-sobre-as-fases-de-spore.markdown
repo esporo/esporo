@@ -2,10 +2,9 @@
 layout: "post"
 title: "Novos detalhes sobre as fases de Spore"
 date: "2008-02-13 14:13"
-category: Spore
+category: Galáxia Spore
 tags: Spore Sporepédia lançamento
 ---
-
 Depois do anúncio da data de lançamento de Spore ontem, vários sites publicaram entrevistas com o pessoal da Maxis, revelando alguns detalhes adicionais sobre como o jogo vai funcionar e algumas mudanças de jogabilidade que aconteceram desde a demonstração do jogo na Games Convention, ano passado. Aqui vai uma lista compreensível do que foi revelado:
 
 **Geral:**

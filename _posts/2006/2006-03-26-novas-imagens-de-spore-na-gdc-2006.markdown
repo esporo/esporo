@@ -2,14 +2,13 @@
 layout: "post"
 title: "Novas imagens de Spore na GDC 2006"
 date: "2006-03-26 11:03"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - imagens
   - GDC
   - Caryl Shaw
 ---
-
 Novas imagens dos protótipos e dos documentos de desenvolvimento de Spore. Não foi exibido jogabilidade nem nada na GDC desse ano, e essas imagens são meio difíceis de entender sem ver a apresentação mesmo, então é mais por curiosidade mesmo:
 
 ![Várias criaturas em uma colina](https://esporobkp.files.wordpress.com/2019/03/20060328-cnet3.jpg)

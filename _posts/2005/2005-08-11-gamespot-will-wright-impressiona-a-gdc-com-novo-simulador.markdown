@@ -2,13 +2,12 @@
 layout: "post"
 title: "GameSpot: Will Wright impressiona a GDC com novo simulador"
 date: "2005-08-11 19:52"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - prévias
   - GDC
 ---
-
 [GameSpot](https://www.gamespot.com/articles/will-wright-wows-gdc-with-new-sim/1100-6120274/):
 
 > Mais do que em outros jogos, ele explicou, ele quis criar uma sensação tanto de autoria (das únicas criaturas e civilizações que o jogador pode criar) como de domínio (da interface, que se torna mais e mais complexa quando a escala do jogo aumenta). O objetivo é dar ao jogador ferramentas simples que façam ele ter um conhecimento gigante da natureza do jogo. O jogo, então, se torna no que ele chamou de um “amplificador criativo do que o jogador fez”.

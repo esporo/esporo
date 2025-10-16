@@ -2,7 +2,7 @@
 layout: post
 date: '2007-08-27 01:23:00 -0300'
 title: Novas imagens da demonstração na Games Convention
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - imagens

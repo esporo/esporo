@@ -2,13 +2,12 @@
 layout: "post"
 title: "Line-up completa da EA na E3 2006"
 date: "2006-05-07 11:24"
-category: EA
+category: Galáxia Spore
 tags:
   - EA
   - Spore
   - E3
 ---
-
 Esse ano Spore será exibido oficialmente pela primeira vez ao público aberto na E3! Confira abaixo a lineup completa de jogos que vão aparecer na conferência da EA:
 
 - Army of Two — PS3, Xbox 360 (2007);

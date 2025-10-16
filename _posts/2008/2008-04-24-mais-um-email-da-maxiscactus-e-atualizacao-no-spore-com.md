@@ -2,14 +2,13 @@
 layout: "post"
 title: "Mais um email da MaxisCactus (e atualização no Spore.com)"
 date: "2008-04-24 09:17"
-category: Spore
+category: Esporopédia
 tags:
   - Spore
   - comunidade
   - Spore.com
   - imagens
 ---
-
 Um novo email da MaxisCactus foi enviado para os fã-sites:
 
 > Olá pessoal,

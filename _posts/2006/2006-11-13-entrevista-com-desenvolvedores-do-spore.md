@@ -2,7 +2,7 @@
 layout: post
 date: '2006-11-13 10:23:00 -0300'
 title: Entrevista com desenvolvedores do Spore
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - entrevistas

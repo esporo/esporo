@@ -2,7 +2,7 @@
 layout: post
 date: '2006-12-08 14:19:00'
 title: Imagens e vídeo do editor de criaturas
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - imagens

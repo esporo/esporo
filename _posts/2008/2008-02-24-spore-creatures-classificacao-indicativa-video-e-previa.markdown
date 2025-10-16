@@ -2,13 +2,12 @@
 layout: "post"
 title: "Spore Creatures: classificação indicativa, vídeo e prévia"
 date: "2008-02-24 01:38"
-category: Spin-offs
+category: Galáxia Spore
 tags:
   - Spore Creatures
   - vídeos
   - prévias
 ---
-
 O órgão americano que faz a classificação indicativa de idade para jogos, o [ESRB](http://www.esrb.org/index-js.jsp), deu a classificação de E10+ para Spore (equivale à nossa “maiores de 10 anos”). Títulos dessa classificação podem possuir violência leve, cartunizada ou fantasiosa e alguns temas sugestivos.
 
 O [GameSpy]() publicou uma prévia rápida do jogo:

@@ -2,14 +2,13 @@
 layout: "post"
 title: "Anúncio: Mais de 250 mil criaturas criadas e compartilhadas com o Spore: Criador de Criaturas"
 date: "2008-06-18 21:24"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Criador de Criaturas
   - Sporepédia
   - anúncios
 ---
-
 [EA Brasil](https://www.ea.com.br/):
 
 > _A contagem regressiva para o lançamento de Spore começa com jogadores enviando mais de duas criaturas por segundo._

@@ -2,7 +2,7 @@
 layout: "post"
 title: "GDC 2008: Liveblog da palestra Polinizando o Universo"
 date: "2008-02-21 20:18"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Sporepédia
@@ -10,7 +10,6 @@ tags:
   - GDC
   - Caryl Shaw
 ---
-
 A segunda palestra envolvendo Spore na GDC acabou há pouco, e o [GamingSteve](http://www.gamingsteve.com/archives/2008/02/gdc08-liveblogging-pollination-the-universe-usergenerated-content-in-spore.php) fez um liveblog que esclarece alguns dos recursos da Sporepédia, confira:
 
 > 2:37 – Você pode criar listas de amigos, Sporecasts, banir coisas que você não gosta, pode navegar e buscar e ordenar os itens na Sporepédia do jogo e no navegador.

@@ -2,13 +2,12 @@
 layout: "post"
 title: "Os erros e os acertos da EA em 2008"
 date: "2008-03-03 14:12"
-category: EA
+category: Órion
 tags:
   - Spore
   - Maxis
   - The Sims
 ---
-
 Todo o mundo aqui sabe que a EA é a maior distribuidora de jogos, e quando você é grande como a EA você precisa aceitar suas falhas para poder melhorar. O [Gamasutra](http://www.gamasutra.com/php-bin/news_index.php?story=17695) descreveu cinco dessas falhas e cinco dos acertos da EA nesse ano. Eu não concordo com tudo, mas os pontos deles sobre a EA Sims e a Maxis são bons:
 
 > **EA Arrasa (The Sims Division)**

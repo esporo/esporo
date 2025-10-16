@@ -2,7 +2,7 @@
 layout: post
 date: '2007-08-30 01:21:00 -0300'
 title: Tradução da prévia de Spore na GamersGlobal
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - prévias

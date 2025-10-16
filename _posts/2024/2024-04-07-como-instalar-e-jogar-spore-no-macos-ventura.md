@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Guia Galáctico
 title: Como instalar e jogar Spore no macOS Ventura
 author: gaboo
 tags:

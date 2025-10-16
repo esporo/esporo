@@ -3,10 +3,9 @@ layout: post
 date: "2019-12-06 11:59:00 -0300"
 title: "Essa semana em SPORE: 30 de novembro a 6 de dezembro"
 image: "/uploads/2019/12/05/resumo.jpg"
-category: Spore
+category: Galáxia Spore
 tags: ""
 ---
-
 _**Essa semana em SPORE** é um resumo das novidades da comunidade do jogo nos últimos dias, com links para novos mods e conteúdos bacanas, uma olhada nas estatísticas do jogo e uma atualização no Esporocast, nossa coleção de criações em destaque._
 
 ## Novos mods

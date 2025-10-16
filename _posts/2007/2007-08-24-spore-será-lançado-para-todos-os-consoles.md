@@ -2,7 +2,7 @@
 layout: post
 date: '2007-08-24 19:18:00 -0300'
 title: Spore será lançado para todos os consoles
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - plataformas

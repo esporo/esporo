@@ -2,7 +2,7 @@
 layout: post
 date: '2007-12-03 02:10:00 -0300'
 title: Spore é o jogo mais esperado de 2008
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 ---

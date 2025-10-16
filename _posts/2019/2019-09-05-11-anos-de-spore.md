@@ -1,7 +1,7 @@
 ---
 date: '2019-09-05 08:48 -0300'
 layout: post
-category: Spore
+category: Galáxia Spore
 sticky: false
 published: true
 title: 11 anos de Spore!

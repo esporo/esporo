@@ -2,10 +2,9 @@
 layout: "post"
 title: "Novo email da MaxisCactus"
 date: "2008-03-27 17:09"
-category: Spore
+category: Galáxia Spore
 tags: Spore comunidade
 ---
-
 Olha o que chegou na minha caixa de entrada! Um novo email da gerente de comunidade do Spore:
 
 > Olá fãs de Spore,

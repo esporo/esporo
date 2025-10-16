@@ -2,7 +2,7 @@
 layout: post
 title: Podcast sobre os recursos de comunidade de Spore
 date: '2006-05-23 21:08:00 -0300'
-category: Spore
+category: Esporopédia
 tags:
 - Spore
 - Sporepédia

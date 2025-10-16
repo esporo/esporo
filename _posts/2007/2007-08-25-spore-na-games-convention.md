@@ -2,7 +2,7 @@
 layout: post
 date: '2007-08-25 19:24:00 -0300'
 title: 'Prévias: Spore na Games Convention'
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - prévias

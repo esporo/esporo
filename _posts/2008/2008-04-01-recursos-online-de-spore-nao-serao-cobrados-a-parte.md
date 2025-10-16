@@ -1,5 +1,6 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "Recursos online de Spore não serão cobrados à parte"
 date: "2008-04-01 18:16"
 tags:
@@ -7,7 +8,6 @@ tags:
   - Sporepédia
   - serviços online
 ---
-
 [Spore.com](http://www.spore.com/faq.php):
 
 > Em 31 de março de 2008 alguns detalhes incorretos foram publicados sobre Spore no Gamasutra.com (<http://www.gamasutra.com/php-bin/news_index.php?story=18029>). Nós pedimos que eles corrigissem mas também gostaríamos de esclarecer aqui.

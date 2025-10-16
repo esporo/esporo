@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 title: Spore ganha um novo time na EA, e uma comunidade oficial do Discord
 date: 2024-10-06 21:31 -0300
 author: gaboo

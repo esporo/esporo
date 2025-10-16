@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 title: 15 anos de Esporo
 author: gaboo
 tags:

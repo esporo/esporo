@@ -2,7 +2,7 @@
 layout: post
 date: '2006-11-04 14:35:00 -0300'
 title: Datas de lançamentos de Spore, SimCity 5 e The Sims 3
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - lançamento

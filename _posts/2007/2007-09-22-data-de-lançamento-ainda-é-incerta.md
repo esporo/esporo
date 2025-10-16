@@ -2,13 +2,12 @@
 layout: post
 date: "2007-09-22 01:55:00 -0300"
 title: Data de lançamento ainda é incerta
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - lançamento
   - rumores
 ---
-
 A gente deu a notícia ontem de que a GameStop tinha atualizado a página de Spore
 com o lançamento previsto para 3 de março. Agora um usuário do GameTrailers
 perguntou para a equipe do site se essa data podia ser verdadeira, e eles

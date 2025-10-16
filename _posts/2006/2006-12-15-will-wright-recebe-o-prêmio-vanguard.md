@@ -2,7 +2,7 @@
 layout: post
 date: '2006-12-15 14:24:00 -0300'
 title: Will Wright recebe o prêmio Vanguard
-category: Maxis
+category: Órion
 tags:
 - Will Wright
 - prêmios

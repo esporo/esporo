@@ -2,7 +2,7 @@
 layout: post
 date: '2007-01-16 19:09:00 -0300'
 title: Brian Eno será o compositor da trilha-sonora de Spore
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - trilha-sonora

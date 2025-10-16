@@ -2,7 +2,7 @@
 layout: "post"
 title: "Resumão de notícias"
 date: "2007-03-25 00:49"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - plataformas
@@ -11,7 +11,6 @@ tags:
   - lançamento
   - vídeos
 ---
-
 Eu andei ocupado nos últimos dias com tarefas da escola, então aí vai um resumão das últimas notícias sobre Spore por aí!
 
 O site [Spore.es](http://www.spore.es) encontrou um blog de um dos desenvolvedores da versão de Spore para Nintendo DS, que indica que o jogo já começou a ser desenvolvido.

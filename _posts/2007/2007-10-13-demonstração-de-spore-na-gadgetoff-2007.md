@@ -2,7 +2,7 @@
 layout: post
 date: '2007-10-13 01:39:00 -0300'
 title: Demonstração de Spore na Gadgetoff 2007
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - vídeos

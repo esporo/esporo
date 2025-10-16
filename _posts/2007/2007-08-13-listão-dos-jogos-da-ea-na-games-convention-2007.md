@@ -2,14 +2,12 @@
 layout: post
 date: "2007-08-13 02:41:00"
 title: Listão dos jogos da EA na Games Convention 2007
-category: EA
+category: Galáxia Spore
 tags:
   - Spore
   - eventos
   - Games Convention
 ---
-
-
 A Electronic Arts divulgou hoje o listão de jogos da empresa que estão no evento alemão Games Convention ’07. Spore, que não esteve na E3 justamente para estar no GC, é um deles.
 
 - Army Of Two;

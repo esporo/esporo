@@ -3,13 +3,12 @@ layout: post
 title: "Sporum será desativado em 15 de agosto"
 date: "2018-07-14 20:50:27 -0300"
 image: "https://i.imgur.com/eGZ0cwZ.jpg"
-category: Spore
+category: Esporopédia
 tags:
   - comunidade
   - Sporum
   - servidores
 ---
-
 A Electronic Arts e a Maxis irão “migrar” a comunidade oficial de Spore, o [Sporum](http://forum.spore.com/) em 15 de agosto.
 
 A partir de 15 de agosto, o Sporum será posto em um modo somente leitura, não sendo possível acessar sua conta e criar/responder posts. Eventualmente, após um período de tempo prolongado, o Sporum será desligado e ficará inacessível.

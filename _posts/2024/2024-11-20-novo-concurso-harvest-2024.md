@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Esporopédia
 title: 'Novo concurso: Harvest 2024'
 author: gaboo
 tags:

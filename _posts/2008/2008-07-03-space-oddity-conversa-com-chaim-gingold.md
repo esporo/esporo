@@ -2,13 +2,12 @@
 layout: "post"
 title: "Space Oddity conversa com Chaim Gingold"
 date: "2008-07-03 15:27"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - entrevistas
   - Chaim Gingold
 ---
-
 Space Oddity teve a oportunidade de conversar com Chaim Gingold recentemente. Gingold é o responsável pelo design e pela tecnologia dos Criadores do Spore.
 
 [Space Oddity](http://spaceoddityblog.planets.gamespy.com/?p=682):

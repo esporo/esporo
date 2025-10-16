@@ -2,13 +2,12 @@
 layout: post
 title: Maxis apresenta nova identidade visual e redesign do site
 author: gaboo
-category: Maxis
+category: Galáxia Spore
 tags:
   - Maxis
   - EA
 date: 2022-03-21 15:36 -0300
 ---
-
 A Maxis, o estúdio que desenvolve as séries _SimCity_, _The Sims_ e _Spore_, apresentou nesses últimos dias sua nova identidade visual, a primeira desde o redesign de 2013.
 
 {: align="center"}

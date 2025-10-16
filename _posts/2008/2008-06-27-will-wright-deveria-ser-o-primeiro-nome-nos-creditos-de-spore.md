@@ -2,12 +2,11 @@
 layout: "post"
 title: "Will Wright deveria ser o primeiro nome nos créditos de Spore?"
 date: "2008-06-27 19:12"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Wll Wright
 ---
-
 [Don Reisinger](http://news.cnet.com/8301-10784_3-9979079-7.html?part=rss&subj=NewsBlog):
 
 > É cada vez mais comum os desenvolvedores falarem sobre “o time”. Diferente da indústria de cinema, onde nós nos focamos nos diretores e nas celebridades, a indústria dos jogos parece amar a ideia de que um time criou um jogo e não existe uma pessoa que se destaca na multidão.

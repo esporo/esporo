@@ -2,14 +2,13 @@
 layout: "post"
 title: "Galerias de imagens atualizadas!"
 date: "2008-02-13 12:29"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Spore Creatures
   - Spore Origins
   - imagens
 ---
-
 O [Joystiq](http://www.joystiq.com/photos/spore-gallery-2/) conseguiu várias novas imagens de Spore, e nós 8atualizamos as nossas galerias no Flickr!
 
 Agora temos uma galeria para cada jogo, confira:

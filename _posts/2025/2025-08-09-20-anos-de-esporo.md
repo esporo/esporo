@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 date: 2025-08-09
 title: 20 anos de Esporo
 author: gaboo
@@ -9,7 +10,6 @@ tags:
   - meta
   - Esporo
 ---
-
 Há vinte anos, depois de ler e reler e ler outra vez a prévia do UOL Jogos sobre o então recém-anunciado novo jogo de Will Wright na GDC 2005, eu criei o blog OEsporoBR no Blogger. Eu me inspirei no [OSimBR](https://osimbr.net/), o saudoso fã-site de _The Sims_ e um dos meus sites favoritos na época. Pelo que eu tenho notícia, era até então o terceiro fã-site sobre _Spore_, atrás apenas do _The Spore Zone_ e do _SporePrograms_, "filhotes" de dois dos maiores e mais antigos fã-sites sobre _The Sims_ na época.
 
 Eu lembro como se fosse hoje: era dia de semana e nossa internet era discada. Eu só pude conectar na internet depois da meia-noite porque era mais barato (a gente só pagava "um pulso" pela conexão). O computador que ficava numa própria salinha pra ele aqui em casa era um Pentium 2, mal rodava o primeiro _The Sims_, mas eu estava apaixonado por _Spore_. Era a ideia mais legal do mundo.

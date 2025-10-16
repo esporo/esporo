@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Esporopédia
 title: 'Novo mod: Spore Flora Fix'
 author: gaboo
 tags:

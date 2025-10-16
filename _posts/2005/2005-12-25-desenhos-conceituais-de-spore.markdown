@@ -2,13 +2,12 @@
 layout: "post"
 title: "Desenhos conceituais de Spore"
 date: "2005-12-25 22:46"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - imagens
   - desenvolvimento
 ---
-
 O [GamingSteve](http://www.gamingsteve.com/) vem postando alguns desenhos conceituais feitos pelo time de Spore para o desenvolvimento. Veja elas abaixo:
 
 ![Desenvolvimento da cabana de comida](https://esporobkp.files.wordpress.com/2019/03/20051221-healing.jpg)

@@ -1,12 +1,12 @@
 ---
 layout: post
+category: Galáxia Spore
 title: 'Novo evento: SPORETOBER 2024'
 author: gaboo
 tags:
   - Spore
   - eventos
 ---
-
 Nem acredito que temos _notícias_ por aqui nos últimos dias!
 
 O usuário [Titaniite](https://www.spore.com/view/myspore/Titaniite) no Discord oficial começou um novo evento: **SPORETOBER 2024**. A cada dia do mês de outubro, você deve compartilhar uma criação com a tag `Sporetober2024` na Sporepédia para cada um dos temas abaixo. Titaniite vai adicionar todas as criações participantes no [sporecast do evento](https://www.spore.com/sporepedia#qry=ssc-501115463107).

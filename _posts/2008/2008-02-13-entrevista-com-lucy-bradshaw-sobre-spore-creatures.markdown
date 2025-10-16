@@ -2,13 +2,12 @@
 layout: "post"
 title: "Entrevista com Lucy Bradshaw sobre Spore Creatures"
 date: "2008-02-13 14:37"
-category: Spin-offs
+category: Galáxia Spore
 tags:
   - Spore Creatures
   - entrevistas
   - Lucy Bradshaw
 ---
-
 [Wired](http://blog.wired.com/games/2008/02/interview-spore.html):
 
 > **Em uma DICE de uns anos atrás, eu lembro de ter falado com Will e ele disse que passava a maior parte do seu tempo livre jogando no Nintendo DS. Então parece que ele é um grande fã da plataforma – o que guiou o desenvolvimento dessa versão de Spore?**

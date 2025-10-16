@@ -2,10 +2,9 @@
 layout: "post"
 title: "Spore é para todos?"
 date: "2008-03-31 18:09"
-category: Spore
+category: Galáxia Spore
 tags: Spore
 ---
-
 [Gamasutra](http://www.gamasutra.com/php-bin/news_index.php?story=18029):
 
 > Mas a observação que mais me surpreendeu foi como as pessoas que não tinham ideia do que era Spore reagiram à ideia do editor de criaturas. Na minha perspectiva, é uma ferramenta de criação brilhante e elegante. Mas para eles, era uma interface não muito familiar para algo que parecia um desafio.

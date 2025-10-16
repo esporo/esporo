@@ -2,14 +2,13 @@
 layout: post
 date: '2019-05-21 08:53:00 -0300'
 title: Manutenção do Spore (21 de maio)
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - servidores
 - manutenção
 - serviços online
 ---
-
 **Atualização (14h):** A manutenção foi concluída, os serviços online de Spore estão disponíveis novamente.
 
 ---

@@ -3,13 +3,12 @@ layout: post
 date: 2019-10-30
 title: Darkspore LS v0.2 permite acessar o criador de criaturas
 image: "/assets/images/games/darkspore/gallery/10.jpg"
-category: Spin-offs
+category: Galáxia Spore
 tags:
   - Darkspore
   - Darkspore-LS
   - comunidade
 ---
-
 **Darkspore-LS**, o projeto que pretende adicionar suporte à servidores locais em [Darkspore](https://guia.esporo.net/wiki/Darkspore), foi atualizado para a versão 0.2.1.
 
 Ainda não dá pra jogar em si, mas o DLS 0.2 já permite que você acesse o criador de criaturas do jogo (que aqui é chamado Editor de Heróis). É um grande progresso que indica que os desenvolvedores estão no caminho certo!

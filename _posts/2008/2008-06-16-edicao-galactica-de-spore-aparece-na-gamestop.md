@@ -1,12 +1,12 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "Lojas começam a fazer a pré-venda da Versão Galáctica de Spore"
 date: "2008-06-16 15:34"
 tags:
   - Spore
   - Edição Galáctica
 ---
-
 ![Caixa da Versão Galáctica](/uploads/2019/07/21384350_41.jpg)
 
 A FNAC começou hoje a pré-venda de Spore por R$139,90!

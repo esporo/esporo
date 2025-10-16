@@ -2,13 +2,12 @@
 layout: "post"
 title: "Entrevista com o desenvolvedor Thomas Vu"
 date: "2008-07-22 21:16"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - equipe
   - Thomas Vu
 ---
-
 O [Joystiq](http://www.joystiq.com/2008/07/15/spore-e3-qanda-part-3-general/) teve uma grande conversa com o desenvolvedor Thomas Vu, e deu uns detalhes interessantes:
 
 > - Quer saber se a Electronic Arts planeja monetizar Spore? As abas nos menus de todos os editores estão planejadas para terem múltiplas páginas. A Maxis está discutindo adicionar partes robóticas para criaturas, mas não há nada “pronto para ser anunciado” no momento.

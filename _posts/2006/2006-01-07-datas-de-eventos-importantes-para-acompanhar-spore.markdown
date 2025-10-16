@@ -2,7 +2,7 @@
 layout: "post"
 title: "Datas de eventos importantes para acompanhar Spore"
 date: "2006-01-07 23:01"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - eventos
@@ -10,7 +10,6 @@ tags:
   - E3
   - DICE Summit
 ---
-
 Spore percorreu alguns dos principais eventos de jogos do ano passado, e a cada apresentação novas informações foram apresentadas. Então é importante ficarmos atentos aos eventos desse ano para esperarmos mais novidades:
 
 - **DICE Summit**, 8–10 de fevereiro.  

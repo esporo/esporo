@@ -2,13 +2,12 @@
 layout: "post"
 title: "Caryl Shaw detalha como os conteúdos são distribuídos na Sporepédia"
 date: "2008-02-22 01:31"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Sporepédia
   - Caryl Shaw
 ---
-
 O [Gamasutra](http://www.gamasutra.com/php-bin/news_index.php?story=17569) pede para a produtora Caryl Shaw detalhar como funciona a _polinização de conteúdos_ através de vários jogos com a Sporepédia:
 
 > Com os objetivos definidos, Shaw executou uma demonstração do jogo para mostrar as formas que o compartilhamento de conteúdo foi simplificado em Spore. No jogo, cada novo conteúdo gerado por usuário cria um “cartão” que deixa você ver quem o criou, e o que mais eles criaram. A partir daí ele é carregado na Sporepédia, o centro de todo o compartilhamento.

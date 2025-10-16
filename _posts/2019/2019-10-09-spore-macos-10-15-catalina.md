@@ -1,7 +1,7 @@
 ---
 date: '2019-10-09 16:40 -0300'
 layout: post
-category: Spore
+category: Galáxia Spore
 sticky: false
 published: true
 title: 'Spore, Aventuras Galácticas e SimCity não funcionam no macOS Catalina'

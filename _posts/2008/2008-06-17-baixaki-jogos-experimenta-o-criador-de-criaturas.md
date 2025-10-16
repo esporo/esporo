@@ -2,13 +2,12 @@
 layout: "post"
 title: "Baixaki Jogos experimenta o Criador de Criaturas"
 date: "2008-06-17 15:32"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - prévias
   - Criador de Criaturas
 ---
-
 [Baixaki Jogos](http://www.baixakijogos.com.br/pc/spore/previas/2150):
 
 > O primeiro passo é modelar a pequena massa no centro do editor. Clicando em cima dela, uma espécie de coluna vertebral irá aparecer no interior do objeto, sendo que esta pode ser aumentada, conferindo assim as primeiras características do seu “bichinho”. Para aumentar a massa da criatura (engordar ou emagrecer) basta repousar o mouse sobre o local e girar a rodao d mouse para frente ou para trás.

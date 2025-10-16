@@ -2,13 +2,12 @@
 layout: post
 date: '2006-05-12 15:42:00 -0300'
 title: 'GameSpot: Conquistando o Universo'
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - prévias
 - E3
 ---
-
 [GameSpot](http://www.gamespot.com/pc/strategy/spore/news.html?sid=6150117):
 
 > Aparentemente, quando sua criatura sai do ovo, você começa a vida como uma versão “bebê”. Wright navegou pelo mundo com a pequena monstruosidade, “incomodando os vizinhos” ao se aproximar do território de outros herbívoros super-protetores, depois usou uma outra forma de “chamar” para atrair outras criaturas da mesma espécie, criando um bando. Bandos eventualmente formarão a base das sociedades primitivas da fase tribal do jogo — aparentemente, uma vez que você alcance essa fase, você vai librar o “editor de cabanas” para projetar o visual das cabanas das suas criaturas, e quando você avançar para a fase da cidade, você poderá criar prédios modernos e até mesmo a flora do ambiente.

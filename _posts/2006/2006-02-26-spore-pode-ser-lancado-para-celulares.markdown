@@ -2,14 +2,13 @@
 layout: "post"
 title: "Spore pode ser lançado para celulares"
 date: "2006-02-26 23:25"
-category: Spin-offs
+category: Galáxia Spore
 tags:
   - Spore
   - plataformas
   - mobile
   - rumores
 ---
-
 O GameSpot encontrou [uma oferta de trabalho para desenvolver Spore](http://www.gamedev.net/directory/careers/default.asp?jobid=996). Novidade? Para versões portáteis.
 
 > Localizado na linda Califórnia, o time Spore procura por um experiente designer responsável por projetar, criar e gerenciar o sistema e conteúdo para títulos portáteis de Spore.

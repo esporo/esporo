@@ -2,13 +2,12 @@
 layout: "post"
 title: "Spore é premiado como o Melhor da E3 2005"
 date: "2005-08-16 20:05"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - prêmios
   - E3
 ---
-
 _Spore_ é o grande vencedor do Game Critics Awards, a premiação que celebra as melhores apresentações da E3. O jogo tava concorrendo em quatro categorias e venceu em todas:
 
 - Melhor da E3

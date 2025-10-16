@@ -2,7 +2,7 @@
 layout: post
 title: Electronic Arts anuncia conferencia EA Play Live 2021
 author: gaboo
-category: EA
+category: Órion
 tags:
   - eventos
   - E3
@@ -10,7 +10,6 @@ tags:
   - EA
 date: 2021-05-11 17:15 -0300
 ---
-
 A EA anunciou que sua conferência anual EA Play Live acontecerá em 22 de julho.
 
 <blockquote class="twitter-tweet" data-lang="pt" data-dnt="true"><p lang="en" dir="ltr">EA Play Live estará de volta em 22 de julho. Reserve na agenda! <a href="https://t.co/qh9OOGhPTm">pic.twitter.com/qh9OOGhPTm</a></p>&mdash; Electronic Arts (@EA) <a href="https://twitter.com/EA/status/1392147491915763719?ref_src=twsrc%5Etfw">11 de maio de 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

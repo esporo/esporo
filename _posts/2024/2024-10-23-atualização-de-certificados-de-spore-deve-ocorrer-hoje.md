@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 title: Atualização de certificados de Spore deve ocorrer hoje
 author: gaboo
 tags:

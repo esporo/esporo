@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Spore
+category: Galáxia Spore
 date: '2008-08-12 22:09 -0300'
 author: gaboo
 title: 'Dois novos protótipos: Espaço e SPUG'

@@ -2,13 +2,12 @@
 layout: post
 title: "MDS Spore ARRASA!!11!!1!"
 date: "2006-05-15 20:46:00 -0300"
-category: Spore
+category: Galáxia Spore
 tags: 
   - Spore
   - prévias
   - E3
 ---
-
 [Joystiq](http://www.joystiq.com/2006/05/14/omg-spore-r0x0rz-1/):
 
 > Na minha demonstração, eu voei do meu planeta natal, saí do sistema estelar, e foi então que meu queixo caiu. Eu vi milhões de estrelas e cliquei em algumas delas. Eu percebi que “nossa… esse jogo é imenso. O mero escopo não importa tanto quanto tudo o que você pode fazer em cada planeta. Eu voei para outro sistema estelar, comecei a terraformar um mundo chamando um meteoro, então eu encontrei uma civilização em outro mundo, e destruí sua cidade capital com uma bomba de antimatéria. Sim, cruel… e sim, eu gostei.

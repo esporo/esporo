@@ -2,7 +2,7 @@
 layout: post
 date: '2007-01-16 19:19:00 -0300'
 title: Spore no terceiro trimestre de 2007
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - lançamento

@@ -2,7 +2,7 @@
 layout: "post"
 title: "Liveblog da palestra “Música Processual em Spore”"
 date: "2008-02-20 18:26"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - eventos
@@ -10,7 +10,6 @@ tags:
   - Kent Jolly
   - Aaron McLeran
 ---
-
 Os desenvolvedores responsáveis pelos sistemas de música de Spore, Kent Jolly e Aaron McLeran, deram uma palestra na GDC esse ano sobre como a música do jogo é gerada processualmente (como as animações das criaturas e o clima de um planeta, baseando-se em uma série de fatores do que está sendo simulado dentro do jogo).
 
 Eles também demonstraram como é o Criador de Hinos do jogo! Ainda bem que o GamingSteve estava lá e fez um [liveblog](http://www.gamingsteve.com/archives/2008/02/gdc08-liveblogging-procedural-music-in-spore.php). Aqui está a parte sobre o Criador de Hinos:

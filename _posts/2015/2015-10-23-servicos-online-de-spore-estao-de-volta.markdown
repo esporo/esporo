@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 title: "Serviços online de Spore estão de volta!"
 date: "2015-10-23 22:51:41 -0300"
 tags:

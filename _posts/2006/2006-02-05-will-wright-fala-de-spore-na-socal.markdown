@@ -2,13 +2,12 @@
 layout: "post"
 title: "Will Wright fala de Spore na SoCal"
 date: "2006-02-05 23:06"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Will Wright
   - SoCal
 ---
-
 Está acontecendo nos Estados Unidos uma conferência sobre entretenimento social, como jogos, filmes, etc. Ela se chama SoCal, e Will Wright apareceu por lá para falar sobre os recursos online de Spore.
 
 A apresentação do criador do jogo foi bem clara: Spore não terá um modo multiplayer — mas estará cheio de recursos para conectar jogadores. O central será um imenso catálogo, onde todas as criações de todos os jogadores estarão: microorganismos, criaturas, ferramentas, flora, edifícios, veículos, naves e planetas. Os jogadores terão um perfil, e poderão se comunicar com outros jogadores de forma semelhante ao [Orkut](http://www.orkut.com/) ou [MySpace](http://www.myspace.com/).

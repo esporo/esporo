@@ -2,13 +2,12 @@
 layout: "post"
 title: "MTV Multiplayer: Primeiras impressões de Spore"
 date: "2008-06-03 20:32"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - prévias
   - Alex Hutchinson
 ---
-
 [MTV Multiplayer](http://multiplayerblog.mtv.com/2008/06/03/spore-creature-creator/):
 
 > E então nós vimos ele. Flumpert. Caminhando no horizonte. “Ele veio como um épico!”, Hutchinson disse. Ele me explicou que Flumpert era um dos dinossauros desse planeta em que estávamos. Isso é legal. Eu só espero que ninguém machuque ele.

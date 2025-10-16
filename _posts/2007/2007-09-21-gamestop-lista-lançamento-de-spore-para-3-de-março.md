@@ -2,7 +2,7 @@
 layout: post
 date: '2007-09-21 01:52:00 -0300'
 title: GameStop lista lançamento de Spore para 3 de março
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - rumores

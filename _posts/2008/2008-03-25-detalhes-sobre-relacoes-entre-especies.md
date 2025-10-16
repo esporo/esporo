@@ -2,10 +2,9 @@
 layout: "post"
 title: "Detalhes sobre relações entre espécies"
 date: "2008-03-25 16:19"
-category: Spore
+category: Galáxia Spore
 tags: Spore prévias
 ---
-
 O CVF publicou [uma matéria](http://www.computerandvideogames.com/article.php?id=185346) sobre como funcionam as relações entre as espécies durante as cinco fases de Spore.
 
 Basicamente, em todas as fases existem três “posturas” possíveis: uma agressiva (vermelha), uma pacífica (verde) e uma que é o meio termo entre elas (azul). Quando se escolhe a postura agressiva, a principal ação é atacar outras espécies; quando escolhe a sociável, a principal ação é dançar e cantar.

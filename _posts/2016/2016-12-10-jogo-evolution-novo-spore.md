@@ -1,13 +1,12 @@
 ---
 title: Novo jogo Evolution promete ser um novo (e melhorado) Spore
 date: "2016-12-10 21:52:54 -0200"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - outros jogos
   - Evolution
 ---
-
 Uma desenvolvedora espanhola começou o desenvolvimento de um jogo chamado Evolution, descrito como o “jogo sandbox definitivo”.
 
 Evolution, como vocês podem perceber no vídeo abaixo, é extremamente influenciado por Spore. A desenvolvedora até descreve Spore como a principal influência no desenvolvimento do jogo e, mais ainda, que eles pretendem expandir a ideia principal do jogo.

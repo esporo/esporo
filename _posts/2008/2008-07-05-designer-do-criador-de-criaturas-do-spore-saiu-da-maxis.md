@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Maxis
+category: Galáxia Spore
 sticky: false
 date: '2008-07-05 09:31 -0300'
 author: gaboo

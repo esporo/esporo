@@ -3,14 +3,13 @@ layout: post
 date: "2020-02-16 12:06:00 -0300"
 image: "/uploads/2020/02/16/resumo.jpg"
 title: 'Essa semana em SPORE: 10 a 16 de fevereiro'
-category: Spore
+category: Galáxia Spore
 tags:
 - Sporepédia
 - Esporocast
 - status de serviço
 - serviços online
 ---
-
 _**Essa semana em SPORE** é um resumo das novidades da comunidade do jogo nos últimos dias, com links para novos mods e conteúdos bacanas, uma olhada nas estatísticas do jogo e uma atualização no Esporocast, nossa coleção de criações em destaque._
 
 ***

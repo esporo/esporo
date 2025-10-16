@@ -2,7 +2,7 @@
 layout: post
 title: Jogos Spore e SimCity com desconto na GOG.com
 author: gaboo
-category: Spore
+category: Galáxia Spore
 tags:
 - promoções
 - Spore

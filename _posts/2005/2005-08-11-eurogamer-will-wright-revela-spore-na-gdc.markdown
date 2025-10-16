@@ -2,13 +2,12 @@
 layout: "post"
 title: "Eurogamer: Will Wright revela Spore na GDC"
 date: "2005-08-11 19:33"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - prévias
   - GDC
 ---
-
 [Eurogamer](https://www.eurogamer.net/articles/news140305spore):
 
 > O criador de The Sims, Will Wright, usou sua palestra no último dia da Game Developers Conference para revelar seu projeto mais recente, Spore, que fará jogadores guiarem um organismo desde seu início como uma simples célula até sua eventual jornada pela dominação intergaláctica — de uma forma completamente definida pelo jogador.

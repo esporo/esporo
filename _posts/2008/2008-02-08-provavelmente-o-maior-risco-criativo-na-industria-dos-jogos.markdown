@@ -2,10 +2,9 @@
 layout: "post"
 title: "Provavelmente o maior risco criativo da industria dos jogos"
 date: "2008-02-08 15:52"
-category: Spore
+category: Galáxia Spore
 tags: Spore
 ---
-
 O CEO da EA, John Riccitiello, deu sua opinião sobre Spore na DICE:
 
 > “É provavelmente o maior risco criativo da indústria dos jogos hoje”, ele disse, respondendo as perguntas da audiência sobre como lidar com erros. Ele chamou Spore de “massivo”, e continuou “eu acredito que vai ser uma das grandes franquias da nossa indústria e vai enfrentar World of Warcraft, The Sims e Rock Band. Vai estar ali com eles. Ou não.”

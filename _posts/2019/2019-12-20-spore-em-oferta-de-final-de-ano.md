@@ -2,14 +2,13 @@
 layout: post
 date: 2019-12-20
 title: SPORE em oferta na Steam, GOG e Origin
-category: Spore
+category: Galáxia Spore
 image: "/uploads/2019/12/20/promocao-fim-de-ano.jpg"
 tags:
   - Spore
   - promoções
   - Origin
 ---
-
 As promoções de fim de ano começaram nas lojas de jogos digitais, o que significa que tem promoção pra quem quiser comprar Spore com ótimos preços. Tanto a Steam, a GOG e a Origin estão dando descontos nos jogos da série.
 
 [Na Steam](https://store.steampowered.com/app/17390/SPORE/), que tem a melhor oferta, a coleção completa de Spore sai por R$ 10,02.

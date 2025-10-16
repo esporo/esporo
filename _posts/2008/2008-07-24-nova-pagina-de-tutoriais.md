@@ -2,10 +2,9 @@
 layout: post
 date: "2008-07-24 09:21:00"
 title: "Tutoriais de criação no Spore.com"
-category: Spore
+category: Esporopédia
 tags: Spore Spore.com tutoriais
 ---
-
 Se você está procurando por dicas e tutoriais para usar o Criador de Criaturas, a última manutenção do Spore.com trouxe uma [página de Tutoriais](http://www.spore.com/comm/tutorials). Eles tem umas dicas excelentes ali, inclusive algumas que eu nunca ia ter descoberto sozinho!
 
 1. Você pode usar orelhas para criar sombrancelhas bem expressivas.

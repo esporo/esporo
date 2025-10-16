@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Maxis
+category: Órion
 sticky: false
 date: '2008-08-12 09:23 -0300'
 author: gaboo

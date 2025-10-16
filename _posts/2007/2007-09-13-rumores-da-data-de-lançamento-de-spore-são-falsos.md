@@ -2,7 +2,7 @@
 layout: post
 date: '2007-09-13 01:28:00 -0300'
 title: Rumores da data de lançamento de Spore são falsos
-category: Spore
+category: Galáxia Spore
 tags:
 - lançamento
 - rumores

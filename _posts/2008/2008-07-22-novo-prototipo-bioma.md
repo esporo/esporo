@@ -2,10 +2,9 @@
 layout: "post"
 title: "Novo protótipo: BIOMA"
 date: "2008-07-22 21:26"
-category: Spore
+category: Galáxia Spore
 tags: Spore downloads protótipos
 ---
-
 Hoje é dia de SporeDay, e um novo protótipo de Spore foi disponibilizado no Spore.com! Nós já atualizamos [nossa página de downloads](/downloads/).
 
 Conheça o BIOMA:

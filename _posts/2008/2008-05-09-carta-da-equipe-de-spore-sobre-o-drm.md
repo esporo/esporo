@@ -2,7 +2,7 @@
 layout: "post"
 title: "Carta da equipe de Spore sobre o DRM"
 date: "2008-05-09 19:07"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - DRM
@@ -10,7 +10,6 @@ tags:
   - Caryl Shaw
   - Maxis
 ---
-
 Caryl Shaw, produtora dos recursos online de Spore, enviou o seguinte email aos fã-sites hoje:
 
 > Olá fãs de Spore,

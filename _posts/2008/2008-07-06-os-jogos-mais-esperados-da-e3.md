@@ -2,10 +2,9 @@
 layout: "post"
 title: "Os jogos mais esperados da E3"
 date: "2008-07-06 15:41"
-category: Spore
+category: Galáxia Spore
 tags: Spore eventos E3
 ---
-
 A E3 está chegando, e o site Next-Gen preparou uma lista com os jogos mais esperados do evento. Spore apareceu em 4º.
 
 [Next-Gen](http://www.next-gen.biz/index.php?option=com_content&task=view&id=11227&Itemid=2&limit=1&limitstart=2):

@@ -2,7 +2,7 @@
 layout: post
 title: 'The New Yorker: O Mestre do Jogo'
 date: '2006-11-03 10:10:00 -0300'
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - artigos

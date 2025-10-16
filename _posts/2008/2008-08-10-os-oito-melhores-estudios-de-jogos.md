@@ -1,12 +1,12 @@
 ---
 layout: post
+category: Galáxia Spore
 date: "2008-08-10 17:45:00 -0300"
 title: "Os oito melhores estúdios de jogos"
 tags:
   - EA
   - Maxis
 ---
-
 O site GamePro fez uma lista com os oito melhores estúdios de desenvolvimento de jogos do mundo, e a Maxis está na lista!
 
 [GamePro](http://www.gamepro.com/gamepro/international/games/features/206401.shtml):

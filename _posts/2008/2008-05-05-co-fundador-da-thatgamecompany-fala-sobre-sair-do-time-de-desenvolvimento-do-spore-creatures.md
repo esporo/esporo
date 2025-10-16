@@ -1,5 +1,6 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "Co-fundador da thatgamecompany fala sobre sair do time de desenvolvimento do Spore Creatures"
 date: "2008-05-05 15:40"
 tags:
@@ -7,7 +8,6 @@ tags:
   - Spore Creatures
   - Jenova Chen
 ---
-
 [Gamasutra](http://www.gamasutra.com/php-bin/news_index.php?story=18494):
 
 > Por exemplo, o Spore da Maxis é incrível, mas Spore não é o tipo de jogo que a thatgamcompany pretende fazer. Depois de trabalhar nele por um tempo, mesmo com o jogo sendo muito divertido, e todo o mundo lá é muito criativo, e eu estava criando protótipos todos os dias. Era como o emprego perfeito para um game designer — e eu ainda não sei porque eu saí. (risos)

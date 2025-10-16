@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '1UP: Prévia de Spore'
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - prévias
@@ -10,7 +10,6 @@ tags:
   - Lucy Bradshaw
 date: "2006-05-05 16:26:00 -0300"
 ---
-
 O 1UP publicou uma prévia especial de Spore nas vésperas da E3. É um artigo gigante que revela muitas novidades de como o jogo está agora, comparado à demonstração na GDC do ano passado. O 1UP foi convidado pela Maxis para conferir a versão atual do jogo e conversar com a equipe, e eu vou dar uma resumida em todas as novidades logo abaixo, mas se você souber inglês, vale muito a pena [ler o original](http://www.1up.com/do/previewPage?cId=3150390&did=1).
 
 O jogo terá seis fases: **Poça, Criatura, Tribo, Cidade, Civilização e Espaço**, e cada uma dessas fases é baseada em uma jogabilidade (Pac-Man, Diablo, Populous, SimCity e Civilization, respectivamente). Embora as mecânicas do jogo sejam bem complexas, você não vai precisar se preocupar em pesquisar espécies ou saber de biologia se não quiser porque as fases são construídas em desafios para os jogadores que querem só cumprir algumas missões e evoluir.

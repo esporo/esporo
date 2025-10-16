@@ -1,14 +1,13 @@
 ---
 title: "Confira todos os anúncios na EA Play 2016"
 date: "2016-06-12 22:19:40 -0300"
-category: EA
+category: Órion
 tags:
   - eventos
   - EA
   - E3
   - EA Play Live
 ---
-
 Diferente dos anos anteriores, em 2016 a EA está fazendo um evento a parte na E3. A EA Play começou hoje, 12 de junho, com a tradicional conferência de anúncios da empresa. Você pode rever a conferência aqui:
 
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/wPSN9sTQCf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

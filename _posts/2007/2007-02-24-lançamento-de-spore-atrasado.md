@@ -2,7 +2,7 @@
 layout: post
 date: '2007-02-24 12:26:00 -0300'
 title: Lançamento de Spore atrasado?
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - lançamento

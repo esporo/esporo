@@ -2,7 +2,7 @@
 layout: post
 title: Sporepédia pode ser usada em outros jogos
 author: gaboo
-category: Spore
+category: Galáxia Spore
 tags:
 - Will Wright
 - Spore

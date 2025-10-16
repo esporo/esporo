@@ -1,7 +1,7 @@
 ---
 date: '2019-08-15 22:59 -0300'
 layout: post
-category: Spore
+category: Galáxia Spore
 sticky: false
 published: true
 title: Jogos Spore com 50% de desconto na promoção da Origin

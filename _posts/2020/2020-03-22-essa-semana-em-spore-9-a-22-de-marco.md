@@ -3,13 +3,12 @@ layout: post
 date: "2020-03-22 10:46:00 -0300"
 title: "Essa(s) semana(s) em SPORE: 9 à 22 de março"
 image: "/uploads/2020/03/22/resumo.jpg"
-category: Spore
+category: Galáxia Spore
 tags:
   - Sporepédia
   - Esporocast
   - serviços online
 ---
-
 _**Essa semana em SPORE** é um resumo das novidades da comunidade do jogo nos últimos dias, com links para novos mods e conteúdos bacanas, uma olhada nas estatísticas do jogo e uma atualização no Esporocast, nossa coleção de criações em destaque._
 
 Desculpem pelo sumiço na última semana! Com o início da quarentena contra o COVID-19, não tive tempo de atualizar o Esporo. Aí vão as estatísticas das últimas duas semanas.

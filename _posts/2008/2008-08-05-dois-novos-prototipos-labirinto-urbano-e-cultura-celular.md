@@ -2,12 +2,11 @@
 layout: post
 date: "2008-08-05 17:00:00 -0300"
 title: "Dois novos protótipos: Labirinto Urbano e Cultura Celular"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - protótipos
 ---
-
 Dois novos protótipos foram colocados no Spore.com no SporeDay dessa semana: **Labirinto Urbano** e **Cultura Celular**.
 
 **Cultura Celular**:

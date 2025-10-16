@@ -3,14 +3,13 @@ title: 'EA: Anúncio oficial de Spore'
 layout: post
 author: gaboo
 date: '2006-05-09 11:41:51'
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - anúncios oficiais
 - EA
 - Maxis
 ---
-
 Finalmente! A EA acabou de publicar o anúncio oficial de Spore. Confira na íntegra abaixo:
 
 > ## A próxima evolução do mundo dos jogos está chegando

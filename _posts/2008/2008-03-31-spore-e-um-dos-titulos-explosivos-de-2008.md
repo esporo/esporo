@@ -2,10 +2,9 @@
 layout: "post"
 title: "Spore é um dos “títulos explosivos de 2008”"
 date: "2008-03-31 18:02"
-category: Spore
+category: Galáxia Spore
 tags: Spore
 ---
-
 [CNN](http://money.cnn.com/news/newsfeeds/articles/djf500/200803310049DOWJONESDJONLINE000039_FORTUNE5.htm):
 
 > A EA vem trabalhando com o “Spore” com a Maxis, o estúdio por trás da franquia mega-popular “The Sims”. O jogo permite que você crie seu próprio universo pessoal e o povoe com criaturas — também criadas pelo usuário — que evoluem em diferentes estágios da vida.

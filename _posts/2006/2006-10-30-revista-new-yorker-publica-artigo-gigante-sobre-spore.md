@@ -2,7 +2,7 @@
 layout: post
 date: '2006-10-30 14:59:00'
 title: Revista New Yorker publica artigo gigante sobre Spore
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - artigos

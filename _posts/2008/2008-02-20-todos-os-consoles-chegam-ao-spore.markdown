@@ -2,10 +2,9 @@
 layout: "post"
 title: "Todos os consoles chegam ao Spore"
 date: "2008-02-20 19:34"
-category: Spore
+category: Galáxia Spore
 tags: Spore imagens eventos GDC
 ---
-
 O [Joystiq](http://www.joystiq.com/2008/02/20/seen-gdc-console-war-continues-in-spore-as-wii-ps3-360-rebuil/) postou uma imagem fantástica hoje de uma apresentação do Spore na GDC:
 
 ![Wii, GameCube, Xbox 360 o controle do PlayStation 3 como criações do Spore](/uploads/2008/02/sporeconsoles.jpg)

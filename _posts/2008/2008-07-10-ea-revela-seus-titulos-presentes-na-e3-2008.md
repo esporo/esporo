@@ -1,10 +1,10 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "EA revela seus títulos presentes na E3 2008"
 date: "2008-07-10 21:00"
 tags: EA eventos E3 Spore Maxis
 ---
-
 A EA publicou um [anúncio para a imprensa](http://biz.yahoo.com/bw/080710/20080710005984.html?.v=1) informando quais títulos vão ser apresentados ou estarão disponíveis para demonstração na E3 esse ano. Nós já sabíamos que Spore ia estar, já que vai ser lançado em menos de dois meses, mas outros títulos da Maxis também vão aparecer por lá. Confira a lista completa abaixo:
 
 Títulos presentes para demonstração:

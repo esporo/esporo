@@ -3,7 +3,7 @@ published: false
 layout: post
 title: Participe do servidor do Esporo no Discord
 author: gaboo
-category: Esporo
+category: Transmissões
 tags:
 - meta
 - Esporo

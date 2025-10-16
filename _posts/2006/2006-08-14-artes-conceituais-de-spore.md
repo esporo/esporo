@@ -2,7 +2,7 @@
 layout: post
 date: '2006-08-14 12:03:00 -0300'
 title: Artes conceituais de Spore
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - imagens

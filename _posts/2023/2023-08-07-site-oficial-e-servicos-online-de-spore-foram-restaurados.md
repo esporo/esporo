@@ -2,7 +2,7 @@
 layout: post
 title: Site oficial e serviços online de Spore foram restaurados
 author: gaboo
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - Spore.com

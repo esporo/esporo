@@ -2,10 +2,9 @@
 layout: "post"
 title: "Apresentando o Estágio Tribal"
 date: "2008-05-30 19:40"
-category: Spore
+category: Galáxia Spore
 tags: Spore vídeos imagens estágios
 ---
-
 A Maxis divulgou mais informações do estágio tribal, incluindo o trailer, a descrição oficial e as imagens. Confira:
 
 [EA](http://brasil.ea.com/):

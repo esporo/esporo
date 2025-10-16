@@ -2,10 +2,9 @@
 layout: "post"
 title: "Gameplayers acredita que Spore será um fracasso"
 date: "2008-03-18 15:51"
-category: Spore
+category: Galáxia Spore
 tags: Spore vendas rumores
 ---
-
 Não é de hoje que as pessoas supõem que Spore seja um provável fracasso de vendas. A gente postou em 2006 uma previsão de que Spore não seja um sucesso do tamanho de The Sims (eu acho que todo o mundo acredita que ninguém consegue bater The Sims, nem mesmo o Spore).
 
 Mesmo assim, o site Gameplayers listou uma série de motivos pelos quais eles acreditam que Spore vai ser um fracasso, entre eles o fato do jogo não ser The Sims (mas sei lá, nenhum jogo é The Sims, com a exceção de The Sims), não tem multiplayer e os atrasos mataram o interesse (hmm…).

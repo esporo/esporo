@@ -2,12 +2,11 @@
 layout: "post"
 title: "Chris Hecker critica o Wii na GDC"
 date: "2007-03-10 00:39"
-category: Maxis
+category: Galáxia Spore
 tags:
   - desenvolvedores
   - Maxis
 ---
-
 O responsável pelo algoritmo de animação do Spore, o desenvolvedor Chris Hecker, fez uma “palestra da fúria” na GDC esse ano onde ele criticou duramente o Wii, chamando-o de “um pedaço de merda”. Ele continuou criticando a Nintendo:
 
 > Não é claro se a Nintendo acredita que jogos podem ser uma forma de arte.

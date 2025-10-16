@@ -2,10 +2,9 @@
 layout: "post"
 title: "Maxis responde perguntas dos fãs"
 date: "2008-03-21 16:03"
-category: Spore
+category: Galáxia Spore
 tags: Spore entrevistas
 ---
-
 O Spore.es conseguiu uma seção de perguntas e respostas com a equipe da Maxis, que revelam algumas coisas que vão estar e que não vão estar no jogo final.
 
 [Spore.es](http://www.spore.es/index.php?s=specials&id=3):

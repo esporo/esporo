@@ -2,7 +2,7 @@
 layout: post
 date: '2007-10-25 01:50:00 -0300'
 title: Spore será lançado em seis meses
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - lançamento

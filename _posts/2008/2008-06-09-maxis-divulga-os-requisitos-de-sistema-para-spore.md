@@ -2,13 +2,12 @@
 layout: "post"
 title: "Maxis divulga os requisitos de sistema para Spore"
 date: "2008-06-09 00:58"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - lançamento
   - Spore.com
 ---
-
 O [Spore.com](http://www.spore.com/) recebeu um novo redesign, e muitas novas informações estão no ar. A mais importante delas são os requisitos de sistema do Spore. Confira:
 
 ### Requisitos de sistema para PC

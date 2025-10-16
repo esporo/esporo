@@ -2,7 +2,7 @@
 layout: post
 date: '2006-11-26 12:02:00 -0300'
 title: Mais informações sobre o Editor de Veículos
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 ---

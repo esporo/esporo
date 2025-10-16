@@ -2,13 +2,12 @@
 layout: "post"
 title: "O que estão dizendo: Spore na GDC 2006"
 date: "2006-03-26 10:20"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - prévias
   - GDC
 ---
-
 Vamos tentar uma coisa nova aqui no Esporo. Ao invés de criarmos um post pra cada prévia do jogo vamos centralizar todos em um só post com todas as informações relevantes. Primeiro porque é chato ficar criando um post pra cada artigo, e segundo porque as prévias da GDC esse ano tão com poucas informações novas. A única que realmente trouxe informações que a gente ainda não sabia (como o editor de flora e como o compartilhamento vai funcionar) foi a da IGN, [que a gente já postou aqui]({%- post_url 2006/2006-03-24-ign-gdc-2006-will-wright-e-spore -%}).
 
 

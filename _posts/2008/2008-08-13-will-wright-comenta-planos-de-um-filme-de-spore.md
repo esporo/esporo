@@ -2,7 +2,7 @@
 layout: post
 title: Will Wright comenta planos de um filme de Spore
 author: gaboo
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - rumores

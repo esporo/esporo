@@ -2,13 +2,12 @@
 layout: "post"
 title: "Entrevista de Will Wright na Wired"
 date: "2005-08-15 01:57"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Will Wright
   - entrevistas
 ---
-
 Novas informações sobre _Spore_ foram divulgadas numa entrevista de Will Wright para a Wired ([leia aqui](http://www.wired.com/news/e3/0,2879,67581,00.html), em inglês). Will menciona que não haverá o desenvolvimento de religiões no jogo, mas que isso pode ser feito pela imaginação do jogador, já que a postura “cultural” na fase de civilização é pseudo-religiosa.
 
 Will Wright também diz que planeja que expansões pro jogo devem torná-lo mais amplo do que aprofundá-lo. Isso significa que ele quer pegar partes do jogo e adicioná-las em outras ideias diferentes, mas que usam a mesma tecnologia.

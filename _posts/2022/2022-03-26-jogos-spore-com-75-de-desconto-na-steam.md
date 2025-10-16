@@ -2,7 +2,7 @@
 layout: post
 title: Jogos Spore com 75% de desconto na Steam
 author: gaboo
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - promoções

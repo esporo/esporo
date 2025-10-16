@@ -2,10 +2,9 @@
 layout: "post"
 title: "EA tem planos para 10 anos de expansões de Spore"
 date: "2008-04-02 18:32"
-category: Spore
+category: Galáxia Spore
 tags: Spore expansões EA
 ---
-
 [MTV.com](http://multiplayerblog.mtv.com/2008/04/01/ea-capcom-disagree-on-longevity-of-individual-games-spore-maker-cites-10-year-plan/)
 
 > Para tirar proveito de qualquer forma de conteúdo para download, uma distribuidora precisa planejar com antecedência, disse Karp. Com Spore a EA já tem planos internos para desenvolver novos conteúdos pelos próximos 10 anos. Isso inclui os já tradicionais novos níveis e partes jogáveis, mas também “novas formas de experimentar Spore”.

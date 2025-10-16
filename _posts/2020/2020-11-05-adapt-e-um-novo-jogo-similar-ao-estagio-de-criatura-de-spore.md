@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adapt é um novo jogo similar ao estágio de criatura de Spore
-category: Spore
+category: Galáxia Spore
 tags:
 - Adapt
 - outros jogos

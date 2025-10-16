@@ -2,12 +2,11 @@
 layout: "post"
 title: "Mais informações sobre Spore"
 date: "2005-08-10 18:57"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - GDC
 ---
-
 Logo depois da GDC muitos sites publicaram várias prévias do jogo. Todas essas informações são baseadas no que foi visto e falado na apresentação de Will Wright, estou juntando tudo nesse lugar para ficar mais organizado:
 
 _Spore_ vai ter várias fases. A primeira é a **Fase da Poça**, é um jogo semelhante à _Pac-Man_. Quando sua criatura tiver se alimentado o suficiente, você vai ganhar a habilidade de largar um ovo. A criatura que nascerá desse ovo pode ser personalizada completamente, enquanto suas animações serão criadas pelo jogo. Cada vez que sua criatura largar um ovo, você poderá editar sua célula até ser forte o suficiente para evoluir. Por causa da técnica de desenvolvimento do jogo, que se chama **desenvolvimento processual**, todos os arquivos dessas criações serão bem pequenos para serem compartilhados facilmente pela internet.

@@ -2,7 +2,7 @@
 title: Artigos sobre o evento do Criador de Criaturas na Maxis
 layout: post
 author: gaboo
-category: Spore
+category: Galáxia Spore
 date: "2008-06-11"
 tags:
 - Spore
@@ -11,7 +11,6 @@ tags:
 - Sporepédia
 - prévias
 ---
-
 [Wired](http://blog.wired.com/games/2008/06/hands-on-spore.html):
 
 > Spore é um jogo casual com uma quantidade ridícula de profundidade, permitindo que você contribua o quanto quiser. Os requisitos de sistema relativamente baixos do jogo indicam que você não precisará de um equipamento novo para começar a criar, e a interoperabilidade entre as versões para Mac e PC (que será lançada no mesmo dia, a propósito) significa que as pessoas podem trocar criaturas, independentemente de qual sistema operacional eles usam. O Creature Creator é apenas o começo - com o jogo completo chegando em setembro, vamos poder criar veículos de todos os tipos, e nossos próprios edifícios, todos os quais podem ser compartilhados com o mundo.

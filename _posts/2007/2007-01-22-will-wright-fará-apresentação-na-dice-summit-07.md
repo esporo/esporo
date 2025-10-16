@@ -2,7 +2,7 @@
 layout: post
 date: '2007-01-22 19:25:00 -0300'
 title: Will Wright fará apresentação na DICE Summit 07
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - eventos

@@ -1,10 +1,10 @@
 ---
 layout: post
+category: Galáxia Spore
 date: "2008-08-04 16:40:00 -0300"
 title: "Não compare o sucesso de Spore com o de The Sims"
 tags: Spore vendas EA
 ---
-
 [GameDaily](http://www.gamedaily.com/articles/news/ea-dont-measure-spore-against-sims-/?biz=1):
 
 > Dito isso, a EA não quer colocar o peso em Spore de ter que alcançar as expectativas de vendas de um jogo The Sims. “Eu posso dizer que ninguém na EA está comparando Spore com o sucesso criado por The Sims”, disse Patrick Buechner, vice presidente de marketing da Maxis para o [CNET](http://news.cnet.com/8301-13772_3-10004869-52.html?tag=newsLeadStoriesArea.0). Ele disse ainda que “eles são dois animais completamente diferentes. Spore é um jogo que tem muito a oferecer aos jogadores por muito tempo depois da compra — um modelo de negócios diferente da maioria dos videogames tradicionais”.

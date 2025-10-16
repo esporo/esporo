@@ -2,7 +2,7 @@
 layout: post
 date: '2007-02-12 23:26:00 -0300'
 title: Entrevista com Will Wright
-category: Spore
+category: Galáxia Spore
 tags:
 - Will Wright
 - Spore

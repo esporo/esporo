@@ -2,7 +2,7 @@
 layout: post
 date: '2007-06-30 18:18:00 -0300'
 title: EA se divide em quatro marcas
-category: EA
+category: Galáxia Spore
 tags:
 - EA
 - Maxis

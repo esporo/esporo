@@ -2,7 +2,7 @@
 layout: post
 title: Spore indicado a 4 categorias do Game Critics Awards
 date: '2006-05-25 11:15:00 -0300'
-category: Spore
+category: Guia Galáctico
 tags:
 - Spore
 - prêmios

@@ -2,13 +2,12 @@
 layout: "post"
 title: "Newsweek: Que a Força… Seja Nós"
 date: "2005-08-12 01:00"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Will Wright
   - artigos
 ---
-
 [Newsweek](http://www.msnbc.msn.com/id/7856244/site/newsweek/):
 
 > **Spore, de Will Wright, permite que você simule a criação em si, começando em uma simples célula. Que tipo de divindade você será?**

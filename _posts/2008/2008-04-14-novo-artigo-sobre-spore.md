@@ -2,10 +2,9 @@
 layout: "post"
 title: "Novo artigo sobre Spore"
 date: "2008-04-14 02:11"
-category: Spore
+category: Galáxia Spore
 tags: Spore prévias
 ---
-
 Tyler Waldman, [The Towerlight Online](http://media.www.thetowerlight.com/media/storage/paper957/news/2008/04/14/Life/Tyler.Tech.Create.Or.Destroy.Its.Your.Choice.In.spore-3321615-page2.shtml):
 
 > Conforme sua espécie evolui, ela ganha inteligência. Sua espécie vai construir tribos, e entào cidades. Mas nem tudo é pacífico. Outras espécies alienígenas podem visitar, e podem ou não vir em paz. Se o jogador não for cuidadoso, o jogo pode se tornar em um verdadeiro “Star Wars”.

@@ -2,7 +2,7 @@
 layout: post
 title: Novos editores
 date: '2006-07-31 12:47:00'
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - prévias

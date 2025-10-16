@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Galáxia Spore
 title: "Lucy Bradshaw deixa a EA"
 date: "2015-09-24 22:58:28 -0200"
 tags:
@@ -7,7 +8,6 @@ tags:
   - Maxis
   - equipe
 ---
-
 Lucy Bradshaw, produtora executiva de Spore, presidente do estúdio Maxis e vice-presidente da EA, deixou a empresa, segundo um comunicado do próprio CEO, Andrew Wilson.
 
 Segundo Wilson, o cargo de presidente do estúdio Maxis será de Rachel Franklin, atual presidente do The Sims Studio. Franklin irá coordenar todos os projetos da Maxis a partir de agora, não só the Sims. Também, a Maxis será trazida mais próxima do departamento mobile da EA, que oferece os títulos The Sims FreePlay e SimCity BuildIt. A EA explicou que Franklin não coordenará as ações da EA Mobile, mas os estúdios trabalharão mais próximos para criar experiências que integram PCs e celulares. Os dois estúdios serão liderados por Samantha Ryan.

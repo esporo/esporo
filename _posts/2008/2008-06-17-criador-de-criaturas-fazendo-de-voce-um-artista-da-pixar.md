@@ -2,12 +2,11 @@
 layout: "post"
 title: "Criador de Criaturas, fazendo de você um artista da Pixar"
 date: "2008-06-17 17:47"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Criador de Criaturas
 ---
-
 [Clive Thompson, na Wired](http://www.wired.com/gaming/virtualworlds/commentary/games/2008/06/gamesfrontiers_0616):
 
 > E como eu disse, levou apenas seis minutos e meio.

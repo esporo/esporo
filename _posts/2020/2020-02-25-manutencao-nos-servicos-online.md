@@ -2,7 +2,7 @@
 layout: post
 date: '2020-02-25 11:26:00 -0300'
 title: Manutenção nos serviços online de SPORE
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - serviços online

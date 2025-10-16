@@ -2,13 +2,12 @@
 layout: "post"
 title: "Entrevista com Lucy Bradshaw sobre a criação de Spore"
 date: "2008-06-11 16:47"
-category: Spore
+category: Esporopédia
 tags:
   - Spore
   - entrevistas
   - Lucy Bradshaw
 ---
-
 O [VentureBeat](http://venturebeat.com/2008/06/11/an-interview-with-ea-maxis-lucy-bradshaw-on-the-making-of-spore/) publicou uma excelente entrevista com Lucy Bradshaw, a produtora executiva de Spore e a vice presidente da Maxis, sobre como foi o desenvolvimento de Spore. Várias boas perguntas e ótimas respostas, recomendo muito a leitura. Aí vai um trecho traduzido:
 
 > **VB: Como o jogo estava quando você começou a participar de Spore?**

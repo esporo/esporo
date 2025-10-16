@@ -1,9 +1,9 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "EA: Spore pode ser tão grande quanto The Sims"
 date: "2008-07-10 19:00"
 ---
-
 Representante da EA ao [MCV](http://www.mcvuk.com/news/31130/Spore-could-be-the-new-Sims-says-EA):
 
 > “[…] Nós prevemos que Spore terá o mesmo sucesso a longo prazo de The Sims. Bem como The Sims, Spore será repleto de conteúdo criado pelos usuários”, disse Claire Ridley, gerente de marketing da EA para The Sims e Spore. “Com o lançamento do Criador de Criaturas e mais de um milhão de criaturas compartilhadas pelos usuários na primeira semana, é claro para nós que os jogadores estarão constantemente expandindo os limites e povoando o universo de Spore com conteúdo novo todo o tempo”, Ridley disse ao MCV.

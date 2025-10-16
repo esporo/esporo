@@ -2,7 +2,7 @@
 date: "2019-10-18 15:31:00 -0300"
 layout: post
 title: 'Essa semana em SPORE: 12 a 18 de outubro'
-category: Spore
+category: Esporopédia
 image: /uploads/2019/10/18/capa-resumo-18-10.jpg
 tags:
   - Spore
@@ -11,7 +11,6 @@ tags:
 published: true
 sticky: false
 ---
-
 _Essa semana em SPORE é um resumo semanal das novidades da comunidade do jogo nos últimos dias, com links para novos mods e conteúdos bacanas, uma olhada nas estatísticas do jogo e uma atualização no Esporocast, nossa coleção de criações em destaque._
 
 ***

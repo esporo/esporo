@@ -2,10 +2,9 @@
 layout: "post"
 title: "GameSpy: Demonstração de Spore na Comic-Con"
 date: "2008-07-25 23:10"
-category: Spore
+category: Galáxia Spore
 tags: Spore eventos Comic-Con
 ---
-
 [GameSpy](http://pc.gamespy.com/articles/893/893782p3.html):
 
 > Primeiro nos afastamos do nosso planeta natal e rumamos para um gigante gasoso vizinho. Wright disse que a equipe de Spore “queria realmente transmitir a beleza” da exploração espacial. Por isso, o gigante gasoso laranja-avermelhado girava lentamente, rodeado por uma faixa de anéis reluzentes. Formações de nuvens espirais giravam lentamente pela superfície d mundo parecido com Júpiter.

@@ -2,10 +2,9 @@
 layout: "post"
 title: "Spore estará na E3 2008"
 date: "2008-06-12 16:57"
-category: Spore
+category: Galáxia Spore
 tags: Spore eventos E3
 ---
-
 A IGN divulgou a lista de jogos que estarão presentes na conferência da E3 esse ano:
 
 - Command & Conquer: Red Alert 3 (PC, PS3, X360)

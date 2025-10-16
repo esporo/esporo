@@ -1,9 +1,9 @@
 ---
 layout: "post"
+category: Órion
 title: "Washington Post: Evoluindo o Mundo Virtual"
 date: "2006-02-06 23:45"
 ---
-
 [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/02/03/AR2006020302755.html?noredirect=on):
 
 > Mas a multidão ficou mais encantada com Will Wright, criador de The Sims, que mostrou um novo jogo que está desenvolvendo na Electronic Arts chamado Spore. Ele permite que os jogadores criem espécies inteiras e façam com que elas evoluam dentro de um universo povoado por espécies e cidades criadas por outros jogadores. A idéia é colocar os jogadores no papel de um George Lucas ou um "Deus Galáctico", disse Wright, e deixá-los compartilhar suas criações pela Internet em um ambiente virtual.

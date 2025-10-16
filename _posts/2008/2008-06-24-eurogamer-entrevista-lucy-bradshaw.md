@@ -1,5 +1,6 @@
 ---
 layout: "post"
+category: Galáxia Spore
 title: "Eurogamer entrevista Lucy Bradshaw"
 date: "2008-06-24 15:10"
 tags:
@@ -7,7 +8,6 @@ tags:
   - entrevistas
   - Lucy Bradshaw
 ---
-
 [Eurogamer](http://www.eurogamer.net/article.php?article_id=153477&page=2):
 
 > **Eurogamer: Nessa pergunta, digamos que eu não seja apenas um simples jogador de um canto ensolarado da Inglaterra; u sou um grande desenvolvedor de jogos de sucesso competindo com a EA, competindo com você. O que eu vou olhar quando eu comprar Spore e sentir inveja? O que eu vou querer mudar e adaptar para o meu próprio trabalho?**

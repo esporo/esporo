@@ -2,10 +2,9 @@
 layout: "post"
 title: "Dois novos vídeos"
 date: "2008-02-13 14:48"
-category: Spore
+category: Galáxia Spore
 tags: Spore entrevistas vídeos
 ---
-
 O 1UP postou uma vídeo entrevista com Will Wright e Lucy Bradshaw, e o Kotaku publicou um vídeo do Criador de Criaturas:
 
 - [Entrevista com Will e Lucy](http://www.gamevideos.com/video/id/17505)

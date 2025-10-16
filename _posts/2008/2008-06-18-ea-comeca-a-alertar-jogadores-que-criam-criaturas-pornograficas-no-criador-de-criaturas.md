@@ -2,14 +2,13 @@
 layout: "post"
 title: "EA começa a alertar jogadores que criam criaturas pornográficas no Criador de Criaturas"
 date: "2008-06-18 22:38"
-category: Spore
+category: Esporopédia
 tags:
   - Spore
   - Criador de Criaturas
   - EA
   - comunidade
 ---
-
 Pode até ser engraçado nas primeiras vezes que você vê, mas quando você começa a encontrar na Sporepédia e em outros sites competições de quem cria o maior pênis no Criador de Criaturas começa a cansar, e rápido. E agora a EA começou a agir, alertando jogadores que criaram crições explícitas que, se continuarem com essas práticas, podem vir a serem banidos.
 
 Quem noticiou isso foi uma repórter da revista PC Gamer, [Kristen Salvatore](http://www.gamesradar.com/pc/spore/news/busted-boobalicious-banned/a-20080618155715463076/g-2006022417441549006):

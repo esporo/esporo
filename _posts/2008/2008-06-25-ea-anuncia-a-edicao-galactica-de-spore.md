@@ -2,14 +2,13 @@
 layout: "post"
 title: "EA anuncia a Edição Galáctica de Spore!"
 date: "2008-06-25 15:13"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - Edição Galáctica
   - lançamento
   - anúncios
 ---
-
 > _Edição Galáctica está repleta de extras fora desse mundo._
 >
 > **Redwood City, Calif.** — Para o maior fã da Spore, a Maxis, um estúdio da Electronic Arts Inc., anunciou hoje a limitada Edição Galáctica do muito esperado jogo dos criadores de The Sims. Esta caixa especial conterá o DVD de “Making of Spore”, o DVD com o especial “How to Build a Better Being” do National Geographic Channel, um mini-livro de capa dura “A arte de Spore”, um pôster dobrável do Spore e um Guia Galáctico premium de 100 páginas.

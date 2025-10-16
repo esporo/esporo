@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Guia Galáctico
 title: Como acessar os recursos online de Spore em 2025
 comments: true
 discussion_url: "https://forum.esporo.net/embed/104-como-acessar-os-recursos-online-de-spore-em-2025"

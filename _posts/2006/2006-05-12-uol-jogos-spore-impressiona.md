@@ -2,13 +2,12 @@
 layout: post
 title: 'UOL Jogos: Spore Impressiona'
 date: "2006-05-12 09:45:00 -0300"
-category: Spore
+category: Galáxia Spore
 tags:
 - Spore
 - prévias
 - E3
 ---
-
 Nenhuma informação nova na [prévia do Spore no UOL Jogos](http://jogos.uol.com.br/e3/pc/ultnot/2006/05/11/ult3426u62.jhtm), apenas uma descrição da demonstração:
 
 > Um ecossistema começa a ser formado dentro da escala de evolução do jogo, quando Spore adquire uma identidade de SimCity, pela construção e administração de uma cidade. Nesse ponto, já possível passear pelo planeta e fazer contato com outras civilizações.

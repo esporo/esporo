@@ -2,14 +2,13 @@
 layout: "post"
 title: "Spore vai usar arquivos XML para salvar arquivos"
 date: "2008-05-27 16:31"
-category: Spore
+category: Galáxia Spore
 tags:
   - Spore
   - SimCity
   - Maxis
   - Todd Jones
 ---
-
 Se você jogou SimCity Sociedades você pode ter percebido que o jogo usa arquivos XML para criar e salvar conteúdo. Parece que Spore vai usar o mesmo processo. Isso vai manter os arquivos de Spore relativamente pequenos, e o jogo vai lê-los e expandi-los para arquivos bem maiores.
 
 O [SpaceOddity](http://spaceoddityblog.planets.gamespy.com/) encontrou uma entrevista na [Newsweek](http://blog.newsweek.com/blogs/levelup/archive/2008/05/27/xml-and-games-part-ii-a-look-at-spore.aspx) com N'Gai Croal e o desenvolvedor de Spore, Todd Jones, que entra em detalhes sobre como será esse processo:
