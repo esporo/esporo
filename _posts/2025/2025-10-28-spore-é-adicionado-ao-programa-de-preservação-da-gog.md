@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Spore
+category: Galáxia Spore
 title: Spore é adicionado ao Programa de Preservação da GOG
 date: 2025-10-28 14:34:00 -0300
 tags:
