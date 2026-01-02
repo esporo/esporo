@@ -12,6 +12,9 @@ url: "https://esporo.net"
 baseurl: ""
 
 # Build settings
+plugins:
+  - jekyll-redirect-from
+
 theme: jekyll-theme-bean
 permalink: "/:year/:month/:title/"
 

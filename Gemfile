@@ -11,3 +11,4 @@ end
 gem "jekyll-theme-bean", "~> 1.0"
 
 gem "jekyll-compose", "~> 0.12.0", group: :jekyll_plugins
+gem "jekyll-redirect-from", "~> 0.16.0", group: :jekyll_plugins
