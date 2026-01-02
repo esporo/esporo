@@ -6,7 +6,7 @@ tags:
   - Spore
   - desenvolvimento
 ---
-Feliz ano novo, pessoal! Uma notícia rápida aqui: o projeto Hidden Palace fez um streaming hoje disponibilizando uma versão em desenvolvimento do _Spore_. A versão é de fevereiro de 2008, cerca de seis meses antes da versão final.
+Feliz ano novo, pessoal! Uma notícia rápida aqui: o projeto Hidden Palace fez um streaming hoje disponibilizando uma versão em desenvolvimento do _Spore_. A versão é de fevereiro de 2008, [cerca de seis meses antes da versão final](https://esporo.net/2008/08/14/spore-esta-pronto/).
 
 Essa versão apresenta cutscenes diferentes, inclusive na abertura do jogo, criaturas da Maxis, sons e músicas diferentes da original. A interface do jogo é diferente também — eu particularmente gostei da interface de comunicação no estágio espacial. É muito mais legal do que a da versão final.
 
