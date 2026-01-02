@@ -12,6 +12,8 @@ Essa versão apresenta cutscenes diferentes, inclusive na abertura do jogo, cria
 
 Eu estou baixando a versão para testar e postar mais detalhes aqui. Vocês podem encontrar a _build_ de desenvolvimento [no site do projeto](https://hiddenpalace.org/Spore_(Feb_19,_2008_prototype)). A equipe do Hidden Palace diz que [esse será o “ano de _Spore_”](https://hiddenpalace.org/News/Year_Of_Spore). Talvez a gente vá ver mais objetos do desenvolvimento do jogo?
 
+**Atualização:** uma versão da _build_ de desenvolvimento foi disponibilizada no Discord _The Sporearchives_ para ser executada sem a necessidade de instalação. Você pode baixá-la [aqui](https://files.aceofkade.com/SporePrototype-Feb-19-2008.zip). Vamos criar um _mirror_ no Esporo para garantir a segurança do arquivo em breve.
+
 Confira a gravação do stream do Hidden Palace apresentando a build:
 
 <iframe src="https://player.twitch.tv/?video=2658712514&parent=esporo.net" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
