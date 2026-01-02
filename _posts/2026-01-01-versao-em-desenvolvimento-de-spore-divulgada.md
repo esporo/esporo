@@ -14,4 +14,4 @@ Eu estou baixando a versão para testar e postar mais detalhes aqui. Vocês pode
 
 Confira a gravação do stream do Hidden Palace apresentando a build:
 
-<iframe src="https://player.twitch.tv/?video=2658712514&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://player.twitch.tv/?video=2658712514&parent=esporo.net" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
