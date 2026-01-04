@@ -8,7 +8,7 @@ tags:
   - desenvolvimento
 ---
 
-Mais vídeos de pessoas jogando a [versão de desenvolvimento de _Spore_ disponibilizada pelo projeto Hidden Palace]({% post_url 2026/2026-01-01-versao-em-desenvolvimento-de-spore-divulgada %}) com vários focos. [Sexta-feira eu publiquei o vídeo do mini-jogo no Estágio Espacial]({% post_url 2026/2026-01-02-mini-jogo-do-estágio-espacial-encontrado %}).
+Mais vídeos de pessoas jogando a [versão de desenvolvimento de _Spore_ disponibilizada pelo projeto Hidden Palace]({% post_url 2026/2026-01-01-versao-em-desenvolvimento-de-spore-divulgada %}) com vários focos.
 
 Esse vídeo se concentra principalmente nps estágios iniciais, até o Estágio de Tribo, destacando a nova linha do tempo, a mecânica de bando (que foi simplificada no jogo final), as células mais complexas e o clima dinâmico no Estágio de Criatura. Você também pode ver o menu original (que era o mesmo da demonstração de 2005) com as opções do Estágio de Cidade (que foi incorporado ao Estágio de Civilização no jogo final), o Editor de Flora e o Editor de Terreno:
 
