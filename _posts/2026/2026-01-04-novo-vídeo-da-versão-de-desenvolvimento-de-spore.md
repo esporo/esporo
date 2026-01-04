@@ -3,6 +3,8 @@ layout: post
 title: Novos vídeos da versão de desenvolvimento de Spore
 date: 2026-01-04 10:58 -0300
 category: Galáxia Spore
+comments: true
+discussion_url: "https://forum.esporo.net/embed/109"
 tags:
   - Spore
   - desenvolvimento
