@@ -1,4 +1,4 @@
-{% assign widget_title = "Eventos" %}
+{% comment %} {% assign widget_title = "Eventos" %}
 {% capture widget_content %}
   <p>
     <strong>Concurso:</strong>
@@ -9,7 +9,7 @@
   </p>
 {% endcapture %}
 
-{% include blog/widget.html title=widget_title content=widget_content %}
+{% include blog/widget.html title=widget_title content=widget_content %} {% endcomment %}
 
 {% capture widget_title %}
   <a href="http://www.spore.com/sporepedia#qry=ssc-501057576550" rel="external" target="_blank">
