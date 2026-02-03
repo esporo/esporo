@@ -8,7 +8,7 @@ tags:
   - comunidade
 ---
 
-O time de _Spore_ reassumiu o controle da página do jogo no Facebook depois de quinze anos de inatividade. A página na rede social foi atualizada no dia 30 de janeiro com uma nova capa e um anúncio explicando o que está acontecendo e o que esperar:
+O time de _Spore_ reassumiu o controle da [página do jogo no Facebook](https://www.facebook.com/spore) depois de quinze anos de inatividade. A página na rede social foi atualizada no dia 30 de janeiro com uma nova capa e [um anúncio](https://www.facebook.com/Spore/posts/pfbid08fm1VjxarDBTBcpSR2JYbQHExxHDszm7y8jhMYUf11PsiYqCH9xXzKhVAp2y4YMGl) explicando o que está acontecendo e o que esperar:
 
 > Amigos e queridos criadores, saudações do time de Spore! Nós estamos empolgados em começar o ano com um convite para nos reconectarmos com a gente e com a Comunidade Spore através da nossa página no Facebook. Aqui vocês vão encontrar atualizações sobre nossos concursos da comunidade, informações importantes sobre a manutenção do jogo, além de destaques das criações incríveis feitas por vocês, nossos jogadores.
 >
