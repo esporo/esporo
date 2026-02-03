@@ -2,6 +2,8 @@
 layout: post
 date: "2026-02-03 10:25:00 -0300"
 title: Time de Spore reassume controle da página no Facebook
+comments: true
+discussion_url: "https://forum.esporo.net/embed/110"
 category: Galáxia Spore
 tags:
   - Spore

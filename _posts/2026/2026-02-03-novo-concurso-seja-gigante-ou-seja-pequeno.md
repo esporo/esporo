@@ -2,6 +2,8 @@
 layout: post
 date: "2026-02-03 10:37:00 -0300"
 title: 'Novo concurso: “Seja GIGANTE… ou seja pequeno”'
+comments: true
+discussion_url: "https://forum.esporo.net/embed/111"
 category: Sporepédia
 tags:
   - Spore
