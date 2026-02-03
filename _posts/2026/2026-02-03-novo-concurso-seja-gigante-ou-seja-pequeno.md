@@ -5,6 +5,7 @@ title: 'Novo concurso: “Seja GIGANTE… ou seja pequeno”'
 category: Sporepédia
 tags:
   - Spore
+  - comunidade
   - concursos
 ---
 
