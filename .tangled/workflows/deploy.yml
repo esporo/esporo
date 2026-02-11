@@ -25,4 +25,4 @@ steps:
     command: "bundle exec jekyll build"
 
   - name: "Deploy to Cloudflare Pages"
-    command: "npx wrangler pages deploy _site --project-name=esporo --branch=main"
+    command: "npx wrangler pages deploy _site --project-name=esporonet --branch=main"
