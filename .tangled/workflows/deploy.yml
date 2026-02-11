@@ -1,0 +1,24 @@
+when:
+  - event: ["push"]
+    branch: ["main"]
+
+engine: "nixery"
+
+clone:
+  depth: 1
+
+dependencies:
+  nixpkgs:
+    - ruby_3_4
+    - bundler
+    - nodejs_22
+
+steps:
+  - name: "Install gems"
+    command: "bundle install"
+
+  - name: "Build site"
+    command: "bundle exec jekyll build"
+
+  - name: "Deploy to Cloudflare Pages"
+    command: "npx wrangler pages deploy _site --project-name=esporo"
