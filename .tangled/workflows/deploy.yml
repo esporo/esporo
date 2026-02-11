@@ -9,9 +9,13 @@ clone:
 
 dependencies:
   nixpkgs:
-    - ruby_3_4
+    - ruby_3_3
     - bundler
     - nodejs_22
+    - gcc
+    - gnumake
+    - openssl
+    - pkg-config
 
 steps:
   - name: "Install gems"
