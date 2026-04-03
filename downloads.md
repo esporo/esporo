@@ -22,7 +22,7 @@ Baixe os instaladores dos patches de atualização para a versão em disco do Sp
 
 Baixe as ferramentas para criação de modificações, exemplos de como usar o Spore API e as ferramentas de desautorização fornecidas pela Electronic Arts para a versão em disco do Spore.
 
----
+***
 
 ## [Downloads diversos](/downloads/miscelanea/)
 
