@@ -6,11 +6,12 @@ tags:
 - Spore
 - comunidade
 - concursos
+image: uploads/2026/07/contest_july2026.png
 date: 2026-07-17 10:57 -0300
 ---
 Um novo concurso oficial do SPORE está começando no canal oficial do jogo no Discord. Dessa vez, o tema são criaturas inspiradas na vida litorânea. Dê uma olhada no anúncio e nas regras abaixo e siga para o Discord para participar do concurso. Os vencedores terão suas criações destacadas na Sporepédia e todos os participantes serão adicionados ao sporecast do concurso.
 
-![Imagem ilustrativa do concurso, com um resumo das regras que são descritas abaixo]({% link uploads/2026/07/contest_july2026.jpg %})
+![Imagem ilustrativa do concurso, com um resumo das regras que são descritas abaixo]({% link uploads/2026/07/contest_july2026.png %})
 
 ***
 
