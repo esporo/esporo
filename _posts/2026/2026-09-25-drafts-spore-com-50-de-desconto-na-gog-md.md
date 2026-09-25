@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _drafts/spore-com-50-de-desconto-na-gog.md
+title: Spore com 50% de desconto na GOG
 date: 2026-09-25 12:29 -0300
 category: Galáxia Spore
 tags:
