@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang }}">
+  <head>
+    <meta charset="{{ site.encoding | default: 'utf-8' }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% seo %}
+    {% feed_meta %}
+    {% json_feed_meta %}
+  </head>
+  <body>
+    <div id="page">
+      {% include header.html %}
+
+      <main class="site-content">
+        {{ content }}
+      </main>
+
+      {% include footer.html %}
+    </div>
+  </body>
+</html>

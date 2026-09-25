@@ -4,6 +4,7 @@ tagline: A comunidade brasileira de Spore
 description: >-
   Comunidade para jogadores de Spore, com conteúdos personalizados para download; tutoriais; fóruns de discussão e suporte; e as últimas notícias sobre o jogo.
 logo: "/assets/images/logo.png"
+
 lang: pt-BR
 timezone: "America/Sao_Paulo"
 
@@ -12,57 +13,10 @@ url: "https://esporo.net"
 baseurl: ""
 
 # Build settings
-plugins:
-  - jekyll-redirect-from
-
-theme: jekyll-theme-bean
 permalink: "/:year/:month/:title/"
 
-# Tema
-bean:
-  #  show_excerpts: true
-  copyright_notice: >-
-    Spore, Darkspore e Maxis são marcas registradas da Electronic Arts.
-  date_formats:
-    day: "%d/%m/%Y"
-    month: "%m/%Y"
-    year: "%Y"
-  translations:
-    jump_to_navigation: "Pular para a navegação"
-    jump_to_content: "Pular para o conteúdo"
-    archive_date_title: "Posts em %s"
-    archive_tag_title: "Posts com a tag “%s”"
-    archive_category_title: "Posts arquivados em “%s”"
-    post_tagged_with: "Mais sobre:"
-    blog_pagination_title: "Paginação do blog"
-    blog_pagination_next_page: "Posts anteriores"
-    blog_pagination_prev_page: "Próximos posts"
-
-# Menu
-main_menu:
-  title: Navegar
-  items:
-    - label: Notícias
-      path: /
-    - label: Fórum
-      path: https://forum.esporo.net
-    - label: Guia Galáctico
-      path: https://guia.esporo.net
-    - label: Dicas e Truques
-      path: /dicas/
-    - label: Downloads
-      path: /downloads/
-    - label: Sobre
-      path: /sobre/
-
-footer_menu:
-  title: Redes sociais
-  items:
-    - label: Discord
-      path: https://discord.gg/vjCBuFy3g8
-    - label: YouTube
-      path: https://youtube.com/esporotv
-
-# Plugin: jekyll-paginate
-paginate: 6
-paginate_path: "/pagina/:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-json-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
