@@ -1,1 +1,39 @@
-<header class="site-header"></header>
+{%- capture site_branding -%}
+  <a class="site-home-link p-name u-url" href="{{ '/' | absolute_url }}" rel="home">
+    {%- if site.logo %}
+      <img class="u-photo" src="{{ site.logo }}" alt="{{ site.title }}" />
+    {% else %}
+      {{ site.title }}
+    {% endif -%}
+  </a>
+{%- endcapture -%}
+
+<header class="site-header">
+  {%- if page.title and page.title != "" %}
+    <div class="site-title h-card">
+      {{ site_branding }}
+    </div>
+  {% else %}
+    <h1 class="site-title h-card">
+      {{ site_branding }}
+    </h1>
+  {% endif -%}
+
+  {%- if site.menu %}
+    <nav id="main_menu" class="site-menu">
+      <h2 class="menu-title a11y-text">
+        {{ site.menu.title | default: "Main menu" }}
+      </h2>
+
+      {%- for menu_item in site.menu.items %}
+        <a
+          class="menu-item"
+          {%- if menu_item.external %} target="_blank" {% endif %}
+          {% if menu_item.rel %} rel="{{ menu_item.rel }}" {% endif %}
+        >
+          {{ menu_item.label }}
+        </a>
+      {% endfor -%}
+    </nav>
+  {% endif -%}
+</header>
