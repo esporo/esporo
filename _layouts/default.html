@@ -9,10 +9,24 @@
     {% json_feed_meta %}
   </head>
   <body>
+    <nav class="a11y-only">
+      <h2>{{ site.a11y_labels.nav | default: "Jump to:" }}</h2>
+
+      {%- if site.menu %}
+        <a href="#main_menu">
+          {{- site.menu.title -}}
+        </a>
+      {% endif -%}
+
+      <a href="#site_content">
+        {{- site.a11y_labels.content | default: "Site content" -}}
+      </a>
+    </nav>
+
     <div id="page">
       {% include header.html %}
 
-      <main class="site-content">
+      <main id="site_content" class="site-content">
         {{ content }}
       </main>
 
