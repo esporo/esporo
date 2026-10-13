@@ -20,9 +20,9 @@
   {% endif -%}
 
   {%- if site.menu %}
-    <nav id="main_menu" class="site-menu">
+    <nav id="menu" class="site-menu">
       <h2 class="menu-title a11y-text">
-        {{ site.menu.title | default: "Main menu" }}
+        {{- site.menu.title | default: "Main menu" -}}
       </h2>
 
       {%- for menu_item in site.menu.items %}

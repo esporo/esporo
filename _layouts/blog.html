@@ -1,3 +1,79 @@
 ---
 layout: default
 ---
+
+{% assign posts = site.posts %}
+{% assign is_archive = false %}
+
+{% if paginator.posts %}
+  {% assign posts = paginator.posts %}
+{% elsif page.posts %}
+  {% assign posts = page.posts %}
+  {% assign is_archive = "archive" %}
+{% endif %}
+
+<div class="blog-list {{ is_archive }} h-feed">
+  {% if is_archive %}
+    {% if page.type == "year" %}
+      {% assign archive_title = page.date | date: site.date_format.year %}
+    {% elsif page.type == "month" %}
+      {% assign archive_title = page.date | date: site.date_format.month %}
+    {% elsif page.type == "day" %}
+      {% assign archive_title = page.date | date: site.date_format.day %}
+    {% else %}
+      {% assign archive_title = page.title %}
+    {% endif %}
+    <header class="archive-header">
+      <h1 class="archive-title p-name">
+        {{- archive_title -}}
+      </h1>
+    </header>
+  {% endif %}
+
+  {% for post in posts %}
+    <article class="post h-entry">
+      <header class="post-header">
+        <h2 class="post-title p-name">
+          <a class="post-title-link" href="{{ post.url | relative_url }}" rel="bookmark">
+            {{ post.title }}
+          </a>
+        </h2>
+
+        <div class="post-meta">
+          <a class="post-permalink u-url" href="{{ post.url | relative_url }}" rel="bookmark">
+            <time class="post-date dt-published" datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: site.date_format.day }}
+            </time>
+          </a>
+        </div>
+      </header>
+
+      {% if post.image %}
+        <a class="post-image-container" href="{{ post.url | relative_url }}">
+          <img
+            class="post-image u-photo"
+            src="{{ post.image.path | default: post.image }}"
+            alt="{{ post.image.alt | default: '' }}"
+          />
+        </a>
+      {% endif %}
+
+      {% unless is_archive %}
+        <div class="post-content e-content">
+          {{ post.content }}
+        </div>
+
+        <footer class="post-footer">
+          {% if post.author or site.author %}
+            {% assign author = post.author | default: site.author %}
+
+            {% if site.data.authors[post.author] %}
+              {% assign author = site.data.authors[post.author] %}
+            {% endif %}
+          {% endif %}
+        </footer>
+      {% endunless %}
+    </article>
+  {% endfor  %}
+
+</div>
