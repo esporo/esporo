@@ -76,4 +76,24 @@ layout: default
     </article>
   {% endfor  %}
 
+  {% if paginator.total_pages > 1 %}
+    <nav class="blog-pagination">
+      <h2 class="menu-title a11y-text">
+        {{- site.a11y_labels.blog_pagination | default: 'Navigate through the archives:' -}}
+      </h2>
+
+      {% if paginator.previous_page %}
+        <a class="nav-link _prev" href="{{ paginator.previous_page_path }}" rel="prev">
+          {{ site.a11y_labels.previous_page | default: "« Previous page" }}
+        </a>
+      {% endif %}
+
+      {% if paginator.next_page %}
+        <a class="nav-link _next" href="{{ paginator.next_page_path }}" rel="next">
+          {{ site.a11y_labels.next_page | default: "Next page »" }}
+        </a>
+      {% endif %}
+    </nav>
+  {% endif %}
+
 </div>
