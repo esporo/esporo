@@ -8,6 +8,8 @@ tags:
 - concursos
 - comunidade
 date: 2026-10-22 10:12 -0300
+comments: true
+discussion_url: "https://forum.esporo.net/embed/116"
 ---
 Procurando coisas para fazer no Halloween o mês inteiro? O evento da comunidade [SPORETOBER2026][sporetober2026] está a todo vapor! Participe e enfrente alguns prompts assustadores!
 
